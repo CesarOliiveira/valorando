@@ -1,0 +1,5631 @@
+[
+  {
+    "id": "ares-celestial",
+    "name": "Ares Celestial",
+    "weaponId": "ares",
+    "collection": {
+      "id": "celestial",
+      "name": "Celestial"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/d21e2975-4586-635c-3fe4-e6be738243b3.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ares-floreterea",
+    "name": "Ares Floretérea",
+    "weaponId": "ares",
+    "collection": {
+      "id": "floreterea",
+      "name": "Floretérea"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/c976f29d-4a83-3a40-2907-8dadbb7c5940.webp",
+    "variants": [
+      "Ares Floretérea Nível 4 (Variante 1 Azul)",
+      "Ares Floretérea Nível 4 (Variante 2 Laranja)",
+      "Ares Floretérea Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ares-heroi-valoroso",
+    "name": "Ares Herói Valoroso",
+    "weaponId": "ares",
+    "collection": {
+      "id": "heroi-valoroso",
+      "name": "Herói Valoroso"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/26bb8b5c-4b3f-e0f6-39f7-bfa6eae59c00.webp",
+    "variants": [
+      "Ares Herói Valoroso Nível 4 (Variante 1 Pôr do Sol)",
+      "Ares Herói Valoroso Nível 4 (Variante 2 Crepúsculo)",
+      "Ares Herói Valoroso Nível 4 (Variante 3 Noite)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ares-ion",
+    "name": "Ares Íon",
+    "weaponId": "ares",
+    "collection": {
+      "id": "ion",
+      "name": "Íon"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/0f4b0478-4759-911d-c44b-2a907534789d.webp",
+    "variants": [
+      "Ares Íon Nível 4 (Variante 1 Verde)",
+      "Ares Íon Nível 4 (Variante 2 Amarela)",
+      "Ares Íon Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ares-magipunk",
+    "name": "Ares Magipunk",
+    "weaponId": "ares",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/0fac1dcf-48d0-c6c4-675e-2a8013bc879c.webp",
+    "variants": [
+      "Ares Magipunk Nível 4 (Variante 1 Verde)",
+      "Ares Magipunk Nível 4 (Variante 2 Rosa)",
+      "Ares Magipunk Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "ares-nebulosa",
+    "name": "Ares Nebulosa",
+    "weaponId": "ares",
+    "collection": {
+      "id": "nebulosa",
+      "name": "Nebulosa"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/ac65b631-4bd1-b0fa-3313-0da74d4eba9d.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ares-oni",
+    "name": "Ares Oni",
+    "weaponId": "ares",
+    "collection": {
+      "id": "oni",
+      "name": "Oni"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/759bca71-4764-19f8-8890-239eedb78fa3.webp",
+    "variants": [
+      "Ares Oni Nível 4 (Variante 1 Kumo)",
+      "Ares Oni Nível 4 (Variante 2 Hana)",
+      "Ares Oni Nível 4 (Variante 3 Tsubame)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "ares-pinaculo-sombrio",
+    "name": "Ares Pináculo Sombrio",
+    "weaponId": "ares",
+    "collection": {
+      "id": "pinaculo-sombrio",
+      "name": "Pináculo Sombrio"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/80bb82f9-4891-7340-c8d8-7daac5567ee2.webp",
+    "variants": [
+      "Ares Pináculo Sombrio Nível 4 (Variante 1 Roxa)",
+      "Ares Pináculo Sombrio Nível 4 (Variante 2 Vermelha)",
+      "Ares Pináculo Sombrio Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ares-rabisquinhos",
+    "name": "Ares Rabisquinhos",
+    "weaponId": "ares",
+    "collection": {
+      "id": "rabisquinhos",
+      "name": "Rabisquinhos"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/35beb433-425e-7072-7ac3-9ca95d1d1fd9.webp",
+    "variants": [
+      "Ares Rabisquinhos Nível 2 (Variante 1 Missão Animal)",
+      "Ares Rabisquinhos Nível 2 (Variante 2 League of Legends)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ares-sentinelas-da-luz",
+    "name": "Ares Sentinelas da Luz",
+    "weaponId": "ares",
+    "collection": {
+      "id": "sentinelas-da-luz",
+      "name": "Sentinelas da Luz"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/9f3e2ba6-428f-c635-67e0-b8b7d9e3c2fc.webp",
+    "variants": [
+      "Ares Sentinelas da Luz Nível 4 (Variante 1 Rosa)",
+      "Ares Sentinelas da Luz Nível 4 (Variante 2 Vermelha/Verde)",
+      "Ares Sentinelas da Luz Nível 4 (Variante 3 Azul/Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "ares-singularidade",
+    "name": "Ares Singularidade",
+    "weaponId": "ares",
+    "collection": {
+      "id": "singularidade",
+      "name": "Singularidade"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/e901bdeb-405f-d06c-0733-6783274d85b0.webp",
+    "variants": [
+      "Ares Singularidade Nível 4 (Variante 1 Azul)",
+      "Ares Singularidade Nível 4 (Variante 2 Vermelha)",
+      "Ares Singularidade Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "ares-valorant-go-vol-2",
+    "name": "Ares VALORANT GO! Vol. 2",
+    "weaponId": "ares",
+    "collection": {
+      "id": "valorant-go-vol-2",
+      "name": "VALORANT GO! Vol. 2"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/e9fce399-4abc-bb3c-8992-f887918ce327.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ares-vinganca-de-gaia",
+    "name": "Ares Vingança de Gaia",
+    "weaponId": "ares",
+    "collection": {
+      "id": "vinganca-de-gaia",
+      "name": "Vingança de Gaia"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/1e5ee5bf-43d5-28ee-b2f7-96a53b783dc2.webp",
+    "variants": [
+      "Ares Vingança de Gaia Nível 4 (Variante 1 Azul)",
+      "Ares Vingança de Gaia Nível 4 (Variante 2 Verde)",
+      "Ares Vingança de Gaia Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bandit-aeris",
+    "name": "Bandit Aeris",
+    "weaponId": "bandit",
+    "collection": {
+      "id": "aeris",
+      "name": "Aeris"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/f3333480-459f-cc15-da7a-34869a8fc9df.webp",
+    "variants": [
+      "Bandit Aeris Nível 4 (Variante 1 Vermelha)",
+      "Bandit Aeris Nível 4 (Variante 2 Rosa)",
+      "Bandit Aeris Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bandit-renegado",
+    "name": "Bandit Renegado",
+    "weaponId": "bandit",
+    "collection": {
+      "id": "renegado",
+      "name": "Renegado"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/902a3bcb-4164-3315-fe03-2088fb897ce4.webp",
+    "variants": [
+      "Bandit Renegado Nível 4 (Variante 1 Verde)",
+      "Bandit Renegado Nível 4 (Variante 2 Vermelha)",
+      "Bandit Renegado Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bandit-saqueador",
+    "name": "Bandit Saqueador",
+    "weaponId": "bandit",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/ff766c80-4c4a-269d-2164-3ebb341de27a.webp",
+    "variants": [
+      "Bandit Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Bandit Saqueador Nível 4 (Variante 2 Preta)",
+      "Bandit Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-aemondir",
+    "name": "Bucky Aemondir",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "aemondir",
+      "name": "Aemondir"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/ce298668-4034-ebe2-3324-67963d4d3629.webp",
+    "variants": [
+      "Bucky Aemondir Nível 3 (Variante 1 Prata)",
+      "Bucky Aemondir Nível 3 (Variante 2 Bronze)",
+      "Bucky Aemondir Nível 3 (Variante 3 Obsidiana)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bucky-anti-radio-materia-atomizador",
+    "name": "Bucky Anti-Radio-Matéria Atomizador",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "anti-radio-materia-atomizador",
+      "name": "Anti-Radio-Matéria Atomizador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/0dc9a874-41c5-e582-9a36-37946043346c.webp",
+    "variants": [
+      "Bucky Anti-Radio-Matéria Atomizador Nível 2 (Variante 1 Cromada)",
+      "Bucky Anti-Radio-Matéria Atomizador Nível 2 (Variante 2 Preta)",
+      "Bucky Anti-Radio-Matéria Atomizador Nível 2 (Variante 3 Vermelha/Azul)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-crise-radiante-001",
+    "name": "Bucky Crise Radiante 001",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "crise-radiante-001",
+      "name": "Crise Radiante 001"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/31072cda-4041-b4f0-119a-3692ea598321.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-ion",
+    "name": "Bucky Íon",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "ion",
+      "name": "Íon"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/31f6f214-4379-749a-9285-04a5561e2d03.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-magipunk",
+    "name": "Bucky Magipunk",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/5ac14aef-41cc-a0c8-895f-e1a69b33aeff.webp",
+    "variants": [
+      "Bucky Magipunk Nível 4 (Variante 1 Verde)",
+      "Bucky Magipunk Nível 4 (Variante 2 Roxa)",
+      "Bucky Magipunk Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-oni",
+    "name": "Bucky Oni",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "oni",
+      "name": "Oni"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/7da96a2a-43ce-91c2-28f9-0c95529d133e.webp",
+    "variants": [
+      "Bucky Oni Nível 4 (Variante 1 Kumo)",
+      "Bucky Oni Nível 4 (Variante 2 Hana)",
+      "Bucky Oni Nível 4 (Variante 3 Tsubame)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-origem",
+    "name": "Bucky Origem",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "origem",
+      "name": "Origem"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/96495eb3-40db-cb5b-1c69-17a3dde58ee3.webp",
+    "variants": [
+      "Bucky Origem Nível 4 (Variante 1 Verde)",
+      "Bucky Origem Nível 4 (Variante 2 Vermelha)",
+      "Bucky Origem Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-renegado",
+    "name": "Bucky Renegado",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "renegado",
+      "name": "Renegado"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/ea3e6c8a-4e5e-baf9-33c3-7abacf07aaee.webp",
+    "variants": [
+      "Bucky Renegado Nível 4 (Variante 1 Verde)",
+      "Bucky Renegado Nível 4 (Variante 2 Vermelha)",
+      "Bucky Renegado Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bucky-sobrecarga",
+    "name": "Bucky Sobrecarga",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "sobrecarga",
+      "name": "Sobrecarga"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4fca7cd4-48b6-130f-01fc-fa87974bb622.webp",
+    "variants": [
+      "Bucky Sobrecarga Nível 4 (Variante 1 Cobalto)",
+      "Bucky Sobrecarga Nível 4 (Variante 2 Chiclete)",
+      "Bucky Sobrecarga Nível 4 (Variante 3 Ônix)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bucky-sublime-2-0",
+    "name": "Bucky Sublime//2.0",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "sublime-2-0",
+      "name": "Sublime//2.0"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/89eebdb1-4df6-0a1d-8988-f495cca4badb.webp",
+    "variants": [
+      "Bucky Sublime//2.0 Nível 4 (Variante 1 Dourada)",
+      "Bucky Sublime//2.0 Nível 4 (Variante 2 Verde)",
+      "Bucky Sublime//2.0 Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-vinganca-de-gaia",
+    "name": "Bucky Vingança de Gaia",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "vinganca-de-gaia",
+      "name": "Vingança de Gaia"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/892b5053-4c0b-149e-38d0-c3a8d6f24384.webp",
+    "variants": [
+      "Bucky Vingança de Gaia Nível 4 (Variante 1 Azul)",
+      "Bucky Vingança de Gaia Nível 4 (Variante 2 Verde)",
+      "Bucky Vingança de Gaia Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bucky-xenocacador",
+    "name": "Bucky Xenocaçador",
+    "weaponId": "bucky",
+    "collection": {
+      "id": "xenocacador",
+      "name": "Xenocaçador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/0666931c-4580-efd0-af47-afb9f2f72e55.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-aemondir",
+    "name": "Bulldog Aemondir",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "aemondir",
+      "name": "Aemondir"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a12db8be-4f3f-b7b6-5f70-92add35b956e.webp",
+    "variants": [
+      "Bulldog Aemondir Nível 3 (Variante 1 Prata)",
+      "Bulldog Aemondir Nível 3 (Variante 2 Bronze)",
+      "Bulldog Aemondir Nível 3 (Variante 3 Obsidiana)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-araxys",
+    "name": "Bulldog Araxys",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "araxys",
+      "name": "Araxys"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/26d0c312-46c2-1912-302a-b7b8f62640ca.webp",
+    "variants": [
+      "Bulldog Araxys Nível 4 (Variante 1 Roxa)",
+      "Bulldog Araxys Nível 4 (Variante 2 Preta)",
+      "Bulldog Araxys Nível 4 (Variante 3 Prata)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-criostase",
+    "name": "Bulldog Criostase",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "criostase",
+      "name": "Criostase"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/d832f94c-4490-176e-c625-c3a1130cea19.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bulldog-espectro",
+    "name": "Bulldog Espectro",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "espectro",
+      "name": "Espectro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/fbe04552-445f-f202-923e-6fbd61b7e2aa.webp",
+    "variants": [
+      "Bulldog Espectro Nível 4 (Variante 1 Preta)",
+      "Bulldog Espectro Nível 4 (Variante 2 Vermelha)",
+      "Bulldog Espectro Nível 4 (Variante 3 Roxa/Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bulldog-glitchpop",
+    "name": "Bulldog Glitchpop",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "glitchpop",
+      "name": "Glitchpop"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/285c6731-4451-b930-7a3d-c5a736d00f5e.webp",
+    "variants": [
+      "Bulldog Glitchpop Nível 4 (Variante 1 Azul)",
+      "Bulldog Glitchpop Nível 4 (Variante 2 Vermelha)",
+      "Bulldog Glitchpop Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bulldog-mercado-clandestino",
+    "name": "Bulldog Mercado.Clandestino",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "mercado-clandestino",
+      "name": "Mercado.Clandestino"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/1cbbdd73-4b22-4faa-acd0-0a9d6ea1963f.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-netuno",
+    "name": "Bulldog Netuno",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "netuno",
+      "name": "Netuno"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/8c6f8399-447b-a7de-7c93-b69273b054ac.webp",
+    "variants": [
+      "Bulldog Netuno Nível 3 (Variante 1 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-nocturnum",
+    "name": "Bulldog Nocturnum",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "nocturnum",
+      "name": "Nocturnum"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/970e24f7-41df-3ebb-c668-61a180d9d2f2.webp",
+    "variants": [
+      "Bulldog Nocturnum Nível 4 (Variante 1 Preta)",
+      "Bulldog Nocturnum Nível 4 (Variante 2 Azul)",
+      "Bulldog Nocturnum Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-oni",
+    "name": "Bulldog Oni",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "oni",
+      "name": "Oni"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/325d2274-487b-8672-84d6-6db8e9798447.webp",
+    "variants": [
+      "Bulldog Oni Nível 4 (Variante 1 Kumo)",
+      "Bulldog Oni Nível 4 (Variante 2 Hana)",
+      "Bulldog Oni Nível 4 (Variante 3 Tsubame)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bulldog-preludio-do-caos",
+    "name": "Bulldog Prelúdio do Caos",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "preludio-do-caos",
+      "name": "Prelúdio do Caos"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/c5676fb6-4268-d5bd-f2f7-f3a1334ca8b8.webp",
+    "variants": [
+      "Bulldog Prelúdio do Caos Nível 4 (Variante 1 Verde)",
+      "Bulldog Prelúdio do Caos Nível 4 (Variante 2 Branca)",
+      "Bulldog Prelúdio do Caos Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-protecao-fasica",
+    "name": "Bulldog Proteção Fásica",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "protecao-fasica",
+      "name": "Proteção Fásica"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/b6ba04a0-4c06-6bfe-2f03-a393be1544a9.webp",
+    "variants": [
+      "Bulldog Proteção Fásica Nível 4 (Variante 1 Azul)",
+      "Bulldog Proteção Fásica Nível 4 (Variante 2 Preta)",
+      "Bulldog Proteção Fásica Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-protocolo-781-a",
+    "name": "Bulldog Protocolo 781-A",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "protocolo-781-a",
+      "name": "Protocolo 781-A"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/1daefbff-4581-aef3-5ed6-da894d7e4cc7.webp",
+    "variants": [
+      "Bulldog Protocolo 781-A Nível 5 (Variante 1 Branca/Rosa)",
+      "Bulldog Protocolo 781-A Nível 5 (Variante 2 Vermelha/Azul)",
+      "Bulldog Protocolo 781-A Nível 5 (Variante 3 Verde)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "bulldog-radiant-entertainment-system",
+    "name": "Bulldog Radiant Entertainment System",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "radiant-entertainment-system",
+      "name": "Radiant Entertainment System"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/e8bf5459-4789-f9bd-bfd1-c5bcafec96a6.webp",
+    "variants": [
+      "Bulldog Radiant Entertainment System Nível 4 (Variante 1 Dance Fever)",
+      "Bulldog Radiant Entertainment System Nível 4 (Variante 2 K.nock O.ut!!)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "bulldog-suburbano",
+    "name": "Bulldog Suburbano",
+    "weaponId": "bulldog",
+    "collection": {
+      "id": "suburbano",
+      "name": "Suburbano"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/4be8d0e7-48e0-eaa3-1db4-85a14094f369.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-anti-radio-materia-atomizador",
+    "name": "Classic Anti-Radio-Matéria Atomizador",
+    "weaponId": "classic",
+    "collection": {
+      "id": "anti-radio-materia-atomizador",
+      "name": "Anti-Radio-Matéria Atomizador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/81ddbfcd-4081-8341-ff76-ad8cdb26ce4c.webp",
+    "variants": [
+      "Classic Anti-Radio-Matéria Atomizador Nível 2 (Variante 1 Cromada)",
+      "Classic Anti-Radio-Matéria Atomizador Nível 2 (Variante 2 Preta)",
+      "Classic Anti-Radio-Matéria Atomizador Nível 2 (Variante 3 Vermelha/Azul)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "classic-criostase",
+    "name": "Classic Criostase",
+    "weaponId": "classic",
+    "collection": {
+      "id": "criostase",
+      "name": "Criostase"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/edb386a1-4d02-4fd0-2f84-f8bf6434e5c4.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "classic-crise-radiante-001",
+    "name": "Classic Crise Radiante 001",
+    "weaponId": "classic",
+    "collection": {
+      "id": "crise-radiante-001",
+      "name": "Crise Radiante 001"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a95d08be-4e56-1189-801b-d9aa4efe32fa.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "classic-divergencia",
+    "name": "Classic Divergência",
+    "weaponId": "classic",
+    "collection": {
+      "id": "divergencia",
+      "name": "Divergência"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/7da50c2f-4358-98b6-b0fd-c6afb207f391.webp",
+    "variants": [
+      "Classic Divergência Nível 4 (Variante 1 Roxa)",
+      "Classic Divergência Nível 4 (Variante 2 Azul)",
+      "Classic Divergência Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-espectro",
+    "name": "Classic Espectro",
+    "weaponId": "classic",
+    "collection": {
+      "id": "espectro",
+      "name": "Espectro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/46f32f75-4fc8-7121-8a77-db8db43afc67.webp",
+    "variants": [
+      "Classic Espectro Nível 4 (Variante 1 Preta)",
+      "Classic Espectro Nível 4 (Variante 2 Vermelha)",
+      "Classic Espectro Nível 4 (Variante 3 Roxa/Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "classic-glitchpop",
+    "name": "Classic Glitchpop",
+    "weaponId": "classic",
+    "collection": {
+      "id": "glitchpop",
+      "name": "Glitchpop"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/8b2598eb-4db9-6338-4a25-c780402c780e.webp",
+    "variants": [
+      "Classic Glitchpop Nível 4 (Variante 1 Azul)",
+      "Classic Glitchpop Nível 4 (Variante 2 Vermelha)",
+      "Classic Glitchpop Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "classic-lugubre",
+    "name": "Classic Lúgubre",
+    "weaponId": "classic",
+    "collection": {
+      "id": "lugubre",
+      "name": "Lúgubre"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/c612138e-4007-6d0c-64ad-3690c65ee4a7.webp",
+    "variants": [
+      "Classic Lúgubre Nível 4 (Variante 1 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "classic-mercado-clandestino",
+    "name": "Classic Mercado.Clandestino",
+    "weaponId": "classic",
+    "collection": {
+      "id": "mercado-clandestino",
+      "name": "Mercado.Clandestino"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a6b46cef-4ed2-79e4-d49a-459180cdbd23.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-netuno",
+    "name": "Classic Netuno",
+    "weaponId": "classic",
+    "collection": {
+      "id": "netuno",
+      "name": "Netuno"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/97d19265-4fa2-70ef-5f8c-6b9f03860705.webp",
+    "variants": [
+      "Classic Netuno Nível 3 (Variante 1 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-nocturnum",
+    "name": "Classic Nocturnum",
+    "weaponId": "classic",
+    "collection": {
+      "id": "nocturnum",
+      "name": "Nocturnum"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/051f5a50-4b95-9452-f18a-a1add8266757.webp",
+    "variants": [
+      "Classic Nocturnum Nível 4 (Variante 1 Preta)",
+      "Classic Nocturnum Nível 4 (Variante 2 Azul)",
+      "Classic Nocturnum Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-rgx-11z-pro",
+    "name": "Classic RGX 11z Pro",
+    "weaponId": "classic",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/111680fd-4562-f658-af1c-ed8f9cfe9f9c.webp",
+    "variants": [
+      "Classic RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Classic RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Classic RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "classic-roseiral-sombrio",
+    "name": "Classic Roseiral Sombrio",
+    "weaponId": "classic",
+    "collection": {
+      "id": "roseiral-sombrio",
+      "name": "Roseiral Sombrio"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/66668fb4-4143-bcf9-fd35-b39d93a13257.webp",
+    "variants": [
+      "Classic Roseiral Sombrio Nível 4 (Variante 1 Dourada)",
+      "Classic Roseiral Sombrio Nível 4 (Variante 2 Azul)",
+      "Classic Roseiral Sombrio Nível 4 (Variante 3 Espinheiro Roxo)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-spline",
+    "name": "Classic Spline",
+    "weaponId": "classic",
+    "collection": {
+      "id": "spline",
+      "name": "Spline"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/750d4f04-4fea-391b-fa8b-539815a63164.webp",
+    "variants": [
+      "Classic Spline (Variante 1 Verde)",
+      "Classic Spline (Variante 2 Vermelha)",
+      "Classic Spline (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-sublime",
+    "name": "Classic Sublime",
+    "weaponId": "classic",
+    "collection": {
+      "id": "sublime",
+      "name": "Sublime"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/d653f4a7-4e92-2559-0a97-2c9d46d009b3.webp",
+    "variants": [
+      "Classic Sublime Nível 4 (Variante 1 Laranja)",
+      "Classic Sublime Nível 4 (Variante 2 Azul)",
+      "Classic Sublime Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "classic-suburbano",
+    "name": "Classic Suburbano",
+    "weaponId": "classic",
+    "collection": {
+      "id": "suburbano",
+      "name": "Suburbano"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/ac14dca7-408b-7e8f-8ed0-99b8ed1ffe98.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-valorant-go-vol-2",
+    "name": "Classic VALORANT GO! Vol. 2",
+    "weaponId": "classic",
+    "collection": {
+      "id": "valorant-go-vol-2",
+      "name": "VALORANT GO! Vol. 2"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/b06e13ff-4f19-c750-ffcd-8084dfc3bbf5.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "classic-vinganca-de-dolmir",
+    "name": "Classic Vingança de Dolmir",
+    "weaponId": "classic",
+    "collection": {
+      "id": "vinganca-de-dolmir",
+      "name": "Vingança de Dolmir"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2136523c-4847-30e8-2e19-b381be7afac4.webp",
+    "variants": [
+      "Classic Vingança de Dolmir Nível 4 (Variante 1 Obsidiana)",
+      "Classic Vingança de Dolmir Nível 4 (Variante 2 Musgo)",
+      "Classic Vingança de Dolmir Nível 4 (Variante 3 Gelo)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "frenzy-ancifogo",
+    "name": "Frenzy Ancifogo",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "ancifogo",
+      "name": "Ancifogo"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/4fb9ea7d-45a6-9154-7a46-648781b081c4.webp",
+    "variants": [
+      "Frenzy Ancifogo Nível 4 (Variante 1 Vermelha)",
+      "Frenzy Ancifogo Nível 4 (Variante 2 Azul)",
+      "Frenzy Ancifogo Nível 4 (Variante 3 Escura)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-blastx",
+    "name": "Frenzy BlastX",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "blastx",
+      "name": "BlastX"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/79005812-4d5c-cc6d-e2bd-19bc86c29349.webp",
+    "variants": [
+      "Frenzy BlastX Nível 4 (Variante 1 Preta)",
+      "Frenzy BlastX Nível 4 (Variante 2 Amarela)",
+      "Frenzy BlastX Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-celestial",
+    "name": "Frenzy Celestial",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "celestial",
+      "name": "Celestial"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/307dbbc2-442d-b92b-0af2-278a8505672a.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "frenzy-eletrizante",
+    "name": "Frenzy Eletrizante",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "eletrizante",
+      "name": "Eletrizante"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/037b8cde-4a42-20c3-c6d5-e39aa37f9ee2.webp",
+    "variants": [
+      "Frenzy Eletrizante Nível 4 (Variante 1 Vermelha)",
+      "Frenzy Eletrizante Nível 4 (Variante 2 Preta)",
+      "Frenzy Eletrizante Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-glitchpop",
+    "name": "Frenzy Glitchpop",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "glitchpop",
+      "name": "Glitchpop"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5596d764-4b62-210b-59db-7982e9d4c23f.webp",
+    "variants": [
+      "Frenzy Glitchpop Nível 4 (Variante 1 Azul)",
+      "Frenzy Glitchpop Nível 4 (Variante 2 Vermelha)",
+      "Frenzy Glitchpop Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-ion",
+    "name": "Frenzy Íon",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "ion",
+      "name": "Íon"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/906dcda9-477a-6d09-f85d-599ccb86e168.webp",
+    "variants": [
+      "Frenzy Íon Nível 4 (Variante 1 Verde)",
+      "Frenzy Íon Nível 4 (Variante 2 Amarela)",
+      "Frenzy Íon Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "frenzy-oni",
+    "name": "Frenzy Oni",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "oni",
+      "name": "Oni"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/7a20502f-45b2-6781-b408-08bc86c5e5e2.webp",
+    "variants": [
+      "Frenzy Oni Nível 4 (Variante 1 Kumo)",
+      "Frenzy Oni Nível 4 (Variante 2 Hana)",
+      "Frenzy Oni Nível 4 (Variante 3 Tsubame)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-origem",
+    "name": "Frenzy Origem",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "origem",
+      "name": "Origem"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/cceb25d7-41e7-1944-515f-2eb5695fd5cc.webp",
+    "variants": [
+      "Frenzy Origem Nível 4 (Variante 1 Verde)",
+      "Frenzy Origem Nível 4 (Variante 2 Vermelha)",
+      "Frenzy Origem Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-rgx-11z-pro",
+    "name": "Frenzy RGX 11z Pro",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/d5ea8ae9-4055-9b65-1f39-ed97372d887a.webp",
+    "variants": [
+      "Frenzy RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Frenzy RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Frenzy RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-soberania",
+    "name": "Frenzy Soberania",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "soberania",
+      "name": "Soberania"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/daaeb0f9-413a-732d-e6f0-598b9dff65a7.webp",
+    "variants": [
+      "Frenzy Soberania Nível 4 (Variante 1 Verde)",
+      "Frenzy Soberania Nível 4 (Variante 2 Turquesa)",
+      "Frenzy Soberania Nível 4 (Variante 3 Vermelha)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-sublime-2-0",
+    "name": "Frenzy Sublime//2.0",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "sublime-2-0",
+      "name": "Sublime//2.0"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/51446541-47dd-b661-470e-9d89b3b6a33b.webp",
+    "variants": [
+      "Frenzy Sublime//2.0 Nível 4 (Variante 1 Dourada)",
+      "Frenzy Sublime//2.0 Nível 4 (Variante 2 Verde)",
+      "Frenzy Sublime//2.0 Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "frenzy-xenocacador",
+    "name": "Frenzy Xenocaçador",
+    "weaponId": "frenzy",
+    "collection": {
+      "id": "xenocacador",
+      "name": "Xenocaçador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a4b0cd8b-40dc-41e3-646d-d58802b2e310.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-asas-oniricas-de-evori",
+    "name": "Ghost Asas Oníricas de Evori",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "asas-oniricas-de-evori",
+      "name": "Asas Oníricas de Evori"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/2a8a2ff3-44f0-6e8f-8e37-7282113177cf.webp",
+    "variants": [
+      "Ghost Asas Oníricas de Evori Nível 4 (Variante 1 Laranja)",
+      "Ghost Asas Oníricas de Evori Nível 4 (Variante 2 Azul)",
+      "Ghost Asas Oníricas de Evori Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-ceifador",
+    "name": "Ghost Ceifador",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "ceifador",
+      "name": "Ceifador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/2fcdb6c8-4183-0079-13fe-2cb51da0b87c.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-cyrax",
+    "name": "Ghost CYRAX",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "cyrax",
+      "name": "CYRAX"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/68c49000-4248-88a5-e0ae-6185d3631be2.webp",
+    "variants": [
+      "Ghost CYRAX Nível 4 (Variante 1 Vermelha)",
+      "Ghost CYRAX Nível 4 (Variante 2 Amarela)",
+      "Ghost CYRAX Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-ego",
+    "name": "Ghost Ego",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "ego",
+      "name": "Ego"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/b84df096-4096-e9c4-0869-8e83e7fc5476.webp",
+    "variants": [
+      "Ghost Ego (Variante 1 Vermelha)",
+      "Ghost Ego (Variante 2 Creme)",
+      "Ghost Ego (Variante 3 Rosa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-floreterea",
+    "name": "Ghost Floretérea",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "floreterea",
+      "name": "Floretérea"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/82511942-465b-5600-76d7-778159d01bf4.webp",
+    "variants": [
+      "Ghost Floretérea Nível 4 (Variante 1 Azul)",
+      "Ghost Floretérea Nível 4 (Variante 2 Laranja)",
+      "Ghost Floretérea Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-heroi-valoroso",
+    "name": "Ghost Herói Valoroso",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "heroi-valoroso",
+      "name": "Herói Valoroso"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/48486283-48d8-cb8b-01c9-9b9409ab1d4d.webp",
+    "variants": [
+      "Ghost Herói Valoroso Nível 4 (Variante 1 Pôr do Sol)",
+      "Ghost Herói Valoroso Nível 4 (Variante 2 Crepúsculo)",
+      "Ghost Herói Valoroso Nível 4 (Variante 3 Noite)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-kuronami",
+    "name": "Ghost Kuronami",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "kuronami",
+      "name": "Kuronami"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/431799d6-4e79-bdf2-573d-4cbc8112982e.webp",
+    "variants": [
+      "Ghost Kuronami Nível 4 (Variante 1 Roxa)",
+      "Ghost Kuronami Nível 4 (Variante 2 Branca)",
+      "Ghost Kuronami Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-magipunk",
+    "name": "Ghost Magipunk",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/33824a13-453b-0636-4ec4-e19708aa934e.webp",
+    "variants": [
+      "Ghost Magipunk Nível 4 (Variante 1 Verde)",
+      "Ghost Magipunk Nível 4 (Variante 2 Roxa)",
+      "Ghost Magipunk Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "ghost-protecao-fasica",
+    "name": "Ghost Proteção Fásica",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "protecao-fasica",
+      "name": "Proteção Fásica"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/c9c0b280-44ce-f539-02f0-b39884790182.webp",
+    "variants": [
+      "Ghost Proteção Fásica Nível 4 (Variante 1 Azul)",
+      "Ghost Proteção Fásica Nível 4 (Variante 2 Preta)",
+      "Ghost Proteção Fásica Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-radiant-entertainment-system",
+    "name": "Ghost Radiant Entertainment System",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "radiant-entertainment-system",
+      "name": "Radiant Entertainment System"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/9ad4308f-4ffb-03a8-25c3-7a80b60579de.webp",
+    "variants": [
+      "Ghost Radiant Entertainment System Nível 4 (Variante 1 Dance Fever)",
+      "Ghost Radiant Entertainment System Nível 4 (Variante 2 K.nock O.ut!!)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-reconhecimento",
+    "name": "Ghost Reconhecimento",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "reconhecimento",
+      "name": "Reconhecimento"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/bb28991f-4ca9-ca54-962d-31b68c838625.webp",
+    "variants": [
+      "Ghost Reconhecimento Nível 3 (Variante 1 Camuflagem Vermelha)",
+      "Ghost Reconhecimento Nível 3 (Variante 2 Camuflagem Azul)",
+      "Ghost Reconhecimento Nível 3 (Variante 3 Camuflagem Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-reinos-vinculados",
+    "name": "Ghost Reinos Vinculados",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "reinos-vinculados",
+      "name": "Reinos Vinculados"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/efbd92f3-4abc-b077-76fd-dc805b3d72a0.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-ruina",
+    "name": "Ghost Ruína",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "ruina",
+      "name": "Ruína"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/8a513c24-4c4d-ac15-6066-a1b2ff577041.webp",
+    "variants": [
+      "Ghost Ruína Nível 4 (Variante 1 Roxa)",
+      "Ghost Ruína Nível 4 (Variante 2 Vermelha/Amarela)",
+      "Ghost Ruína Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "ghost-saqueador",
+    "name": "Ghost Saqueador",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/c7261be6-47d2-ef86-82f4-6a844e45d33c.webp",
+    "variants": [
+      "Ghost Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Ghost Saqueador Nível 4 (Variante 2 Preta)",
+      "Ghost Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "ghost-singularidade",
+    "name": "Ghost Singularidade",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "singularidade",
+      "name": "Singularidade"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4582dd2b-4528-845d-dec8-16911ca7ba50.webp",
+    "variants": [
+      "Ghost Singularidade Nível 4 (Variante 1 Vermelha)",
+      "Ghost Singularidade Nível 4 (Variante 2 Branca)",
+      "Ghost Singularidade Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-soberania",
+    "name": "Ghost Soberania",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "soberania",
+      "name": "Soberania"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a9890917-41ea-eb55-47e7-ee990a87fa4e.webp",
+    "variants": [
+      "Ghost Soberania Nível 4 (Variante 1 Verde)",
+      "Ghost Soberania Nível 4 (Variante 2 Prata)",
+      "Ghost Soberania Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "ghost-valorant-go-vol-1",
+    "name": "Ghost VALORANT GO! Vol. 1 ",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "valorant-go-vol-1",
+      "name": "VALORANT GO! Vol. 1"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/3714831b-4b90-bb6b-4185-7fb05ba9b9a2.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "ghost-vinganca-de-gaia",
+    "name": "Ghost Vingança de Gaia",
+    "weaponId": "ghost",
+    "collection": {
+      "id": "vinganca-de-gaia",
+      "name": "Vingança de Gaia"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/daed0e44-4ab6-22b4-a5a5-57a4957a056b.webp",
+    "variants": [
+      "Ghost Vingança de Gaia Nível 4 (Variante 1 Azul)",
+      "Ghost Vingança de Gaia Nível 4 (Variante 2 Verde)",
+      "Ghost Vingança de Gaia Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-aeris",
+    "name": "Guardian Aeris",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "aeris",
+      "name": "Aeris"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/56f74904-457e-b08b-0cbd-d6bd7c39d267.webp",
+    "variants": [
+      "Guardian Aeris Nível 4 (Variante 1 Vermelha)",
+      "Guardian Aeris Nível 4 (Variante 2 Rosa)",
+      "Guardian Aeris Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-araxys",
+    "name": "Guardian Araxys",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "araxys",
+      "name": "Araxys"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/851c1abc-4a84-7bab-7e44-16a5aadf5afc.webp",
+    "variants": [
+      "Guardian Araxys Nível 4 (Variante 1 Roxa)",
+      "Guardian Araxys Nível 4 (Variante 2 Preta)",
+      "Guardian Araxys Nível 4 (Variante 3 Prata)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-ceifador",
+    "name": "Guardian Ceifador",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "ceifador",
+      "name": "Ceifador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/7422b876-443e-b975-faab-0ebf73dbc075.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-cyrax",
+    "name": "Guardian CYRAX",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "cyrax",
+      "name": "CYRAX"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/e5410554-4501-16c8-0382-13b91db12286.webp",
+    "variants": [
+      "Guardian CYRAX Nível 4 (Variante 1 Vermelha)",
+      "Guardian CYRAX Nível 4 (Variante 2 Amarela)",
+      "Guardian CYRAX Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-ego",
+    "name": "Guardian Ego",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "ego",
+      "name": "Ego"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/0a81818d-406e-1d8c-ce4d-9ba89dfdf1ab.webp",
+    "variants": [
+      "Guardian Ego (Variante 1 Vermelha)",
+      "Guardian Ego (Variante 2 Creme)",
+      "Guardian Ego (Variante 3 Rosa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-espectro",
+    "name": "Guardian Espectro",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "espectro",
+      "name": "Espectro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/04ccfe05-497c-2d52-2bd0-64a68955175e.webp",
+    "variants": [
+      "Guardian Espectro Nível 4 (Variante 1 Preta)",
+      "Guardian Espectro Nível 4 (Variante 2 Vermelha)",
+      "Guardian Espectro Nível 4 (Variante 3 Roxa/Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-kuronami",
+    "name": "Guardian Kuronami",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "kuronami",
+      "name": "Kuronami"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/cf3ccc67-4570-9a21-1902-4ea07a0070af.webp",
+    "variants": [
+      "Guardian Kuronami Nível 4 (Variante 1 Roxa)",
+      "Guardian Kuronami Nível 4 (Variante 2 Branca)",
+      "Guardian Kuronami Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-magipunk",
+    "name": "Guardian Magipunk",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/80dbfa46-4a1f-c7a4-2e88-1499308c7b9a.webp",
+    "variants": [
+      "Guardian Magipunk Nível 4 (Variante 1 Verde)",
+      "Guardian Magipunk Nível 4 (Variante 2 Rosa)",
+      "Guardian Magipunk Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-nebulosa",
+    "name": "Guardian Nebulosa",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "nebulosa",
+      "name": "Nebulosa"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/6141a40d-48cf-8466-6d46-558c0ff145ea.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-netuno",
+    "name": "Guardian Netuno",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "netuno",
+      "name": "Netuno"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/1082032a-4f20-12db-93ea-549332f91ddf.webp",
+    "variants": [
+      "Guardian Netuno Nível 3 (Variante 1 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-oni",
+    "name": "Guardian Oni",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "oni",
+      "name": "Oni"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/850fea42-419f-f284-84ae-40ae1eabbb5b.webp",
+    "variants": [
+      "Guardian Oni Nível 4 (Variante 1 Kumo)",
+      "Guardian Oni Nível 4 (Variante 2 Hana)",
+      "Guardian Oni Nível 4 (Variante 3 Tsubame)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-reconhecimento",
+    "name": "Guardian Reconhecimento",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "reconhecimento",
+      "name": "Reconhecimento"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/539e07ec-49b2-5f22-0d05-91b809229d64.webp",
+    "variants": [
+      "Guardian Reconhecimento Nível 4 (Variante 1 Camuflagem Vermelha)",
+      "Guardian Reconhecimento Nível 4 (Variante 2 Camuflagem Azul)",
+      "Guardian Reconhecimento Nível 4 (Variante 3 Camuflagem Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-reinos-vinculados",
+    "name": "Guardian Reinos Vinculados",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "reinos-vinculados",
+      "name": "Reinos Vinculados"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/77187a8f-4020-da44-a775-7a91ab814cdf.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-rgx-11z-pro",
+    "name": "Guardian RGX 11z Pro",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/da29ce1e-43bb-c043-9cbc-34850517dc23.webp",
+    "variants": [
+      "Guardian RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Guardian RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Guardian RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-roseiral-sombrio",
+    "name": "Guardian Roseiral Sombrio",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "roseiral-sombrio",
+      "name": "Roseiral Sombrio"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4047a667-4d1d-bb68-df9e-a09bfa68d934.webp",
+    "variants": [
+      "Guardian Roseiral Sombrio Nível 4 (Variante 1 Dourada)",
+      "Guardian Roseiral Sombrio Nível 4 (Variante 2 Azul)",
+      "Guardian Roseiral Sombrio Nível 4 (Variante 3 Espinheiro Roxo)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-ruina",
+    "name": "Guardian Ruína",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "ruina",
+      "name": "Ruína"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/8966067d-4023-c88a-db56-2691f163d335.webp",
+    "variants": [
+      "Guardian Ruína Nível 4 (Variante 1 Roxa)",
+      "Guardian Ruína Nível 4 (Variante 2 Vermelha/Amarela)",
+      "Guardian Ruína Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-saqueador",
+    "name": "Guardian Saqueador",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/db348da1-49f2-0bad-b70a-e4ade9d31655.webp",
+    "variants": [
+      "Guardian Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Guardian Saqueador Nível 4 (Variante 2 Preta)",
+      "Guardian Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-soberania",
+    "name": "Guardian Soberania",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "soberania",
+      "name": "Soberania"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/7122d78b-4e60-eb4d-5f65-738d7c1ce9ae.webp",
+    "variants": [
+      "Guardian Soberania Nível 4 (Variante 1 Verde)",
+      "Guardian Soberania Nível 4 (Variante 2 Prata)",
+      "Guardian Soberania Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-sublime",
+    "name": "Guardian Sublime",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "sublime",
+      "name": "Sublime"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/2a049f35-4bcd-af25-21fd-ec942e2d5007.webp",
+    "variants": [
+      "Guardian Sublime Nível 4 (Variante 1 Laranja)",
+      "Guardian Sublime Nível 4 (Variante 2 Azul)",
+      "Guardian Sublime Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "guardian-valorant-go-vol-1",
+    "name": "Guardian VALORANT GO! Vol. 1 ",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "valorant-go-vol-1",
+      "name": "VALORANT GO! Vol. 1"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/2c32d9e3-42a1-7387-35ef-0c8eefacee1c.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-vinganca-de-dolmir",
+    "name": "Guardian Vingança de Dolmir",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "vinganca-de-dolmir",
+      "name": "Vingança de Dolmir"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5bf741d9-4e0f-12c3-17d1-129befd702cd.webp",
+    "variants": [
+      "Guardian Vingança de Dolmir Nível 4 (Variante 1 Obsidiana)",
+      "Guardian Vingança de Dolmir Nível 4 (Variante 2 Musgo)",
+      "Guardian Vingança de Dolmir Nível 4 (Variante 3 Gelo)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "guardian-vinganca-de-gaia",
+    "name": "Guardian Vingança de Gaia",
+    "weaponId": "guardian",
+    "collection": {
+      "id": "vinganca-de-gaia",
+      "name": "Vingança de Gaia"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/abd5415f-4851-244f-4b8b-31af8e268822.webp",
+    "variants": [
+      "Guardian Vingança de Gaia Nível 4 (Variante 1 Azul)",
+      "Guardian Vingança de Gaia Nível 4 (Variante 2 Verde)",
+      "Guardian Vingança de Gaia Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "judge-ancifogo",
+    "name": "Judge Ancifogo",
+    "weaponId": "judge",
+    "collection": {
+      "id": "ancifogo",
+      "name": "Ancifogo"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/0221b120-444b-6d1b-fc50-e4a98e470eb2.webp",
+    "variants": [
+      "Judge Ancifogo Nível 4 (Variante 1 Vermelha)",
+      "Judge Ancifogo Nível 4 (Variante 2 Azul)",
+      "Judge Ancifogo Nível 4 (Variante 3 Escura)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "judge-apocaliptica",
+    "name": "Judge Apocalíptica",
+    "weaponId": "judge",
+    "collection": {
+      "id": "apocaliptica",
+      "name": "Apocalíptica"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/628302c6-488a-f613-5308-15907fcdc253.webp",
+    "variants": [
+      "Judge Apocalíptica Nível 4 (Variante 1 Vermelha)",
+      "Judge Apocalíptica Nível 4 (Variante 2 Azul)",
+      "Judge Apocalíptica Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "judge-apogeu-sideral",
+    "name": "Judge Apogeu Sideral",
+    "weaponId": "judge",
+    "collection": {
+      "id": "apogeu-sideral",
+      "name": "Apogeu Sideral"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/d07a7266-4757-1da9-e957-baa93c9fc43f.webp",
+    "variants": [
+      "Judge Apogeu Sideral Nível 4 (Variante 1 Amarela)",
+      "Judge Apogeu Sideral Nível 4 (Variante 2 Branca)",
+      "Judge Apogeu Sideral Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "judge-celestial",
+    "name": "Judge Celestial",
+    "weaponId": "judge",
+    "collection": {
+      "id": "celestial",
+      "name": "Celestial"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/57ad1e5d-4289-4de0-7926-899cef10db37.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "judge-chronovoid",
+    "name": "Judge ChronoVoid",
+    "weaponId": "judge",
+    "collection": {
+      "id": "chronovoid",
+      "name": "ChronoVoid"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4d2ec3f4-446e-a501-74d8-5ab750f50984.webp",
+    "variants": [
+      "Judge ChronoVoid Nível 4 (Variante 1 Roxa)",
+      "Judge ChronoVoid Nível 4 (Variante 2 Vermelha)",
+      "Judge ChronoVoid Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "judge-divergencia",
+    "name": "Judge Divergência",
+    "weaponId": "judge",
+    "collection": {
+      "id": "divergencia",
+      "name": "Divergência"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/8b1dcb7f-4e76-1d0d-0c77-fcbad16aed98.webp",
+    "variants": [
+      "Judge Divergência Nível 4 (Variante 1 Roxa)",
+      "Judge Divergência Nível 4 (Variante 2 Azul)",
+      "Judge Divergência Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "judge-fera-incendiaria",
+    "name": "Judge Fera Incendiária",
+    "weaponId": "judge",
+    "collection": {
+      "id": "fera-incendiaria",
+      "name": "Fera Incendiária"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/5e342c5c-4757-4c4e-ca7c-a4b97930308b.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "judge-floreterea",
+    "name": "Judge Floretérea",
+    "weaponId": "judge",
+    "collection": {
+      "id": "floreterea",
+      "name": "Floretérea"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5c8d1196-48d8-2bbc-fac0-57af71a18c97.webp",
+    "variants": [
+      "Judge Floretérea Nível 4 (Variante 1 Azul)",
+      "Judge Floretérea Nível 4 (Variante 2 Laranja)",
+      "Judge Floretérea Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "judge-glitchpop",
+    "name": "Judge Glitchpop",
+    "weaponId": "judge",
+    "collection": {
+      "id": "glitchpop",
+      "name": "Glitchpop"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/28a659a4-439e-fcd0-6236-d39979ee5c51.webp",
+    "variants": [
+      "Judge Glitchpop Nível 4 (Variante 1 Azul)",
+      "Judge Glitchpop Nível 4 (Variante 2 Vermelha)",
+      "Judge Glitchpop Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "judge-imperium",
+    "name": "Judge Imperium",
+    "weaponId": "judge",
+    "collection": {
+      "id": "imperium",
+      "name": "Imperium"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/e661e655-421f-0f19-3092-c8a668036ac4.webp",
+    "variants": [
+      "Judge Imperium Nível 4 (Variante 1 Rubi)",
+      "Judge Imperium Nível 4 (Variante 2 Pérola)",
+      "Judge Imperium Nível 4 (Variante 3 Obsidiana)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "judge-soberania",
+    "name": "Judge Soberania",
+    "weaponId": "judge",
+    "collection": {
+      "id": "soberania",
+      "name": "Soberania"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/bd034009-469c-88a6-41aa-278dd54b12e6.webp",
+    "variants": [
+      "Judge Soberania Nível 4 (Variante 1 Verde)",
+      "Judge Soberania Nível 4 (Variante 2 Turquesa)",
+      "Judge Soberania Nível 4 (Variante 3 Vermelha)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "judge-suburbano",
+    "name": "Judge Suburbano",
+    "weaponId": "judge",
+    "collection": {
+      "id": "suburbano",
+      "name": "Suburbano"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/e413125e-40c6-cccd-de35-f28e34c57442.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-aeris",
+    "name": "Marshal Aeris",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "aeris",
+      "name": "Aeris"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/9ff57b38-4222-1c1e-b775-e682b7e6379b.webp",
+    "variants": [
+      "Marshal Aeris Nível 4 (Variante 1 Vermelha)",
+      "Marshal Aeris Nível 4 (Variante 2 Rosa)",
+      "Marshal Aeris Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-fera-incendiaria",
+    "name": "Marshal Fera Incendiária",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "fera-incendiaria",
+      "name": "Fera Incendiária"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/af77e583-41fc-b0c2-3728-058d02502039.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-kuronami",
+    "name": "Marshal Kuronami",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "kuronami",
+      "name": "Kuronami"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/fb9ff2b0-4d71-d53c-364e-fe98fb5a2411.webp",
+    "variants": [
+      "Marshal Kuronami Nível 4 (Variante 1 Roxa)",
+      "Marshal Kuronami Nível 4 (Variante 2 Branca)",
+      "Marshal Kuronami Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-magipunk",
+    "name": "Marshal Magipunk",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/27ab5ed6-4614-d5c2-c53f-5391febe7099.webp",
+    "variants": [
+      "Marshal Magipunk Nível 4 (Variante 1 Verde)",
+      "Marshal Magipunk Nível 4 (Variante 2 Roxa)",
+      "Marshal Magipunk Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "marshal-mercado-clandestino",
+    "name": "Marshal Mercado.Clandestino",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "mercado-clandestino",
+      "name": "Mercado.Clandestino"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/fe297733-4ada-d817-dd7e-17b9cd1d62d5.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-neo-oeste",
+    "name": "Marshal Neo Oeste",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "neo-oeste",
+      "name": "Neo Oeste"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/d70d33ff-4a88-bf66-f256-bcb05fa9bd60.webp",
+    "variants": [
+      "Marshal Neo Oeste Nível 4 (Variante 1 Dourada)",
+      "Marshal Neo Oeste Nível 4 (Variante 2 Prata)",
+      "Marshal Neo Oeste Nível 4 (Variante 3 Cobre)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-nocturnum",
+    "name": "Marshal Nocturnum",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "nocturnum",
+      "name": "Nocturnum"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/685af060-4934-e262-543d-5d96ed42257d.webp",
+    "variants": [
+      "Marshal Nocturnum Nível 4 (Variante 1 Preta)",
+      "Marshal Nocturnum Nível 4 (Variante 2 Azul)",
+      "Marshal Nocturnum Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-rabisquinhos",
+    "name": "Marshal Rabisquinhos",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "rabisquinhos",
+      "name": "Rabisquinhos"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/6250b40a-43a4-55d8-79d4-f6838d58151d.webp",
+    "variants": [
+      "Marshal Rabisquinhos Nível 2 (Variante 1 Missão Animal)",
+      "Marshal Rabisquinhos Nível 2 (Variante 2 League of Legends)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-roseiral-sombrio",
+    "name": "Marshal Roseiral Sombrio",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "roseiral-sombrio",
+      "name": "Roseiral Sombrio"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/7c47be9b-48a5-752e-7229-f7b1668239dd.webp",
+    "variants": [
+      "Marshal Roseiral Sombrio Nível 4 (Variante 1 Dourada)",
+      "Marshal Roseiral Sombrio Nível 4 (Variante 2 Azul)",
+      "Marshal Roseiral Sombrio Nível 4 (Variante 3 Espinheiro Roxo)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "marshal-soberania",
+    "name": "Marshal Soberania",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "soberania",
+      "name": "Soberania"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/5211efa8-4efd-09bb-6cee-72b86a8a5972.webp",
+    "variants": [
+      "Marshal Soberania Nível 4 (Variante 1 Verde)",
+      "Marshal Soberania Nível 4 (Variante 2 Prata)",
+      "Marshal Soberania Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "marshal-vinganca-de-gaia",
+    "name": "Marshal Vingança de Gaia",
+    "weaponId": "marshal",
+    "collection": {
+      "id": "vinganca-de-gaia",
+      "name": "Vingança de Gaia"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/fc802ceb-4a39-39ac-adf5-02a812be2f8e.webp",
+    "variants": [
+      "Marshal Vingança de Gaia Nível 4 (Variante 1 Azul)",
+      "Marshal Vingança de Gaia Nível 4 (Variante 2 Verde)",
+      "Marshal Vingança de Gaia Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "odin-apocaliptica",
+    "name": "Odin Apocalíptica",
+    "weaponId": "odin",
+    "collection": {
+      "id": "apocaliptica",
+      "name": "Apocalíptica"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/fcba924d-41f6-7a92-f904-13b0fcbc2bdd.webp",
+    "variants": [
+      "Odin Apocalíptica Nível 4 (Variante 1 Vermelha)",
+      "Odin Apocalíptica Nível 4 (Variante 2 Azul)",
+      "Odin Apocalíptica Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "odin-asas-oniricas-de-evori",
+    "name": "Odin Asas Oníricas de Evori",
+    "weaponId": "odin",
+    "collection": {
+      "id": "asas-oniricas-de-evori",
+      "name": "Asas Oníricas de Evori"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/fa1c05fd-49fc-ad93-17d8-f0aaf11874cd.webp",
+    "variants": [
+      "Odin Asas Oníricas de Evori Nível 4 (Variante 1 Azul)",
+      "Odin Asas Oníricas de Evori Nível 4 (Variante 2 Verde)",
+      "Odin Asas Oníricas de Evori Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "odin-blastx",
+    "name": "Odin BlastX",
+    "weaponId": "odin",
+    "collection": {
+      "id": "blastx",
+      "name": "BlastX"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/85ed3f9d-4e59-a709-8faf-bc86effb3a07.webp",
+    "variants": [
+      "Odin BlastX Nível 4 (Variante 1 Preta)",
+      "Odin BlastX Nível 4 (Variante 2 Amarela)",
+      "Odin BlastX Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "odin-glitchpop",
+    "name": "Odin Glitchpop",
+    "weaponId": "odin",
+    "collection": {
+      "id": "glitchpop",
+      "name": "Glitchpop"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/97af88e4-4176-9fa3-4a26-57919443dab7.webp",
+    "variants": [
+      "Odin Glitchpop Nível 4 (Variante 1 Azul)",
+      "Odin Glitchpop Nível 4 (Variante 2 Vermelha)",
+      "Odin Glitchpop Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "odin-neo-oeste",
+    "name": "Odin Neo Oeste",
+    "weaponId": "odin",
+    "collection": {
+      "id": "neo-oeste",
+      "name": "Neo Oeste"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/bd647d56-4542-19cd-e1ed-4fb429c78cf9.webp",
+    "variants": [
+      "Odin Neo Oeste Nível 4 (Variante 1 Dourada)",
+      "Odin Neo Oeste Nível 4 (Variante 2 Prata)",
+      "Odin Neo Oeste Nível 4 (Variante 3 Cobre)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "odin-netuno",
+    "name": "Odin Netuno",
+    "weaponId": "odin",
+    "collection": {
+      "id": "netuno",
+      "name": "Netuno"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a67c2daa-4f4d-1af0-0ff4-6fafde471776.webp",
+    "variants": [
+      "Odin Netuno Nível 3 (Variante 1 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "odin-saqueador",
+    "name": "Odin Saqueador",
+    "weaponId": "odin",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/8dda01a6-4237-f430-ac70-c3ba677963e9.webp",
+    "variants": [
+      "Odin Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Odin Saqueador Nível 4 (Variante 2 Preta)",
+      "Odin Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "odin-sentinelas-da-luz",
+    "name": "Odin Sentinelas da Luz",
+    "weaponId": "odin",
+    "collection": {
+      "id": "sentinelas-da-luz",
+      "name": "Sentinelas da Luz"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/67fb338a-4b21-ed70-7c2a-46bef4742b4f.webp",
+    "variants": [
+      "Odin Sentinelas da Luz Nível 4 (Variante 1 Rosa)",
+      "Odin Sentinelas da Luz Nível 4 (Variante 2 Vermelha/Verde)",
+      "Odin Sentinelas da Luz Nível 4 (Variante 3 Azul/Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "odin-soberania",
+    "name": "Odin Soberania",
+    "weaponId": "odin",
+    "collection": {
+      "id": "soberania",
+      "name": "Soberania"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a7995818-409f-c79b-20b7-28ad642f3135.webp",
+    "variants": [
+      "Odin Soberania Nível 4 (Variante 1 Verde)",
+      "Odin Soberania Nível 4 (Variante 2 Turquesa)",
+      "Odin Soberania Nível 4 (Variante 3 Vermelha)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "odin-sublime-2-0",
+    "name": "Odin Sublime//2.0",
+    "weaponId": "odin",
+    "collection": {
+      "id": "sublime-2-0",
+      "name": "Sublime//2.0"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/157bcebe-484d-82e2-2a60-c8b4b11197ea.webp",
+    "variants": [
+      "Odin Sublime//2.0 Nível 4 (Variante 1 Dourada)",
+      "Odin Sublime//2.0 Nível 4 (Variante 2 Verde)",
+      "Odin Sublime//2.0 Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "odin-vinganca-de-dolmir",
+    "name": "Odin Vingança de Dolmir",
+    "weaponId": "odin",
+    "collection": {
+      "id": "vinganca-de-dolmir",
+      "name": "Vingança de Dolmir"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/79ffb1d7-405d-1b96-6071-e7a804555cd7.webp",
+    "variants": [
+      "Odin Vingança de Dolmir Nível 4 (Variante 1 Obsidiana)",
+      "Odin Vingança de Dolmir Nível 4 (Variante 2 Musgo)",
+      "Odin Vingança de Dolmir Nível 4 (Variante 3 Gelo)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "odin-xenocacador",
+    "name": "Odin Xenocaçador",
+    "weaponId": "odin",
+    "collection": {
+      "id": "xenocacador",
+      "name": "Xenocaçador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/94c085e6-48e1-c879-2552-88bf7850c5a8.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-ancifogo",
+    "name": "Operator Ancifogo",
+    "weaponId": "operator",
+    "collection": {
+      "id": "ancifogo",
+      "name": "Ancifogo"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/d722313d-43cb-b38d-7841-75880a3ed2cb.webp",
+    "variants": [
+      "Operator Ancifogo Nível 4 (Variante 1 Vermelha)",
+      "Operator Ancifogo Nível 4 (Variante 2 Azul)",
+      "Operator Ancifogo Nível 4 (Variante 3 Escura)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-anti-radio-materia-atomizador",
+    "name": "Operator Anti-Radio-Matéria Atomizador",
+    "weaponId": "operator",
+    "collection": {
+      "id": "anti-radio-materia-atomizador",
+      "name": "Anti-Radio-Matéria Atomizador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/c21e2f34-4b8c-4350-33c8-a8b626ecaadc.webp",
+    "variants": [
+      "Operator Anti-Radio-Matéria Atomizador Nível 2 (Variante 1 Cromada)",
+      "Operator Anti-Radio-Matéria Atomizador Nível 2 (Variante 2 Preta)",
+      "Operator Anti-Radio-Matéria Atomizador Nível 2 (Variante 3 Vermelha/Azul)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-apogeu-sideral",
+    "name": "Operator Apogeu Sideral",
+    "weaponId": "operator",
+    "collection": {
+      "id": "apogeu-sideral",
+      "name": "Apogeu Sideral"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/c60a5448-4eb5-9fd7-991b-029a325a3281.webp",
+    "variants": [
+      "Operator Apogeu Sideral Nível 4 (Variante 1 Amarela)",
+      "Operator Apogeu Sideral Nível 4 (Variante 2 Branca)",
+      "Operator Apogeu Sideral Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-araxys",
+    "name": "Operator Araxys",
+    "weaponId": "operator",
+    "collection": {
+      "id": "araxys",
+      "name": "Araxys"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/6db556e4-4255-6c2c-6a80-8a9dfac96aa9.webp",
+    "variants": [
+      "Operator Araxys Nível 4 (Variante 1 Roxa)",
+      "Operator Araxys Nível 4 (Variante 2 Preta)",
+      "Operator Araxys Nível 4 (Variante 3 Prata)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-chiclete-mortifero",
+    "name": "Operator Chiclete Mortífero",
+    "weaponId": "operator",
+    "collection": {
+      "id": "chiclete-mortifero",
+      "name": "Chiclete Mortífero"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/c5993299-40fc-208a-55e8-388f73328053.webp",
+    "variants": [
+      "Operator Chiclete Mortífero Nível 4 (Variante 1 Amarela)",
+      "Operator Chiclete Mortífero Nível 4 (Variante 2 Vermelha)",
+      "Operator Chiclete Mortífero Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-criostase",
+    "name": "Operator Criostase",
+    "weaponId": "operator",
+    "collection": {
+      "id": "criostase",
+      "name": "Criostase"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/b2783916-483a-9112-89c6-64b8d927b78c.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-divergencia",
+    "name": "Operator Divergência",
+    "weaponId": "operator",
+    "collection": {
+      "id": "divergencia",
+      "name": "Divergência"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/bfe984c4-45f9-b3db-4d81-23b5a41848ed.webp",
+    "variants": [
+      "Operator Divergência Nível 4 (Variante 1 Roxa)",
+      "Operator Divergência Nível 4 (Variante 2 Azul)",
+      "Operator Divergência Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-floreterea",
+    "name": "Operator Floretérea",
+    "weaponId": "operator",
+    "collection": {
+      "id": "floreterea",
+      "name": "Floretérea"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/d9a34604-42e9-3a01-a875-9293e08183a9.webp",
+    "variants": [
+      "Operator Floretérea Nível 4 (Variante 1 Azul)",
+      "Operator Floretérea Nível 4 (Variante 2 Laranja)",
+      "Operator Floretérea Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-glitchpop",
+    "name": "Operator Glitchpop",
+    "weaponId": "operator",
+    "collection": {
+      "id": "glitchpop",
+      "name": "Glitchpop"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/a491b943-43e3-4e98-64a6-fc87fca43605.webp",
+    "variants": [
+      "Operator Glitchpop Nível 4 (Variante 1 Azul)",
+      "Operator Glitchpop Nível 4 (Variante 2 Vermelha)",
+      "Operator Glitchpop Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-heroi-valoroso",
+    "name": "Operator Herói Valoroso",
+    "weaponId": "operator",
+    "collection": {
+      "id": "heroi-valoroso",
+      "name": "Herói Valoroso"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/1e9b6856-4aaa-4dba-1da7-3791690113d8.webp",
+    "variants": [
+      "Operator Herói Valoroso Nível 4 (Variante 1 Pôr do Sol)",
+      "Operator Herói Valoroso Nível 4 (Variante 2 Crepúsculo)",
+      "Operator Herói Valoroso Nível 4 (Variante 3 Noite)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-imperium",
+    "name": "Operator Imperium",
+    "weaponId": "operator",
+    "collection": {
+      "id": "imperium",
+      "name": "Imperium"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/76f1d9e7-4675-6913-ca31-03a70815ee0e.webp",
+    "variants": [
+      "Operator Imperium Nível 4 (Variante 1 Rubi)",
+      "Operator Imperium Nível 4 (Variante 2 Pérola)",
+      "Operator Imperium Nível 4 (Variante 3 Obsidiana)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-ion",
+    "name": "Operator Íon",
+    "weaponId": "operator",
+    "collection": {
+      "id": "ion",
+      "name": "Íon"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/bbf8ffb9-49c0-75c0-cc7d-8f8f03a4bd36.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-kuronami",
+    "name": "Operator Kuronami",
+    "weaponId": "operator",
+    "collection": {
+      "id": "kuronami",
+      "name": "Kuronami"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/a709ad22-45d5-0b51-5de2-85ad5c5ca405.webp",
+    "variants": [
+      "Operator Kuronami Nível 4 (Variante 1 Roxa)",
+      "Operator Kuronami Nível 4 (Variante 2 Branca)",
+      "Operator Kuronami Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-lugubre",
+    "name": "Operator Lúgubre",
+    "weaponId": "operator",
+    "collection": {
+      "id": "lugubre",
+      "name": "Lúgubre"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/c692e38e-4f38-0141-d0c9-aa99fab9362a.webp",
+    "variants": [
+      "Operator Lúgubre Nível 4 (Variante 1 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-magipunk",
+    "name": "Operator Magipunk",
+    "weaponId": "operator",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/7e831918-4580-5e2a-089a-84ad58fe1aae.webp",
+    "variants": [
+      "Operator Magipunk Nível 4 (Variante 1 Verde)",
+      "Operator Magipunk Nível 4 (Variante 2 Rosa)",
+      "Operator Magipunk Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-ora-por-onetap",
+    "name": "Operator ORA por OneTap",
+    "weaponId": "operator",
+    "collection": {
+      "id": "ora-por-onetap",
+      "name": "ORA por OneTap"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/94e98f1f-4a49-ef5f-b995-cf84750194b6.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-origem",
+    "name": "Operator Origem",
+    "weaponId": "operator",
+    "collection": {
+      "id": "origem",
+      "name": "Origem"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/17831113-4ff0-a6c9-0b20-6f9c077d74a2.webp",
+    "variants": [
+      "Operator Origem Nível 4 (Variante 1 Verde)",
+      "Operator Origem Nível 4 (Variante 2 Vermelha)",
+      "Operator Origem Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-preludio-do-caos",
+    "name": "Operator Prelúdio do Caos",
+    "weaponId": "operator",
+    "collection": {
+      "id": "preludio-do-caos",
+      "name": "Prelúdio do Caos"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/b450a73d-431e-56b7-5b7f-67bddd38ee66.webp",
+    "variants": [
+      "Operator Prelúdio do Caos Nível 4 (Variante 1 Verde)",
+      "Operator Prelúdio do Caos Nível 4 (Variante 2 Branca)",
+      "Operator Prelúdio do Caos Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-radiant-entertainment-system",
+    "name": "Operator Radiant Entertainment System",
+    "weaponId": "operator",
+    "collection": {
+      "id": "radiant-entertainment-system",
+      "name": "Radiant Entertainment System"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/507330d3-4311-e010-183b-aba00a0705f1.webp",
+    "variants": [
+      "Operator Radiant Entertainment System Nível 4 (Variante 1 Dance Fever)",
+      "Operator Radiant Entertainment System Nível 4 (Variante 2 K.nock O.ut!!)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-reinos-vinculados",
+    "name": "Operator Reinos Vinculados",
+    "weaponId": "operator",
+    "collection": {
+      "id": "reinos-vinculados",
+      "name": "Reinos Vinculados"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/e7ba6cec-495f-e08e-f8eb-6e90228bdf9e.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-renegado",
+    "name": "Operator Renegado",
+    "weaponId": "operator",
+    "collection": {
+      "id": "renegado",
+      "name": "Renegado"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2460c852-4d1b-a9e3-ccda-43a8e30cb739.webp",
+    "variants": [
+      "Operator Renegado Nível 4 (Variante 1 Verde)",
+      "Operator Renegado Nível 4 (Variante 2 Vermelha)",
+      "Operator Renegado Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-rgx-11z-pro",
+    "name": "Operator RGX 11z Pro",
+    "weaponId": "operator",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2e1936ed-4582-628f-da9c-25a7f47323cc.webp",
+    "variants": [
+      "Operator RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Operator RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Operator RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-saqueador",
+    "name": "Operator Saqueador",
+    "weaponId": "operator",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/aecab890-43b7-d719-06bc-9295e3d116dc.webp",
+    "variants": [
+      "Operator Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Operator Saqueador Nível 4 (Variante 2 Preta)",
+      "Operator Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-sentinelas-da-luz",
+    "name": "Operator Sentinelas da Luz",
+    "weaponId": "operator",
+    "collection": {
+      "id": "sentinelas-da-luz",
+      "name": "Sentinelas da Luz"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/b05c4c98-4108-e442-add7-da99a95a37b6.webp",
+    "variants": [
+      "Operator Sentinelas da Luz Nível 4 (Variante 1 Rosa)",
+      "Operator Sentinelas da Luz Nível 4 (Variante 2 Vermelha/Verde)",
+      "Operator Sentinelas da Luz Nível 4 (Variante 3 Azul/Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "operator-spline",
+    "name": "Operator Spline",
+    "weaponId": "operator",
+    "collection": {
+      "id": "spline",
+      "name": "Spline"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/b2164926-4b85-852a-4bd7-d9bc27a642da.webp",
+    "variants": [
+      "Operator Spline (Variante 1 Verde)",
+      "Operator Spline (Variante 2 Vermelha)",
+      "Operator Spline (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "operator-valorant-go-vol-2",
+    "name": "Operator VALORANT GO! Vol. 2",
+    "weaponId": "operator",
+    "collection": {
+      "id": "valorant-go-vol-2",
+      "name": "VALORANT GO! Vol. 2"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/4a1e0934-46ae-fa2a-a009-05ade5d43402.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "outlaw-araxys",
+    "name": "Outlaw Araxys",
+    "weaponId": "outlaw",
+    "collection": {
+      "id": "araxys",
+      "name": "Araxys"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/6d73609b-4256-7bf7-46aa-9887c6918992.webp",
+    "variants": [
+      "Outlaw Araxys Nível 4 (Variante 1 Roxa)",
+      "Outlaw Araxys Nível 4 (Variante 2 Preta)",
+      "Outlaw Araxys Nível 4 (Variante 3 Prata)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "outlaw-ego",
+    "name": "Outlaw Ego",
+    "weaponId": "outlaw",
+    "collection": {
+      "id": "ego",
+      "name": "Ego"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/9fbeb60b-4c22-d736-b335-43ad53d0bc69.webp",
+    "variants": [
+      "Outlaw Ego (Variante 1 Vermelha)",
+      "Outlaw Ego (Variante 2 Creme)",
+      "Outlaw Ego (Variante 3 Rosa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "outlaw-eletrizante",
+    "name": "Outlaw Eletrizante",
+    "weaponId": "outlaw",
+    "collection": {
+      "id": "eletrizante",
+      "name": "Eletrizante"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/68b8bf1e-48ad-0f98-e99c-9381f6c53083.webp",
+    "variants": [
+      "Outlaw Eletrizante Nível 4 (Variante 1 Vermelha)",
+      "Outlaw Eletrizante Nível 4 (Variante 2 Preta)",
+      "Outlaw Eletrizante Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "outlaw-ex-o",
+    "name": "Outlaw EX.O",
+    "weaponId": "outlaw",
+    "collection": {
+      "id": "ex-o",
+      "name": "EX.O"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/ca2dd4ea-4e12-e676-84bc-0b977a23ac24.webp",
+    "variants": [
+      "Outlaw EX.O Nível 4 (Variante 1 Amarela)",
+      "Outlaw EX.O Nível 4 (Variante 2 Vermelha)",
+      "Outlaw EX.O Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "outlaw-floreterea",
+    "name": "Outlaw Floretérea",
+    "weaponId": "outlaw",
+    "collection": {
+      "id": "floreterea",
+      "name": "Floretérea"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/1a097db1-4778-7049-b62e-6fa071ad7193.webp",
+    "variants": [
+      "Outlaw Floretérea Nível 4 (Variante 1 Azul)",
+      "Outlaw Floretérea Nível 4 (Variante 2 Laranja)",
+      "Outlaw Floretérea Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "outlaw-protecao-fasica",
+    "name": "Outlaw Proteção Fásica",
+    "weaponId": "outlaw",
+    "collection": {
+      "id": "protecao-fasica",
+      "name": "Proteção Fásica"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/4d808fd5-4d3d-2721-407d-338b89349a2e.webp",
+    "variants": [
+      "Outlaw Proteção Fásica Nível 4 (Variante 1 Azul)",
+      "Outlaw Proteção Fásica Nível 4 (Variante 2 Preta)",
+      "Outlaw Proteção Fásica Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "outlaw-rgx-11z-pro",
+    "name": "Outlaw RGX 11z Pro",
+    "weaponId": "outlaw",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/fdeb2877-4030-e396-f0cb-998868362c12.webp",
+    "variants": [
+      "Outlaw RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Outlaw RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Outlaw RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-apocaliptica",
+    "name": "Phantom Apocalíptica",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "apocaliptica",
+      "name": "Apocalíptica"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/26094344-4ac4-6656-763a-d2b338fea14a.webp",
+    "variants": [
+      "Phantom Apocalíptica Nível 4 (Variante 1 Vermelha)",
+      "Phantom Apocalíptica Nível 4 (Variante 2 Azul)",
+      "Phantom Apocalíptica Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-araxys",
+    "name": "Phantom Araxys",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "araxys",
+      "name": "Araxys"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/1cb0bdf7-46e1-92d5-b400-988c99f25d81.webp",
+    "variants": [
+      "Phantom Araxys Nível 4 (Variante 1 Roxa)",
+      "Phantom Araxys Nível 4 (Variante 2 Preta)",
+      "Phantom Araxys Nível 4 (Variante 3 Prata)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-blastx",
+    "name": "Phantom BlastX",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "blastx",
+      "name": "BlastX"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/59af9c5d-43ee-1360-f3a7-a9a6ff6e478b.webp",
+    "variants": [
+      "Phantom BlastX Nível 4 (Variante 1 Preta)",
+      "Phantom BlastX Nível 4 (Variante 2 Amarela)",
+      "Phantom BlastX Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-ceifador",
+    "name": "Phantom Ceifador",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "ceifador",
+      "name": "Ceifador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/98c9bc4e-4fb3-206f-3f6b-06a17b53e95b.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-celestial",
+    "name": "Phantom Celestial",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "celestial",
+      "name": "Celestial"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/8c0cc1e8-4c1b-20a0-122d-16b4334d1b80.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-chiclete-mortifero",
+    "name": "Phantom Chiclete Mortífero",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "chiclete-mortifero",
+      "name": "Chiclete Mortífero"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2b89c4cc-4517-c2db-a08f-c484f0f614d7.webp",
+    "variants": [
+      "Phantom Chiclete Mortífero Nível 4 (Variante 1 Amarela)",
+      "Phantom Chiclete Mortífero Nível 4 (Variante 2 Vermelha)",
+      "Phantom Chiclete Mortífero Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-chronovoid",
+    "name": "Phantom ChronoVoid",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "chronovoid",
+      "name": "ChronoVoid"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2aac8bb3-4cfa-b806-21e4-5a8e9904caa4.webp",
+    "variants": [
+      "Phantom ChronoVoid Nível 4 (Variante 1 Roxa)",
+      "Phantom ChronoVoid Nível 4 (Variante 2 Vermelha)",
+      "Phantom ChronoVoid Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-crise-radiante-001",
+    "name": "Phantom Crise Radiante 001",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "crise-radiante-001",
+      "name": "Crise Radiante 001"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/2371d9e1-498c-1ad1-4f10-d1a339c7fda2.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-eletrizante",
+    "name": "Phantom Eletrizante",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "eletrizante",
+      "name": "Eletrizante"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/64c97d19-4142-ce97-7a13-53a5b1ebdc82.webp",
+    "variants": [
+      "Phantom Eletrizante Nível 4 (Variante 1 Vermelha)",
+      "Phantom Eletrizante Nível 4 (Variante 2 Preta)",
+      "Phantom Eletrizante Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-espectro",
+    "name": "Phantom Espectro",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "espectro",
+      "name": "Espectro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/980fa063-436e-e51f-c38d-70a5b93a0f1c.webp",
+    "variants": [
+      "Phantom Espectro Nível 4 (Variante 1 Preta)",
+      "Phantom Espectro Nível 4 (Variante 2 Vermelha)",
+      "Phantom Espectro Nível 4 (Variante 3 Roxa/Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-floreterea",
+    "name": "Phantom Floretérea",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "floreterea",
+      "name": "Floretérea"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/ce85f078-474a-eae4-3844-03a49625df15.webp",
+    "variants": [
+      "Phantom Floretérea Nível 4 (Variante 1 Azul)",
+      "Phantom Floretérea Nível 4 (Variante 2 Laranja)",
+      "Phantom Floretérea Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-glitchpop",
+    "name": "Phantom Glitchpop",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "glitchpop",
+      "name": "Glitchpop"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/25a7f0f2-4bce-7e45-b4b0-ca9264f5dfcc.webp",
+    "variants": [
+      "Phantom Glitchpop Nível 4 (Variante 1 Azul)",
+      "Phantom Glitchpop Nível 4 (Variante 2 Vermelha)",
+      "Phantom Glitchpop Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-ion",
+    "name": "Phantom Íon",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "ion",
+      "name": "Íon"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/e86bf7e4-4dd3-fbee-533b-fa875344bbaf.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-kuronami",
+    "name": "Phantom Kuronami",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "kuronami",
+      "name": "Kuronami"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/3f6410af-4fd7-74fb-c0f4-6ab61d30022c.webp",
+    "variants": [
+      "Phantom Kuronami Nível 4 (Variante 1 Roxa)",
+      "Phantom Kuronami Nível 4 (Variante 2 Branca)",
+      "Phantom Kuronami Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-magipunk",
+    "name": "Phantom Magipunk",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/f2531d6f-40d8-ad18-4e74-ed812e0a6b1f.webp",
+    "variants": [
+      "Phantom Magipunk Nível 4 (Variante 1 Verde)",
+      "Phantom Magipunk Nível 4 (Variante 2 Preta/Vermelha)",
+      "Phantom Magipunk Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-nebulosa",
+    "name": "Phantom Nebulosa",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "nebulosa",
+      "name": "Nebulosa"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/57f91d68-4cda-76c0-c258-7ba507cd6f87.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-neo-oeste",
+    "name": "Phantom Neo Oeste",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "neo-oeste",
+      "name": "Neo Oeste"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/52417dc8-48b7-111a-b63b-5db108b2e63a.webp",
+    "variants": [
+      "Phantom Neo Oeste Nível 4 (Variante 1 Dourada)",
+      "Phantom Neo Oeste Nível 4 (Variante 2 Prata)",
+      "Phantom Neo Oeste Nível 4 (Variante 3 Cobre)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-netuno",
+    "name": "Phantom Netuno",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "netuno",
+      "name": "Netuno"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/516ff0cb-4d4b-bf0e-d460-92b3c8d27259.webp",
+    "variants": [
+      "Phantom Netuno Nível 3 (Variante 1 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-nocturnum",
+    "name": "Phantom Nocturnum",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "nocturnum",
+      "name": "Nocturnum"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/320c4baa-41e8-ac8f-91eb-0fbc7bf3c145.webp",
+    "variants": [
+      "Phantom Nocturnum Nível 4 (Variante 1 Preta)",
+      "Phantom Nocturnum Nível 4 (Variante 2 Azul)",
+      "Phantom Nocturnum Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-oni",
+    "name": "Phantom Oni",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "oni",
+      "name": "Oni"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/36791b03-452d-8dad-0091-898cc28d2196.webp",
+    "variants": [
+      "Phantom Oni Nível 4 (Variante 1 Kumo)",
+      "Phantom Oni Nível 4 (Variante 2 Hana)",
+      "Phantom Oni Nível 4 (Variante 3 Tsubame)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-ora-por-onetap",
+    "name": "Phantom ORA por OneTap",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "ora-por-onetap",
+      "name": "ORA por OneTap"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/7581e975-418f-fe4f-e3b0-08a3000e9a8d.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-pinaculo-sombrio",
+    "name": "Phantom Pináculo Sombrio",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "pinaculo-sombrio",
+      "name": "Pináculo Sombrio"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/02ed7299-4035-c973-4a26-9f8c6d454e63.webp",
+    "variants": [
+      "Phantom Pináculo Sombrio Nível 4 (Variante 1 Roxa)",
+      "Phantom Pináculo Sombrio Nível 4 (Variante 2 Vermelha)",
+      "Phantom Pináculo Sombrio Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-preludio-do-caos",
+    "name": "Phantom Prelúdio do Caos",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "preludio-do-caos",
+      "name": "Prelúdio do Caos"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/ad2c5365-4147-23da-afaa-08b9bfb3817b.webp",
+    "variants": [
+      "Phantom Prelúdio do Caos Nível 4 (Variante 1 Verde)",
+      "Phantom Prelúdio do Caos Nível 4 (Variante 2 Branca)",
+      "Phantom Prelúdio do Caos Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-primordium",
+    "name": "Phantom Primordium",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "primordium",
+      "name": "Primordium"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/34560475-4eaa-d2be-b37f-908463413482.webp",
+    "variants": [
+      "Phantom Primordium Nível 4 (Variante 1 Peçonha)",
+      "Phantom Primordium Nível 4 (Variante 2 Cobalto)",
+      "Phantom Primordium Nível 4 (Variante 3 Ouro)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-protocolo-781-a",
+    "name": "Phantom Protocolo 781-A",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "protocolo-781-a",
+      "name": "Protocolo 781-A"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/9877d50b-43b1-837a-802a-bf8a3b98e2dd.webp",
+    "variants": [
+      "Phantom Protocolo 781-A Nível 5 (Variante 1 Branca/Rosa)",
+      "Phantom Protocolo 781-A Nível 5 (Variante 2 Vermelha/Azul)",
+      "Phantom Protocolo 781-A Nível 5 (Variante 3 Verde)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-rabisquinhos",
+    "name": "Phantom Rabisquinhos",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "rabisquinhos",
+      "name": "Rabisquinhos"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/3a091315-4e87-31d5-7cdb-27804a177fd2.webp",
+    "variants": [
+      "Phantom Rabisquinhos Nível 2 (Variante 1 Missão Animal)",
+      "Phantom Rabisquinhos Nível 2 (Variante 2 League of Legends)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-radiant-entertainment-system",
+    "name": "Phantom Radiant Entertainment System",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "radiant-entertainment-system",
+      "name": "Radiant Entertainment System"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/4eb45d71-4fa4-be4f-7409-cf92123f1d22.webp",
+    "variants": [
+      "Phantom Radiant Entertainment System Nível 4 (Variante 1 Dance Fever)",
+      "Phantom Radiant Entertainment System Nível 4 (Variante 2 K.nock O.ut!!)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-reconhecimento",
+    "name": "Phantom Reconhecimento",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "reconhecimento",
+      "name": "Reconhecimento"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/d67b929f-4431-61c0-286e-3ebf3d11c4af.webp",
+    "variants": [
+      "Phantom Reconhecimento Nível 4 (Variante 1 Camuflagem Vermelha)",
+      "Phantom Reconhecimento Nível 4 (Variante 2 Camuflagem Azul)",
+      "Phantom Reconhecimento Nível 4 (Variante 3 Camuflagem Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-rgx-11z-pro",
+    "name": "Phantom RGX 11z Pro",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/499acf05-4f79-e345-3714-57bf7aa163ea.webp",
+    "variants": [
+      "Phantom RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Phantom RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Phantom RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-ruina",
+    "name": "Phantom Ruína",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "ruina",
+      "name": "Ruína"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5b43d27b-419c-f2bc-53fe-d7829dad46b3.webp",
+    "variants": [
+      "Phantom Ruína Nível 4 (Variante 1 Roxa)",
+      "Phantom Ruína Nível 4 (Variante 2 Vermelha/Amarela)",
+      "Phantom Ruína Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-saqueador",
+    "name": "Phantom Saqueador",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/044b28ba-4c3b-d315-140d-d9a249da5567.webp",
+    "variants": [
+      "Phantom Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Phantom Saqueador Nível 4 (Variante 2 Preta)",
+      "Phantom Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-sentinelas-da-luz",
+    "name": "Phantom Sentinelas da Luz",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "sentinelas-da-luz",
+      "name": "Sentinelas da Luz"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/a8652d02-458c-461c-8aa8-b7a520455023.webp",
+    "variants": [
+      "Phantom Sentinelas da Luz Nível 4 (Variante 1 Rosa)",
+      "Phantom Sentinelas da Luz Nível 4 (Variante 2 Vermelha/Verde)",
+      "Phantom Sentinelas da Luz Nível 4 (Variante 3 Azul/Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-singularidade",
+    "name": "Phantom Singularidade",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "singularidade",
+      "name": "Singularidade"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5eec4ce6-443d-e9b5-4c5b-2b967d426bd3.webp",
+    "variants": [
+      "Phantom Singularidade Nível 4 (Variante 1 Azul)",
+      "Phantom Singularidade Nível 4 (Variante 2 Vermelha)",
+      "Phantom Singularidade Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-soberania",
+    "name": "Phantom Soberania",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "soberania",
+      "name": "Soberania"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/42fe7bf8-40ba-b1f4-df5e-34a6f51f29bf.webp",
+    "variants": [
+      "Phantom Soberania Nível 4 (Variante 1 Verde)",
+      "Phantom Soberania Nível 4 (Variante 2 Turquesa)",
+      "Phantom Soberania Nível 4 (Variante 3 Vermelha)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-spline",
+    "name": "Phantom Spline",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "spline",
+      "name": "Spline"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/13f553a1-4124-7c29-05e9-e7932fdeabb6.webp",
+    "variants": [
+      "Phantom Spline (Variante 1 Verde)",
+      "Phantom Spline (Variante 2 Vermelha)",
+      "Phantom Spline (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-sublime-2-0",
+    "name": "Phantom Sublime//2.0",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "sublime-2-0",
+      "name": "Sublime//2.0"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/44b7b110-46bf-ccbb-2613-29a5df296461.webp",
+    "variants": [
+      "Phantom Sublime//2.0 Nível 4 (Variante 1 Dourada)",
+      "Phantom Sublime//2.0 Nível 4 (Variante 2 Verde)",
+      "Phantom Sublime//2.0 Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-suburbano",
+    "name": "Phantom Suburbano",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "suburbano",
+      "name": "Suburbano"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/ed3ac995-4fd1-3079-27aa-4aab84447833.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-valorant-go-vol-1",
+    "name": "Phantom VALORANT GO! Vol. 1",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "valorant-go-vol-1",
+      "name": "VALORANT GO! Vol. 1"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/0acbabbe-4f4c-f643-284b-f69029abb54e.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "phantom-vinganca-de-gaia",
+    "name": "Phantom Vingança de Gaia",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "vinganca-de-gaia",
+      "name": "Vingança de Gaia"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/7ae63121-4cf0-b4db-00ed-eb8ef05572b1.webp",
+    "variants": [
+      "Phantom Vingança de Gaia Nível 4 (Variante 1 Azul)",
+      "Phantom Vingança de Gaia Nível 4 (Variante 2 Verde)",
+      "Phantom Vingança de Gaia Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "phantom-xenocacador",
+    "name": "Phantom Xenocaçador",
+    "weaponId": "phantom",
+    "collection": {
+      "id": "xenocacador",
+      "name": "Xenocaçador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/fac0cea1-45a9-1549-c120-af8f0150e562.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-aemondir",
+    "name": "Sheriff Aemondir",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "aemondir",
+      "name": "Aemondir"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/db41461d-4cee-b397-09ff-f2b0d8f012f4.webp",
+    "variants": [
+      "Sheriff Aemondir Nível 3 (Variante 1 Prata)",
+      "Sheriff Aemondir Nível 3 (Variante 2 Bronze)",
+      "Sheriff Aemondir Nível 3 (Variante 3 Obsidiana)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-apocaliptica",
+    "name": "Sheriff Apocalíptica",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "apocaliptica",
+      "name": "Apocalíptica"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/42e25a14-4ef6-19ef-d013-6db2afcb44c3.webp",
+    "variants": [
+      "Sheriff Apocalíptica Nível 4 (Variante 1 Vermelha)",
+      "Sheriff Apocalíptica Nível 4 (Variante 2 Azul)",
+      "Sheriff Apocalíptica Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-apogeu-sideral",
+    "name": "Sheriff Apogeu Sideral",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "apogeu-sideral",
+      "name": "Apogeu Sideral"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5ff60bfc-4a7f-b9bf-245d-f2b4e31de6a4.webp",
+    "variants": [
+      "Sheriff Apogeu Sideral Nível 4 (Variante 1 Amarela)",
+      "Sheriff Apogeu Sideral Nível 4 (Variante 2 Branca)",
+      "Sheriff Apogeu Sideral Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-araxys",
+    "name": "Sheriff Araxys",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "araxys",
+      "name": "Araxys"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/317574ca-4a9d-9e5a-f9c4-a79aa378f75b.webp",
+    "variants": [
+      "Sheriff Araxys Nível 4 (Variante 1 Roxa)",
+      "Sheriff Araxys Nível 4 (Variante 2 Preta)",
+      "Sheriff Araxys Nível 4 (Variante 3 Prata)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-chiclete-mortifero",
+    "name": "Sheriff Chiclete Mortífero",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "chiclete-mortifero",
+      "name": "Chiclete Mortífero"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/c7049e63-4c65-dd0e-20ec-7c956217e894.webp",
+    "variants": [
+      "Sheriff Chiclete Mortífero Nível 4 (Variante 1 Amarela)",
+      "Sheriff Chiclete Mortífero Nível 4 (Variante 2 Vermelha)",
+      "Sheriff Chiclete Mortífero Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-chronovoid",
+    "name": "Sheriff ChronoVoid",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "chronovoid",
+      "name": "ChronoVoid"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/e1fdd246-4a6c-af26-f0a0-65a48f2586da.webp",
+    "variants": [
+      "Sheriff ChronoVoid Nível 4 (Variante 1 Roxa)",
+      "Sheriff ChronoVoid Nível 4 (Variante 2 Vermelha)",
+      "Sheriff ChronoVoid Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-ex-o",
+    "name": "Sheriff EX.O",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "ex-o",
+      "name": "EX.O"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2109efb1-432f-8fe8-897b-31a9d135ac3c.webp",
+    "variants": [
+      "Sheriff EX.O Nível 4 (Variante 1 Amarela)",
+      "Sheriff EX.O Nível 4 (Variante 2 Vermelha)",
+      "Sheriff EX.O Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-fera-incendiaria",
+    "name": "Sheriff Fera Incendiária",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "fera-incendiaria",
+      "name": "Fera Incendiária"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/97a3cdc4-4f3a-ed26-02d6-6dbf6c1380d0.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-floreterea",
+    "name": "Sheriff Floretérea",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "floreterea",
+      "name": "Floretérea"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/c0a39e8b-4d52-bfbc-21f2-a88b0f8c4856.webp",
+    "variants": [
+      "Sheriff Floretérea Nível 4 (Variante 1 Azul)",
+      "Sheriff Floretérea Nível 4 (Variante 2 Laranja)",
+      "Sheriff Floretérea Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-imperium",
+    "name": "Sheriff Imperium",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "imperium",
+      "name": "Imperium"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/9eba83e5-4084-300e-d001-fd8152dc6522.webp",
+    "variants": [
+      "Sheriff Imperium Nível 4 (Variante 1 Rubi)",
+      "Sheriff Imperium Nível 4 (Variante 2 Pérola)",
+      "Sheriff Imperium Nível 4 (Variante 3 Obsidiana)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-ion",
+    "name": "Sheriff Íon",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "ion",
+      "name": "Íon"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/83778c03-45a3-67a2-3c89-6b8598327d58.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-kuronami",
+    "name": "Sheriff Kuronami",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "kuronami",
+      "name": "Kuronami"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/0eec6f2b-4d64-9c16-7846-b8865030f61c.webp",
+    "variants": [
+      "Sheriff Kuronami Nível 4 (Variante 1 Roxa)",
+      "Sheriff Kuronami Nível 4 (Variante 2 Branca)",
+      "Sheriff Kuronami Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-magipunk",
+    "name": "Sheriff Magipunk",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/6460edbf-458d-bf61-7519-519305ba5da2.webp",
+    "variants": [
+      "Sheriff Magipunk Nível 4 (Variante 1 Verde)",
+      "Sheriff Magipunk Nível 4 (Variante 2 Rosa)",
+      "Sheriff Magipunk Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-nebulosa",
+    "name": "Sheriff Nebulosa",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "nebulosa",
+      "name": "Nebulosa"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/55ef0ffa-44fe-03ac-dcf0-1982df0857aa.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-neo-oeste",
+    "name": "Sheriff Neo Oeste",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "neo-oeste",
+      "name": "Neo Oeste"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/b73f455a-4d77-44e7-fd90-1db9db82a8f6.webp",
+    "variants": [
+      "Sheriff Neo Oeste Nível 4 (Variante 1 Dourada)",
+      "Sheriff Neo Oeste Nível 4 (Variante 2 Prata)",
+      "Sheriff Neo Oeste Nível 4 (Variante 3 Cobre)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-ora-por-onetap",
+    "name": "Sheriff ORA por OneTap",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "ora-por-onetap",
+      "name": "ORA por OneTap"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/a452fcd9-4fe6-dc8c-6459-b2ad13ef89ff.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-pinaculo-sombrio",
+    "name": "Sheriff Pináculo Sombrio",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "pinaculo-sombrio",
+      "name": "Pináculo Sombrio"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/8504529f-4555-64a6-6f18-28a4438336e1.webp",
+    "variants": [
+      "Sheriff Pináculo Sombrio Nível 4 (Variante 1 Roxa)",
+      "Sheriff Pináculo Sombrio Nível 4 (Variante 2 Vermelha)",
+      "Sheriff Pináculo Sombrio Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-preludio-do-caos",
+    "name": "Sheriff Prelúdio do Caos",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "preludio-do-caos",
+      "name": "Prelúdio do Caos"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/81bd181f-4124-9e58-ffd4-09964dc0d2cc.webp",
+    "variants": [
+      "Sheriff Prelúdio do Caos Nível 4 (Variante 1 Verde)",
+      "Sheriff Prelúdio do Caos Nível 4 (Variante 2 Branca)",
+      "Sheriff Prelúdio do Caos Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "sheriff-protocolo-781-a",
+    "name": "Sheriff Protocolo 781-A",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "protocolo-781-a",
+      "name": "Protocolo 781-A"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/84589da8-4e2b-11bf-ca52-b88e6b7e1dbd.webp",
+    "variants": [
+      "Sheriff Protocolo 781-A Nível 5 (Variante 1 Branca/Rosa)",
+      "Sheriff Protocolo 781-A Nível 5 (Variante 2 Vermelha/Azul)",
+      "Sheriff Protocolo 781-A Nível 5 (Variante 3 Verde)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-rgx-11z-pro",
+    "name": "Sheriff RGX 11z Pro",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/142be691-42a0-c0a1-f6ed-57b3158def7e.webp",
+    "variants": [
+      "Sheriff RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Sheriff RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Sheriff RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-saqueador",
+    "name": "Sheriff Saqueador",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a40a6ce2-462c-c864-5d30-7b9408b98d3d.webp",
+    "variants": [
+      "Sheriff Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Sheriff Saqueador Nível 4 (Variante 2 Preta)",
+      "Sheriff Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-sentinelas-da-luz",
+    "name": "Sheriff Sentinelas da Luz",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "sentinelas-da-luz",
+      "name": "Sentinelas da Luz"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2ba3ded8-47d5-58e3-1307-39800214636d.webp",
+    "variants": [
+      "Sheriff Sentinelas da Luz Nível 4 (Variante 1 Rosa)",
+      "Sheriff Sentinelas da Luz Nível 4 (Variante 2 Vermelha/Verde)",
+      "Sheriff Sentinelas da Luz Nível 4 (Variante 3 Azul/Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-singularidade",
+    "name": "Sheriff Singularidade",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "singularidade",
+      "name": "Singularidade"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/bfd9e773-4376-1f6a-98f2-dc93f0c0607c.webp",
+    "variants": [
+      "Sheriff Singularidade Nível 4 (Variante 1 Azul)",
+      "Sheriff Singularidade Nível 4 (Variante 2 Vermelha)",
+      "Sheriff Singularidade Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "sheriff-sobrecarga",
+    "name": "Sheriff Sobrecarga",
+    "weaponId": "sheriff",
+    "collection": {
+      "id": "sobrecarga",
+      "name": "Sobrecarga"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/208bdc02-451d-60e5-196c-47ae67f150fc.webp",
+    "variants": [
+      "Sheriff Sobrecarga Nível 4 (Variante 1 Cobalto)",
+      "Sheriff Sobrecarga Nível 4 (Variante 2 Chiclete)",
+      "Sheriff Sobrecarga Nível 4 (Variante 3 Ônix)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "shorty-araxys",
+    "name": "Shorty Araxys",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "araxys",
+      "name": "Araxys"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4e98f273-472c-3376-7195-46a1f81402cc.webp",
+    "variants": [
+      "Shorty Araxys Nível 4 (Variante 1 Roxa)",
+      "Shorty Araxys Nível 4 (Variante 2 Preta)",
+      "Shorty Araxys Nível 4 (Variante 3 Prata)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "shorty-neo-oeste",
+    "name": "Shorty Neo Oeste",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "neo-oeste",
+      "name": "Neo Oeste"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/de88d366-4d2b-655f-345c-719b97ddf9d9.webp",
+    "variants": [
+      "Shorty Neo Oeste Nível 4 (Variante 1 Dourada)",
+      "Shorty Neo Oeste Nível 4 (Variante 2 Prata)",
+      "Shorty Neo Oeste Nível 4 (Variante 3 Cobre)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "shorty-netuno",
+    "name": "Shorty Netuno",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "netuno",
+      "name": "Netuno"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/646e713f-4999-6c56-094c-dd9114bdb35a.webp",
+    "variants": [
+      "Shorty Netuno Nível 3 (Variante 1 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "shorty-oni",
+    "name": "Shorty Oni",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "oni",
+      "name": "Oni"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/b36dad11-4105-6c08-0486-17ba96d0f2a4.webp",
+    "variants": [
+      "Shorty Oni Nível 4 (Variante 1 Kumo)",
+      "Shorty Oni Nível 4 (Variante 2 Hana)",
+      "Shorty Oni Nível 4 (Variante 3 Tsubame)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "shorty-preludio-do-caos",
+    "name": "Shorty Prelúdio do Caos",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "preludio-do-caos",
+      "name": "Prelúdio do Caos"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/c9572061-4ee1-ff7d-b60c-ebac198d3706.webp",
+    "variants": [
+      "Shorty Prelúdio do Caos Nível 4 (Variante 1 Verde)",
+      "Shorty Prelúdio do Caos Nível 4 (Variante 2 Branca)",
+      "Shorty Prelúdio do Caos Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "shorty-primordium",
+    "name": "Shorty Primordium",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "primordium",
+      "name": "Primordium"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4542410b-46ba-36f2-898d-c2815b504002.webp",
+    "variants": [
+      "Shorty Primordium Nível 4 (Variante 1 Peçonha)",
+      "Shorty Primordium Nível 4 (Variante 2 Cobalto)",
+      "Shorty Primordium Nível 4 (Variante 3 Ouro)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "shorty-rabisquinhos",
+    "name": "Shorty Rabisquinhos",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "rabisquinhos",
+      "name": "Rabisquinhos"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/9a37b09b-4768-b368-52ef-58ac62564637.webp",
+    "variants": [
+      "Shorty Rabisquinhos Nível 2 (Variante 1 Missão Animal)",
+      "Shorty Rabisquinhos Nível 2 (Variante 2 League of Legends)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "shorty-sentinelas-da-luz",
+    "name": "Shorty Sentinelas da Luz",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "sentinelas-da-luz",
+      "name": "Sentinelas da Luz"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/160d661d-4152-6914-8069-c393914759cb.webp",
+    "variants": [
+      "Shorty Sentinelas da Luz Nível 4 (Variante 1 Rosa)",
+      "Shorty Sentinelas da Luz Nível 4 (Variante 2 Vermelha/Verde)",
+      "Shorty Sentinelas da Luz Nível 4 (Variante 3 Azul/Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "shorty-vinganca-de-gaia",
+    "name": "Shorty Vingança de Gaia",
+    "weaponId": "shorty",
+    "collection": {
+      "id": "vinganca-de-gaia",
+      "name": "Vingança de Gaia"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/4c583a37-42d7-23db-5e38-1eafe96f2b9d.webp",
+    "variants": [
+      "Shorty Vingança de Gaia Nível 4 (Variante 1 Azul)",
+      "Shorty Vingança de Gaia Nível 4 (Variante 2 Verde)",
+      "Shorty Vingança de Gaia Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-anti-radio-materia-atomizador",
+    "name": "Spectre Anti-Radio-Matéria Atomizador",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "anti-radio-materia-atomizador",
+      "name": "Anti-Radio-Matéria Atomizador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/4a8e8ff6-44f2-0ebf-6fa8-a5af76b628ee.webp",
+    "variants": [
+      "Spectre Anti-Radio-Matéria Atomizador Nível 2 (Variante 1 Cromada)",
+      "Spectre Anti-Radio-Matéria Atomizador Nível 2 (Variante 2 Preta)",
+      "Spectre Anti-Radio-Matéria Atomizador Nível 2 (Variante 3 Vermelha/Azul)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-asas-oniricas-de-evori",
+    "name": "Spectre Asas Oníricas de Evori",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "asas-oniricas-de-evori",
+      "name": "Asas Oníricas de Evori"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/fb3f3ffd-46bc-41e3-25c9-2688f2d017ed.webp",
+    "variants": [
+      "Spectre Asas Oníricas de Evori Nível 4 (Variante 1 Rosa)",
+      "Spectre Asas Oníricas de Evori Nível 4 (Variante 2 Laranja)",
+      "Spectre Asas Oníricas de Evori Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-blastx",
+    "name": "Spectre BlastX",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "blastx",
+      "name": "BlastX"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/b4e5bb69-4e12-113f-c43b-efa5b13cb96d.webp",
+    "variants": [
+      "Spectre BlastX Nível 4 (Variante 1 Preta)",
+      "Spectre BlastX Nível 4 (Variante 2 Amarela)",
+      "Spectre BlastX Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-ceifador",
+    "name": "Spectre Ceifador",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "ceifador",
+      "name": "Ceifador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/95ca4d2b-4166-8e0e-8d79-d79957f58b81.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-crise-radiante-001",
+    "name": "Spectre Crise Radiante 001",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "crise-radiante-001",
+      "name": "Crise Radiante 001"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/780a93e6-46aa-50c7-5e73-b885c5f6a141.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-eletrizante",
+    "name": "Spectre Eletrizante",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "eletrizante",
+      "name": "Eletrizante"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/14373997-4f2f-ebe2-3547-e893d8750459.webp",
+    "variants": [
+      "Spectre Eletrizante Nível 4 (Variante 1 Vermelha)",
+      "Spectre Eletrizante Nível 4 (Variante 2 Preta)",
+      "Spectre Eletrizante Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-ex-o",
+    "name": "Spectre EX.O",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "ex-o",
+      "name": "EX.O"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2f26ca83-4a92-e655-1da3-48ab0b941c2e.webp",
+    "variants": [
+      "Spectre EX.O Nível 4 (Variante 1 Amarela)",
+      "Spectre EX.O Nível 4 (Variante 2 Vermelha)",
+      "Spectre EX.O Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-ion",
+    "name": "Spectre Íon",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "ion",
+      "name": "Íon"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/eacea54e-4e53-2715-cd4a-5d860aa68449.webp",
+    "variants": [
+      "Spectre Íon Nível 4 (Variante 1 Verde)",
+      "Spectre Íon Nível 4 (Variante 2 Amarela)",
+      "Spectre Íon Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-kuronami",
+    "name": "Spectre Kuronami",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "kuronami",
+      "name": "Kuronami"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/f743fe2f-4cab-71d9-81e2-5b8f2f52923f.webp",
+    "variants": [
+      "Spectre Kuronami Nível 4 (Variante 1 Roxa)",
+      "Spectre Kuronami Nível 4 (Variante 2 Branca)",
+      "Spectre Kuronami Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-lugubre",
+    "name": "Spectre Lúgubre",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "lugubre",
+      "name": "Lúgubre"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a786ea8f-42f2-ae5f-376f-2bb66df1a62f.webp",
+    "variants": [
+      "Spectre Lúgubre Nível 4 (Variante 1 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-magipunk",
+    "name": "Spectre Magipunk",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a3f8e1b3-4654-f3ea-15ba-9eb9fd6a0b0d.webp",
+    "variants": [
+      "Spectre Magipunk Nível 4 (Variante 1 Verde)",
+      "Spectre Magipunk Nível 4 (Variante 2 Roxa)",
+      "Spectre Magipunk Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-netuno",
+    "name": "Spectre Netuno",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "netuno",
+      "name": "Netuno"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/55153919-4598-cb0f-4759-7ea546c6d121.webp",
+    "variants": [
+      "Spectre Netuno Nível 3 (Variante 1 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-pinaculo-sombrio",
+    "name": "Spectre Pináculo Sombrio",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "pinaculo-sombrio",
+      "name": "Pináculo Sombrio"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/2052a76e-411a-ebfc-e516-fd80dba0ddf9.webp",
+    "variants": [
+      "Spectre Pináculo Sombrio Nível 4 (Variante 1 Roxa)",
+      "Spectre Pináculo Sombrio Nível 4 (Variante 2 Vermelha)",
+      "Spectre Pináculo Sombrio Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-preludio-do-caos",
+    "name": "Spectre Prelúdio do Caos",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "preludio-do-caos",
+      "name": "Prelúdio do Caos"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/fbb2acd5-4aef-1f50-da10-3084c323011c.webp",
+    "variants": [
+      "Spectre Prelúdio do Caos Nível 4 (Variante 1 Verde)",
+      "Spectre Prelúdio do Caos Nível 4 (Variante 2 Branca)",
+      "Spectre Prelúdio do Caos Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-primordium",
+    "name": "Spectre Primordium",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "primordium",
+      "name": "Primordium"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/b160a897-4b92-0034-58ff-2b9b8c2d7340.webp",
+    "variants": [
+      "Spectre Primordium Nível 4 (Variante 1 Peçonha)",
+      "Spectre Primordium Nível 4 (Variante 2 Cobalto)",
+      "Spectre Primordium Nível 4 (Variante 3 Ouro)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-protocolo-781-a",
+    "name": "Spectre Protocolo 781-A",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "protocolo-781-a",
+      "name": "Protocolo 781-A"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/eaa73ab9-4688-0c40-09ad-85b535a50723.webp",
+    "variants": [
+      "Spectre Protocolo 781-A Nível 5 (Variante 1 Branca/Rosa)",
+      "Spectre Protocolo 781-A Nível 5 (Variante 2 Vermelha/Azul)",
+      "Spectre Protocolo 781-A Nível 5 (Variante 3 Verde)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-reconhecimento",
+    "name": "Spectre Reconhecimento",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "reconhecimento",
+      "name": "Reconhecimento"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/26b1c794-4370-f354-ff4d-3a8b95edff79.webp",
+    "variants": [
+      "Spectre Reconhecimento Nível 4 (Variante 1 Camuflagem Vermelha)",
+      "Spectre Reconhecimento Nível 4 (Variante 2 Camuflagem Azul)",
+      "Spectre Reconhecimento Nível 4 (Variante 3 Camuflagem Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-rgx-11z-pro",
+    "name": "Spectre RGX 11z Pro",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4f0c9544-469c-0c62-df2e-95b15d6f2333.webp",
+    "variants": [
+      "Spectre RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Spectre RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Spectre RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-ruina",
+    "name": "Spectre Ruína",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "ruina",
+      "name": "Ruína"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/f9c2e823-4eeb-d872-8a4c-d5a0bf8a3b6c.webp",
+    "variants": [
+      "Spectre Ruína Nível 4 (Variante 1 Roxa)",
+      "Spectre Ruína Nível 4 (Variante 2 Vermelha/Amarela)",
+      "Spectre Ruína Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-saqueador",
+    "name": "Spectre Saqueador",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/1cb1ab52-4c7d-0775-77f4-eaac99968261.webp",
+    "variants": [
+      "Spectre Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Spectre Saqueador Nível 4 (Variante 2 Preta)",
+      "Spectre Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-sentinelas-da-luz",
+    "name": "Spectre Sentinelas da Luz",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "sentinelas-da-luz",
+      "name": "Sentinelas da Luz"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/7c232164-4b8c-7a8f-7ae5-42987cbfb14f.webp",
+    "variants": [
+      "Spectre Sentinelas da Luz Nível 4 (Variante 1 Rosa)",
+      "Spectre Sentinelas da Luz Nível 4 (Variante 2 Vermelha/Verde)",
+      "Spectre Sentinelas da Luz Nível 4 (Variante 3 Azul/Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-singularidade",
+    "name": "Spectre Singularidade",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "singularidade",
+      "name": "Singularidade"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/0eab3e5c-4de4-e221-34fb-2ab435c89eb6.webp",
+    "variants": [
+      "Spectre Singularidade Nível 4 (Variante 1 Azul)",
+      "Spectre Singularidade Nível 4 (Variante 2 Vermelha)",
+      "Spectre Singularidade Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-spline",
+    "name": "Spectre Spline",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "spline",
+      "name": "Spline"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/418ef9fe-4675-6620-3755-c19aca3ff131.webp",
+    "variants": [
+      "Spectre Spline (Variante 1 Verde)",
+      "Spectre Spline (Variante 2 Vermelha)",
+      "Spectre Spline (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "spectre-sublime",
+    "name": "Spectre Sublime",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "sublime",
+      "name": "Sublime"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/20807bd8-4259-35e5-e54e-c1b214f58cc8.webp",
+    "variants": [
+      "Spectre Sublime Nível 4 (Variante 1 Laranja)",
+      "Spectre Sublime Nível 4 (Variante 2 Azul)",
+      "Spectre Sublime Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "spectre-valorant-go-vol-1",
+    "name": "Spectre VALORANT GO! Vol. 1",
+    "weaponId": "spectre",
+    "collection": {
+      "id": "valorant-go-vol-1",
+      "name": "VALORANT GO! Vol. 1"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/89b78398-4c56-6371-cad7-8eb78ee3f550.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "stinger-chiclete-mortifero",
+    "name": "Stinger Chiclete Mortífero",
+    "weaponId": "stinger",
+    "collection": {
+      "id": "chiclete-mortifero",
+      "name": "Chiclete Mortífero"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/a5df3dee-4303-5f1a-a5f9-60bd46e2390b.webp",
+    "variants": [
+      "Stinger Chiclete Mortífero Nível 4 (Variante 1 Amarela)",
+      "Stinger Chiclete Mortífero Nível 4 (Variante 2 Vermelha)",
+      "Stinger Chiclete Mortífero Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "stinger-cyrax",
+    "name": "Stinger CYRAX",
+    "weaponId": "stinger",
+    "collection": {
+      "id": "cyrax",
+      "name": "CYRAX"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/b0d9088d-4a99-3dda-5b43-319e5fa9e66a.webp",
+    "variants": [
+      "Stinger CYRAX Nível 4 (Variante 1 Vermelha)",
+      "Stinger CYRAX Nível 4 (Variante 2 Amarela)",
+      "Stinger CYRAX Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "stinger-ego",
+    "name": "Stinger Ego",
+    "weaponId": "stinger",
+    "collection": {
+      "id": "ego",
+      "name": "Ego"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/8fe5ebbc-4ce7-a248-9766-288441706e0a.webp",
+    "variants": [
+      "Stinger Ego (Variante 1 Vermelha)",
+      "Stinger Ego (Variante 2 Creme)",
+      "Stinger Ego (Variante 3 Rosa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "stinger-preludio-do-caos",
+    "name": "Stinger Prelúdio do Caos",
+    "weaponId": "stinger",
+    "collection": {
+      "id": "preludio-do-caos",
+      "name": "Prelúdio do Caos"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5a4a0ea0-4ac6-d130-c917-45a7bb89ae42.webp",
+    "variants": [
+      "Stinger Prelúdio do Caos Nível 4 (Variante 1 Verde)",
+      "Stinger Prelúdio do Caos Nível 4 (Variante 2 Branca)",
+      "Stinger Prelúdio do Caos Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "stinger-rabisquinhos",
+    "name": "Stinger Rabisquinhos",
+    "weaponId": "stinger",
+    "collection": {
+      "id": "rabisquinhos",
+      "name": "Rabisquinhos"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/9444ba80-4ae7-985d-40a2-2788f96dd544.webp",
+    "variants": [
+      "Stinger Rabisquinhos Nível 2 (Variante 1 Missão Animal)",
+      "Stinger Rabisquinhos Nível 2 (Variante 2 League of Legends)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "stinger-rgx-11z-pro",
+    "name": "Stinger RGX 11z Pro",
+    "weaponId": "stinger",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/282c15e6-4372-2f18-9143-2d9cdd942c4c.webp",
+    "variants": [
+      "Stinger RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Stinger RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Stinger RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "stinger-soberania",
+    "name": "Stinger Soberania",
+    "weaponId": "stinger",
+    "collection": {
+      "id": "soberania",
+      "name": "Soberania"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/8fb27bb1-4080-581d-bcd3-53ae01861654.webp",
+    "variants": [
+      "Stinger Soberania Nível 4 (Variante 1 Verde)",
+      "Stinger Soberania Nível 4 (Variante 2 Prata)",
+      "Stinger Soberania Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "stinger-sobrecarga",
+    "name": "Stinger Sobrecarga",
+    "weaponId": "stinger",
+    "collection": {
+      "id": "sobrecarga",
+      "name": "Sobrecarga"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/7fa8b218-4943-e745-f62f-a9b666bdc10b.webp",
+    "variants": [
+      "Stinger Sobrecarga Nível 4 (Variante 1 Cobalto)",
+      "Stinger Sobrecarga Nível 4 (Variante 2 Chiclete)",
+      "Stinger Sobrecarga Nível 4 (Variante 3 Ônix)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-aemondir",
+    "name": "Vandal Aemondir",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "aemondir",
+      "name": "Aemondir"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/1df79598-42a0-a433-0aa5-c79047c32779.webp",
+    "variants": [
+      "Vandal Aemondir Nível 3 (Variante 1 Prata)",
+      "Vandal Aemondir Nível 3 (Variante 2 Bronze)",
+      "Vandal Aemondir Nível 3 (Variante 3 Obsidiana)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-aeris",
+    "name": "Vandal Aeris",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "aeris",
+      "name": "Aeris"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/b494ddd1-4459-6976-6736-00a563a74376.webp",
+    "variants": [
+      "Vandal Aeris Nível 4 (Variante 1 Vermelha)",
+      "Vandal Aeris Nível 4 (Variante 2 Rosa)",
+      "Vandal Aeris Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-ancifogo",
+    "name": "Vandal Ancifogo",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "ancifogo",
+      "name": "Ancifogo"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/18609205-4edb-5966-cff8-0fba0230ba1e.webp",
+    "variants": [
+      "Vandal Ancifogo Nível 4 (Variante 1 Vermelha)",
+      "Vandal Ancifogo Nível 4 (Variante 2 Azul)",
+      "Vandal Ancifogo Nível 4 (Variante 3 Escura)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-apogeu-sideral",
+    "name": "Vandal Apogeu Sideral",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "apogeu-sideral",
+      "name": "Apogeu Sideral"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/7c4f7e27-4dcb-0b66-659f-cc94d720e67e.webp",
+    "variants": [
+      "Vandal Apogeu Sideral Nível 4 (Variante 1 Amarela)",
+      "Vandal Apogeu Sideral Nível 4 (Variante 2 Branca)",
+      "Vandal Apogeu Sideral Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-araxys",
+    "name": "Vandal Araxys",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "araxys",
+      "name": "Araxys"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4c926aa9-4f26-bc80-c486-9b888333373f.webp",
+    "variants": [
+      "Vandal Araxys Nível 4 (Variante 1 Roxa)",
+      "Vandal Araxys Nível 4 (Variante 2 Preta)",
+      "Vandal Araxys Nível 4 (Variante 3 Prata)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-asas-oniricas-de-evori",
+    "name": "Vandal Asas Oníricas de Evori",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "asas-oniricas-de-evori",
+      "name": "Asas Oníricas de Evori"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/4f5ee03a-4204-5526-6941-bca4f911a768.webp",
+    "variants": [
+      "Vandal Asas Oníricas de Evori Nível 4 (Variante 1 Verde)",
+      "Vandal Asas Oníricas de Evori Nível 4 (Variante 2 Rosa)",
+      "Vandal Asas Oníricas de Evori Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-chronovoid",
+    "name": "Vandal ChronoVoid",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "chronovoid",
+      "name": "ChronoVoid"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/8e762a1f-4102-b7ce-d6a0-9690c5bfe160.webp",
+    "variants": [
+      "Vandal ChronoVoid Nível 4 (Variante 1 Roxa)",
+      "Vandal ChronoVoid Nível 4 (Variante 2 Vermelha)",
+      "Vandal ChronoVoid Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-criostase",
+    "name": "Vandal Criostase",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "criostase",
+      "name": "Criostase"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/f328add7-4710-ab8d-95bb-409bc8278a35.webp",
+    "variants": [],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-cyrax",
+    "name": "Vandal CYRAX",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "cyrax",
+      "name": "CYRAX"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/e06fd704-4171-b5ea-5028-d3befb62107d.webp",
+    "variants": [
+      "Vandal CYRAX Nível 4 (Variante 1 Vermelha)",
+      "Vandal CYRAX Nível 4 (Variante 2 Amarela)",
+      "Vandal CYRAX Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-divergencia",
+    "name": "Vandal Divergência",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "divergencia",
+      "name": "Divergência"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5a510a45-4b2a-2b9a-bd78-1ea6d229ba38.webp",
+    "variants": [
+      "Vandal Divergência Nível 4 (Variante 1 Roxa)",
+      "Vandal Divergência Nível 4 (Variante 2 Azul)",
+      "Vandal Divergência Nível 4 (Variante 3 Verde)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-ego",
+    "name": "Vandal Ego",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "ego",
+      "name": "Ego"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/8c22a4b2-4da0-f2f2-9bd1-c89d106cd646.webp",
+    "variants": [
+      "Vandal Ego (Variante 1 Vermelha)",
+      "Vandal Ego (Variante 2 Creme)",
+      "Vandal Ego (Variante 3 Rosa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-ex-o",
+    "name": "Vandal EX.O",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "ex-o",
+      "name": "EX.O"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/59032dea-4759-1768-74c9-3796a69a0e32.webp",
+    "variants": [
+      "Vandal EX.O Nível 4 (Variante 1 Amarela)",
+      "Vandal EX.O Nível 4 (Variante 2 Vermelha)",
+      "Vandal EX.O Nível 4 (Variante 3 Rosa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-fera-incendiaria",
+    "name": "Vandal Fera Incendiária",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "fera-incendiaria",
+      "name": "Fera Incendiária"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/8b688de6-42d3-9430-8f38-32b0b3d1c2c6.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-floreterea",
+    "name": "Vandal Floretérea",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "floreterea",
+      "name": "Floretérea"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4fc36214-4492-ef57-f8fb-4cab81863545.webp",
+    "variants": [
+      "Vandal Floretérea Nível 4 (Variante 1 Azul)",
+      "Vandal Floretérea Nível 4 (Variante 2 Laranja)",
+      "Vandal Floretérea Nível 4 (Variante 3 Roxa)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-glitchpop",
+    "name": "Vandal Glitchpop",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "glitchpop",
+      "name": "Glitchpop"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/74789f33-4632-8052-96d7-258538721a32.webp",
+    "variants": [
+      "Vandal Glitchpop Nível 4 (Variante 1 Azul)",
+      "Vandal Glitchpop Nível 4 (Variante 2 Vermelha)",
+      "Vandal Glitchpop Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-heroi-valoroso",
+    "name": "Vandal Herói Valoroso",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "heroi-valoroso",
+      "name": "Herói Valoroso"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/c2c7746c-496a-6372-bd7a-3186276db2d1.webp",
+    "variants": [
+      "Vandal Herói Valoroso Nível 4 (Variante 1 Pôr do Sol)",
+      "Vandal Herói Valoroso Nível 4 (Variante 2 Crepúsculo)",
+      "Vandal Herói Valoroso Nível 4 (Variante 3 Noite)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-imperium",
+    "name": "Vandal Imperium",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "imperium",
+      "name": "Imperium"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/917ca6e8-403e-3691-78d9-a8aa6118385f.webp",
+    "variants": [
+      "Vandal Imperium Nível 4 (Variante 1 Rubi)",
+      "Vandal Imperium Nível 4 (Variante 2 Pérola)",
+      "Vandal Imperium Nível 4 (Variante 3 Obsidiana)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-ion",
+    "name": "Vandal Íon",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "ion",
+      "name": "Íon"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/596ce51d-40e3-dc21-b02d-b08d070a7883.webp",
+    "variants": [
+      "Vandal Íon Nível 4 (Variante 1 Verde)",
+      "Vandal Íon Nível 4 (Variante 2 Amarela)",
+      "Vandal Íon Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-kuronami",
+    "name": "Vandal Kuronami",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "kuronami",
+      "name": "Kuronami"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/d8d5d7a1-4d81-8560-54bc-0692ab40f69b.webp",
+    "variants": [
+      "Vandal Kuronami Nível 4 (Variante 1 Roxa)",
+      "Vandal Kuronami Nível 4 (Variante 2 Branca)",
+      "Vandal Kuronami Nível 4 (Variante 3 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-lugubre",
+    "name": "Vandal Lúgubre",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "lugubre",
+      "name": "Lúgubre"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/437307c6-424c-6a48-9738-949b91166353.webp",
+    "variants": [
+      "Vandal Lúgubre Nível 4 (Variante 1 Dourada)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-magipunk",
+    "name": "Vandal Magipunk",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "magipunk",
+      "name": "Magipunk"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/148d7f02-4259-9c17-a1a4-6fa220a56551.webp",
+    "variants": [
+      "Vandal Magipunk Nível 4 (Variante 1 Verde)",
+      "Vandal Magipunk Nível 4 (Variante 2 Preta/Vermelha)",
+      "Vandal Magipunk Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-mercado-clandestino",
+    "name": "Vandal Mercado.Clandestino",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "mercado-clandestino",
+      "name": "Mercado.Clandestino"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/a810ec6b-46e7-767d-7186-2cbe49e7fe1b.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-neo-oeste",
+    "name": "Vandal Neo Oeste",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "neo-oeste",
+      "name": "Neo Oeste"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/5ef15ada-4332-093f-ea15-8a8891d863d0.webp",
+    "variants": [
+      "Vandal Neo Oeste Nível 4 (Variante 1 Dourada)",
+      "Vandal Neo Oeste Nível 4 (Variante 2 Prata)",
+      "Vandal Neo Oeste Nível 4 (Variante 3 Cobre)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-netuno",
+    "name": "Vandal Netuno",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "netuno",
+      "name": "Netuno"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/db91451c-4309-2c8c-eded-bf842d844e52.webp",
+    "variants": [
+      "Vandal Netuno Nível 3 (Variante 1 Preta)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-oni",
+    "name": "Vandal Oni",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "oni",
+      "name": "Oni"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/7156c2ee-41fc-f8f4-d457-ebb287965c08.webp",
+    "variants": [
+      "Vandal Oni Nível 4 (Variante 1 Kumo)",
+      "Vandal Oni Nível 4 (Variante 2 Hana)",
+      "Vandal Oni Nível 4 (Variante 3 Tsubame)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-ora-por-onetap",
+    "name": "Vandal ORA por OneTap",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "ora-por-onetap",
+      "name": "ORA por OneTap"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/2ef9ee97-4735-e7d9-069f-fb80541468b5.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-origem",
+    "name": "Vandal Origem",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "origem",
+      "name": "Origem"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/6c4315b8-4ff1-baaa-5aac-5790c7443353.webp",
+    "variants": [
+      "Vandal Origem Nível 4 (Variante 1 Verde)",
+      "Vandal Origem Nível 4 (Variante 2 Vermelha)",
+      "Vandal Origem Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-preludio-do-caos",
+    "name": "Vandal Prelúdio do Caos",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "preludio-do-caos",
+      "name": "Prelúdio do Caos"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/522a264e-4ca7-adb0-6cf1-28b2ef938727.webp",
+    "variants": [
+      "Vandal Prelúdio do Caos Nível 4 (Variante 1 Verde)",
+      "Vandal Prelúdio do Caos Nível 4 (Variante 2 Branca)",
+      "Vandal Prelúdio do Caos Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-primordium",
+    "name": "Vandal Primordium",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "primordium",
+      "name": "Primordium"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/a70fd508-44ea-8de3-3b30-d3a7eb9db42e.webp",
+    "variants": [
+      "Vandal Primordium Nível 4 (Variante 1 Peçonha)",
+      "Vandal Primordium Nível 4 (Variante 2 Cobalto)",
+      "Vandal Primordium Nível 4 (Variante 3 Ouro)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-protecao-fasica",
+    "name": "Vandal Proteção Fásica",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "protecao-fasica",
+      "name": "Proteção Fásica"
+    },
+    "edition": "Edição Ultra",
+    "image": "assets/skins/b8a6d8f5-4171-c0f3-eab4-9bb64af25f4f.webp",
+    "variants": [
+      "Vandal Proteção Fásica Nível 4 (Variante 1 Azul)",
+      "Vandal Proteção Fásica Nível 4 (Variante 2 Preta)",
+      "Vandal Proteção Fásica Nível 4 (Variante 3 Dourada)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-reinos-vinculados",
+    "name": "Vandal Reinos Vinculados",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "reinos-vinculados",
+      "name": "Reinos Vinculados"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/f2b034e0-4b54-5abc-25c8-d293b6f1d247.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-renegado",
+    "name": "Vandal Renegado",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "renegado",
+      "name": "Renegado"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/1b9b0131-42fe-b6a7-d212-699b342ba642.webp",
+    "variants": [
+      "Vandal Renegado Nível 4 (Variante 1 Verde)",
+      "Vandal Renegado Nível 4 (Variante 2 Vermelha)",
+      "Vandal Renegado Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-rgx-11z-pro",
+    "name": "Vandal RGX 11z Pro",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "rgx-11z-pro",
+      "name": "RGX 11z Pro"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/e5490f71-455b-74ad-f762-f5a876d4dff9.webp",
+    "variants": [
+      "Vandal RGX 11z Pro Nível 5 (Variante 1 Vermelha)",
+      "Vandal RGX 11z Pro Nível 5 (Variante 2 Azul)",
+      "Vandal RGX 11z Pro Nível 5 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-roseiral-sombrio",
+    "name": "Vandal Roseiral Sombrio",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "roseiral-sombrio",
+      "name": "Roseiral Sombrio"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/4f1823dd-4a17-7511-6ac8-4aa28a6a263a.webp",
+    "variants": [
+      "Vandal Roseiral Sombrio Nível 4 (Variante 1 Dourada)",
+      "Vandal Roseiral Sombrio Nível 4 (Variante 2 Azul)",
+      "Vandal Roseiral Sombrio Nível 4 (Variante 3 Espinheiro Roxo)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-saqueador",
+    "name": "Vandal Saqueador",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "saqueador",
+      "name": "Saqueador"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/30388628-42f0-606c-82c0-73ad43de997f.webp",
+    "variants": [
+      "Vandal Saqueador Nível 4 (Variante 1 Vermelha)",
+      "Vandal Saqueador Nível 4 (Variante 2 Preta)",
+      "Vandal Saqueador Nível 4 (Variante 3 Branca)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-sentinelas-da-luz",
+    "name": "Vandal Sentinelas da Luz",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "sentinelas-da-luz",
+      "name": "Sentinelas da Luz"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/e8df3725-40de-b8ec-77bd-62a989685a85.webp",
+    "variants": [
+      "Vandal Sentinelas da Luz Nível 4 (Variante 1 Rosa)",
+      "Vandal Sentinelas da Luz Nível 4 (Variante 2 Vermelha/Verde)",
+      "Vandal Sentinelas da Luz Nível 4 (Variante 3 Azul/Roxa)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-singularidade",
+    "name": "Vandal Singularidade",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "singularidade",
+      "name": "Singularidade"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/d6c7ff28-467e-bb3f-3c0c-c5b9445e55ca.webp",
+    "variants": [
+      "Vandal Singularidade Nível 4 (Variante 1 Vermelha)",
+      "Vandal Singularidade Nível 4 (Variante 2 Branca)",
+      "Vandal Singularidade Nível 4 (Variante 3 Azul)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-sobrecarga",
+    "name": "Vandal Sobrecarga",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "sobrecarga",
+      "name": "Sobrecarga"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/bbd3a52f-411e-3475-a6aa-ea88b54de53c.webp",
+    "variants": [
+      "Vandal Sobrecarga Nível 4 (Variante 1 Cobalto)",
+      "Vandal Sobrecarga Nível 4 (Variante 2 Chiclete)",
+      "Vandal Sobrecarga Nível 4 (Variante 3 Ônix)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-sublime",
+    "name": "Vandal Sublime",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "sublime",
+      "name": "Sublime"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/b9ee2457-481c-6776-3f5b-0ca8e8f90c89.webp",
+    "variants": [
+      "Vandal Sublime Nível 4 (Variante 1 Laranja)",
+      "Vandal Sublime Nível 4 (Variante 2 Azul)",
+      "Vandal Sublime Nível 4 (Variante 3 Amarela)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  },
+  {
+    "id": "vandal-valorant-go-vol-2",
+    "name": "Vandal VALORANT GO! Vol. 2",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "valorant-go-vol-2",
+      "name": "VALORANT GO! Vol. 2"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/ba6f2526-4ed2-8e62-49aa-ebbb04290682.webp",
+    "variants": [],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-vinganca-de-dolmir",
+    "name": "Vandal Vingança de Dolmir",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "vinganca-de-dolmir",
+      "name": "Vingança de Dolmir"
+    },
+    "edition": "Edição Exclusiva",
+    "image": "assets/skins/3a079e06-4b63-2293-fbd8-4fb896e8af3d.webp",
+    "variants": [
+      "Vandal Vingança de Dolmir Nível 4 (Variante 1 Obsidiana)",
+      "Vandal Vingança de Dolmir Nível 4 (Variante 2 Musgo)",
+      "Vandal Vingança de Dolmir Nível 4 (Variante 3 Gelo)"
+    ],
+    "hasEffects": false,
+    "hints": []
+  },
+  {
+    "id": "vandal-vinganca-de-gaia",
+    "name": "Vandal Vingança de Gaia",
+    "weaponId": "vandal",
+    "collection": {
+      "id": "vinganca-de-gaia",
+      "name": "Vingança de Gaia"
+    },
+    "edition": "Edição Premium",
+    "image": "assets/skins/000ad7b1-44b0-9345-ea47-9cbd7dcdbb38.webp",
+    "variants": [
+      "Vandal Vingança de Gaia Nível 4 (Variante 1 Azul)",
+      "Vandal Vingança de Gaia Nível 4 (Variante 2 Verde)",
+      "Vandal Vingança de Gaia Nível 4 (Variante 3 Laranja)"
+    ],
+    "hasEffects": true,
+    "hints": []
+  }
+]

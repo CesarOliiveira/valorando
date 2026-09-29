@@ -1,0 +1,21 @@
+{
+  "classic": { "usage": "Pistola inicial gratuita; o disparo alternativo faz uma rajada de três tiros." },
+  "shorty": { "usage": "Escopeta de bolso com só dois tiros, letal à queima-roupa." },
+  "frenzy": { "usage": "Pistola automática forte em curta distância e em avanços rápidos." },
+  "ghost": { "usage": "Pistola silenciada e precisa a média distância." },
+  "sheriff": { "usage": "Revólver de alto dano, capaz de matar com um tiro na cabeça." },
+  "stinger": { "usage": "Submetralhadora barata com cadência altíssima para curta distância." },
+  "spectre": { "usage": "Submetralhadora silenciada, versátil a curta e média distância." },
+  "bucky": { "usage": "Escopeta de bombeamento; o disparo alternativo concentra os projéteis." },
+  "judge": { "usage": "Escopeta automática para segurar ângulos fechados." },
+  "bulldog": { "usage": "Fuzil de custo médio que dispara rajadas ao mirar." },
+  "guardian": { "usage": "Fuzil semiautomático preciso, forte a longa distância." },
+  "phantom": { "usage": "Fuzil silenciado com alta cadência; o dano cai com a distância." },
+  "vandal": { "usage": "Fuzil que mata com um tiro na cabeça a qualquer distância." },
+  "marshal": { "usage": "Rifle de precisão leve e barato, com mira telescópica." },
+  "outlaw": { "usage": "Rifle de precisão de cano duplo, com dois disparos por recarga." },
+  "operator": { "usage": "Rifle de precisão que elimina com um único tiro no tronco." },
+  "ares": { "usage": "Metralhadora pesada que ganha cadência enquanto dispara." },
+  "odin": { "usage": "Metralhadora pesada com pente enorme, ideal para atirar através de paredes." },
+  "confronto": { "usage": "Arma corpo a corpo, sempre disponível e sem custo.", "aliases": ["Faca", "Knife", "Melee"] }
+}

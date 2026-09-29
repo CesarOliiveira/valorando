@@ -1,0 +1,363 @@
+[
+  {
+    "id": "ares",
+    "name": "Ares",
+    "category": {
+      "id": "heavy",
+      "name": "Metralhadora"
+    },
+    "price": 1600,
+    "image": "assets/weapons/55d8a0f4-4274-ca67-fe2c-06ab45efdf58.webp",
+    "ammo": 50,
+    "fireMode": "Automático",
+    "fireRate": 13,
+    "wallPenetration": "Alta",
+    "usage": "Metralhadora pesada que ganha cadência enquanto dispara.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "bandit",
+    "name": "Bandit",
+    "category": {
+      "id": "sidearm",
+      "name": "Pistola"
+    },
+    "price": 600,
+    "image": "assets/weapons/410b2e0b-4ceb-1321-1727-20858f7f3477.webp",
+    "ammo": 8,
+    "fireMode": "Semiautomático",
+    "fireRate": 5.1,
+    "wallPenetration": "Média",
+    "usage": null,
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "bucky",
+    "name": "Bucky",
+    "category": {
+      "id": "shotgun",
+      "name": "Escopeta"
+    },
+    "price": 850,
+    "image": "assets/weapons/910be174-449b-c412-ab22-d0873436b21b.webp",
+    "ammo": 5,
+    "fireMode": "Semiautomático",
+    "fireRate": 1.1,
+    "wallPenetration": "Baixa",
+    "usage": "Escopeta de bombeamento; o disparo alternativo concentra os projéteis.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "bulldog",
+    "name": "Bulldog",
+    "category": {
+      "id": "rifle",
+      "name": "Fuzil"
+    },
+    "price": 2050,
+    "image": "assets/weapons/ae3de142-4d85-2547-dd26-4e90bed35cf7.webp",
+    "ammo": 24,
+    "fireMode": "Automático",
+    "fireRate": 10,
+    "wallPenetration": "Média",
+    "usage": "Fuzil de custo médio que dispara rajadas ao mirar.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "classic",
+    "name": "Classic",
+    "category": {
+      "id": "sidearm",
+      "name": "Pistola"
+    },
+    "price": 0,
+    "image": "assets/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8.webp",
+    "ammo": 12,
+    "fireMode": "Semiautomático",
+    "fireRate": 6.75,
+    "wallPenetration": "Baixa",
+    "usage": "Pistola inicial gratuita; o disparo alternativo faz uma rajada de três tiros.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "confronto",
+    "name": "Confronto",
+    "category": {
+      "id": "melee",
+      "name": "Corpo a corpo"
+    },
+    "price": null,
+    "image": "assets/weapons/2f59173c-4bed-b6c3-2191-dea9b58be9c7.webp",
+    "ammo": null,
+    "fireMode": null,
+    "fireRate": null,
+    "wallPenetration": null,
+    "usage": "Arma corpo a corpo, sempre disponível e sem custo.",
+    "aliases": [
+      "Faca",
+      "Knife",
+      "Melee"
+    ],
+    "hints": []
+  },
+  {
+    "id": "frenzy",
+    "name": "Frenzy",
+    "category": {
+      "id": "sidearm",
+      "name": "Pistola"
+    },
+    "price": 450,
+    "image": "assets/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3.webp",
+    "ammo": 15,
+    "fireMode": "Automático",
+    "fireRate": 10,
+    "wallPenetration": "Baixa",
+    "usage": "Pistola automática forte em curta distância e em avanços rápidos.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "category": {
+      "id": "sidearm",
+      "name": "Pistola"
+    },
+    "price": 500,
+    "image": "assets/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e.webp",
+    "ammo": 13,
+    "fireMode": "Semiautomático",
+    "fireRate": 6.75,
+    "wallPenetration": "Média",
+    "usage": "Pistola silenciada e precisa a média distância.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "guardian",
+    "name": "Guardian",
+    "category": {
+      "id": "rifle",
+      "name": "Fuzil"
+    },
+    "price": 2250,
+    "image": "assets/weapons/4ade7faa-4cf1-8376-95ef-39884480959b.webp",
+    "ammo": 12,
+    "fireMode": "Semiautomático",
+    "fireRate": 5.25,
+    "wallPenetration": "Alta",
+    "usage": "Fuzil semiautomático preciso, forte a longa distância.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "judge",
+    "name": "Judge",
+    "category": {
+      "id": "shotgun",
+      "name": "Escopeta"
+    },
+    "price": 1850,
+    "image": "assets/weapons/ec845bf4-4f79-ddda-a3da-0db3774b2794.webp",
+    "ammo": 5,
+    "fireMode": "Automático",
+    "fireRate": 3.5,
+    "wallPenetration": "Baixa",
+    "usage": "Escopeta automática para segurar ângulos fechados.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "marshal",
+    "name": "Marshal",
+    "category": {
+      "id": "sniper",
+      "name": "Rifle de precisão"
+    },
+    "price": 950,
+    "image": "assets/weapons/c4883e50-4494-202c-3ec3-6b8a9284f00b.webp",
+    "ammo": 5,
+    "fireMode": "Semiautomático",
+    "fireRate": 1.5,
+    "wallPenetration": "Média",
+    "usage": "Rifle de precisão leve e barato, com mira telescópica.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "odin",
+    "name": "Odin",
+    "category": {
+      "id": "heavy",
+      "name": "Metralhadora"
+    },
+    "price": 3200,
+    "image": "assets/weapons/63e6c2b6-4a8e-869c-3d4c-e38355226584.webp",
+    "ammo": 100,
+    "fireMode": "Automático",
+    "fireRate": 12,
+    "wallPenetration": "Alta",
+    "usage": "Metralhadora pesada com pente enorme, ideal para atirar através de paredes.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "operator",
+    "name": "Operator",
+    "category": {
+      "id": "sniper",
+      "name": "Rifle de precisão"
+    },
+    "price": 4700,
+    "image": "assets/weapons/a03b24d3-4319-996d-0f8c-94bbfba1dfc7.webp",
+    "ammo": 5,
+    "fireMode": "Semiautomático",
+    "fireRate": 0.6,
+    "wallPenetration": "Alta",
+    "usage": "Rifle de precisão que elimina com um único tiro no tronco.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "outlaw",
+    "name": "Outlaw",
+    "category": {
+      "id": "sniper",
+      "name": "Rifle de precisão"
+    },
+    "price": 2400,
+    "image": "assets/weapons/5f0aaf7a-4289-3998-d5ff-eb9a5cf7ef5c.webp",
+    "ammo": 2,
+    "fireMode": "Semiautomático",
+    "fireRate": 2.75,
+    "wallPenetration": "Alta",
+    "usage": "Rifle de precisão de cano duplo, com dois disparos por recarga.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "phantom",
+    "name": "Phantom",
+    "category": {
+      "id": "rifle",
+      "name": "Fuzil"
+    },
+    "price": 2900,
+    "image": "assets/weapons/ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a.webp",
+    "ammo": 30,
+    "fireMode": "Automático",
+    "fireRate": 11,
+    "wallPenetration": "Média",
+    "usage": "Fuzil silenciado com alta cadência; o dano cai com a distância.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "sheriff",
+    "name": "Sheriff",
+    "category": {
+      "id": "sidearm",
+      "name": "Pistola"
+    },
+    "price": 800,
+    "image": "assets/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702.webp",
+    "ammo": 6,
+    "fireMode": "Semiautomático",
+    "fireRate": 4,
+    "wallPenetration": "Alta",
+    "usage": "Revólver de alto dano, capaz de matar com um tiro na cabeça.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "shorty",
+    "name": "Shorty",
+    "category": {
+      "id": "sidearm",
+      "name": "Pistola"
+    },
+    "price": 300,
+    "image": "assets/weapons/42da8ccc-40d5-affc-beec-15aa47b42eda.webp",
+    "ammo": 2,
+    "fireMode": "Semiautomático",
+    "fireRate": 3,
+    "wallPenetration": "Baixa",
+    "usage": "Escopeta de bolso com só dois tiros, letal à queima-roupa.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "spectre",
+    "name": "Spectre",
+    "category": {
+      "id": "smg",
+      "name": "Submetralhadora"
+    },
+    "price": 1600,
+    "image": "assets/weapons/462080d1-4035-2937-7c09-27aa2a5c27a7.webp",
+    "ammo": 30,
+    "fireMode": "Automático",
+    "fireRate": 13.333,
+    "wallPenetration": "Baixa",
+    "usage": "Submetralhadora silenciada, versátil a curta e média distância.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "stinger",
+    "name": "Stinger",
+    "category": {
+      "id": "smg",
+      "name": "Submetralhadora"
+    },
+    "price": 1100,
+    "image": "assets/weapons/f7e1b454-4ad4-1063-ec0a-159e56b58941.webp",
+    "ammo": 20,
+    "fireMode": "Automático",
+    "fireRate": 16,
+    "wallPenetration": "Baixa",
+    "usage": "Submetralhadora barata com cadência altíssima para curta distância.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "vandal",
+    "name": "Vandal",
+    "category": {
+      "id": "rifle",
+      "name": "Fuzil"
+    },
+    "price": 2900,
+    "image": "assets/weapons/9c82e19d-4575-0200-1a81-3eacf00cf872.webp",
+    "ammo": 25,
+    "fireMode": "Automático",
+    "fireRate": 9.75,
+    "wallPenetration": "Média",
+    "usage": "Fuzil que mata com um tiro na cabeça a qualquer distância.",
+    "aliases": [],
+    "hints": []
+  },
+  {
+    "id": "warden",
+    "name": "Warden",
+    "category": {
+      "id": "rifle",
+      "name": "Fuzil"
+    },
+    "price": 2900,
+    "image": "assets/weapons/8db0a1bf-4a50-832a-4566-faaaa6d250ca.webp",
+    "ammo": 18,
+    "fireMode": "Automático",
+    "fireRate": 6.5,
+    "wallPenetration": "Média",
+    "usage": null,
+    "aliases": [],
+    "hints": []
+  }
+]

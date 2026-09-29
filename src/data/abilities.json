@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "harbor-x",
+    "agentId": "harbor",
+    "name": "Acerto de Contas",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/95b78ed7-4637-86d9-7e41-71ba8c293152-x.webp",
+    "description": "EQUIPE Acerto de Contas. DISPARE para liberar todo o poder do seu artefato, lançando uma onda que avança em direção aos inimigos, causando Visão Turva e Lentidão nos inimigos atingidos.",
+    "hints": []
+  },
+  {
+    "id": "clove-x",
+    "agentId": "clove",
+    "name": "Ainda Não Morri",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/1dbf2edd-4729-0984-3115-daa5eed44993-x.webp",
+    "description": "Depois de morrer, ATIVE para ressuscitar. Depois de ressuscitar, Clove precisa obter um abate ou uma assistência de dano em um determinado período ou morre de vez. REATIVE para cancelar mais cedo.",
+    "hints": []
+  },
+  {
+    "id": "deadlock-x",
+    "agentId": "deadlock",
+    "name": "Aniquilação",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235-x.webp",
+    "description": "EQUIPE um Acelerador de Nanofios. DISPARE para liberar um pulso de nanofios que captura o primeiro inimigo que encontrar. O inimigo encasulado é puxado por uma trilha de nanofios e abatido, a não ser que seja libertado. O casulo de nanofios é destrutível.",
+    "hints": []
+  },
+  {
+    "id": "kay-o-x",
+    "agentId": "kay-o",
+    "name": "ANULAR/cmd",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/601dbbe7-43ce-be57-2a40-4abd24953621-x.webp",
+    "description": "INSTANTANEAMENTE sobrecarrega com energia de Radianita polarizada que emite grandes pulsos energéticos em um raio enorme a partir de onde KAY/O estiver. Inimigos atingidos pelos pulsos são Suprimidos por um curto período. Enquanto estiver sobrecarregado, KAY/O recebe Estimulante de Combate e pode ser reestabilizado se for abatido.",
+    "hints": []
+  },
+  {
+    "id": "tejo-x",
+    "agentId": "tejo",
+    "name": "Armagedom",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/b444168c-4e35-8076-db47-ef9bf368f384-x.webp",
+    "description": "EQUIPE um mapa tático para selecionar o alvo do ataque. DISPARE para selecionar o ponto de origem do ataque. DISPARE novamente para definir o ponto final e lançar o ataque, que libera uma onda de explosões letais ao longo do trecho determinado. Use o DISPARO ALTERNATIVO durante o mapeamento para cancelar o ponto de origem.",
+    "hints": []
+  },
+  {
+    "id": "clove-e",
+    "agentId": "clove",
+    "name": "Artimanha",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/1dbf2edd-4729-0984-3115-daa5eed44993-e.webp",
+    "description": "EQUIPE uma imagem do campo de batalha. DISPARE para marcar os locais onde você quer posicionar as nuvens de Clove. Use o DISPARO ALTERNATIVO para confirmar e lançar nuvens que bloqueiam a visão nas áreas selecionadas. Clove pode usar essa habilidade depois de morrer.",
+    "hints": []
+  },
+  {
+    "id": "cypher-x",
+    "agentId": "cypher",
+    "name": "Assalto Neural",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/117ed9e3-49f3-6512-3ccf-0cada7e3823b-x.webp",
+    "description": "Use INSTANTANEAMENTE num jogador inimigo morto alvejado para baixar informações sobre a equipe dele. Depois de um breve intervalo, a localização de todos os jogadores inimigos ainda vivos será Revelada duas vezes.",
+    "hints": []
+  },
+  {
+    "id": "fade-e",
+    "agentId": "fade",
+    "name": "Assombrar",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/dade69b4-4f5a-8528-247b-219e5a1facd6-e.webp",
+    "description": "EQUIPE uma assombração. DISPARE para arremessá-la. Ela cairá depois de um determinado tempo. REPITA a habilidade para soltá-la antecipadamente. Essa assombração ataca ao contato, Revelando inimigos em sua linha de visão e criando rastros sinistros até eles. Ela pode ser destruída pelos inimigos.",
+    "hints": []
+  },
+  {
+    "id": "brimstone-x",
+    "agentId": "brimstone",
+    "name": "Ataque Orbital",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/9f0d8ba9-4140-b941-57d3-a7ad57c6b417-x.webp",
+    "description": "EQUIPE um mapa tático. DISPARE para lançar um ataque prolongado de laser orbital no local selecionado, causando muito dano ao longo do tempo aos jogadores na área selecionada.",
+    "hints": []
+  },
+  {
+    "id": "deadlock-c",
+    "agentId": "deadlock",
+    "name": "Barreira de Contenção",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235-c.webp",
+    "description": "EQUIPE um disco de Barreira de Contenção. DISPARE para lançar à frente. Ao atingir o chão, o disco gera barreiras a partir do ponto de origem, que bloqueiam a movimentação de personagens.",
+    "hints": []
+  },
+  {
+    "id": "phoenix-e",
+    "agentId": "phoenix",
+    "name": "Bola Curva",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/eb93336a-449b-9c1b-0a54-a891f7921d69-e.webp",
+    "description": "EQUIPE um orbe de chamas que avança em curva e detona pouco após o lançamento. DISPARE para curvá-lo para a esquerda, detonando e Cegando qualquer jogador que vir o orbe. Use o DISPARO ALTERNATIVO para curvá-lo para a direita. Uma carga de Bola Curva é restaurada a cada dois abates.",
+    "hints": []
+  },
+  {
+    "id": "jett-e",
+    "agentId": "jett",
+    "name": "Brisa de Impulso",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/add6443a-41bd-e414-f6ad-e58d267f4e95-e.webp",
+    "description": "ATIVE para preparar uma rajada de vento por tempo limitado. REPITA a habilidade para lançar Jett na direção do movimento atual dela. Se estiver parada, Jett será lançada para a frente. A carga de Brisa de Impulso é redefinida a cada dois abates.",
+    "hints": []
+  },
+  {
+    "id": "raze-c",
+    "agentId": "raze",
+    "name": "Bumba",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/f94c3b30-42be-e959-889c-5aa313dba261-c.webp",
+    "description": "EQUIPE um Bumba. DISPARE para lançar o robô, que avança em linha reta no chão, ricocheteando nas paredes. O Bumba trava ao detectar inimigos no cone frontal e os persegue, explodindo e causando dano pesado se alcançá-los.",
+    "hints": []
+  },
+  {
+    "id": "chamber-q",
+    "agentId": "chamber",
+    "name": "Caçador de Cabeças",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/22697a3d-45bf-8dd7-4fec-84a9e28c69d7-q.webp",
+    "description": "ATIVE para equipar uma pistola pesada. Use o DISPARO ALTERNATIVO com a pistola equipada para mirar.",
+    "hints": []
+  },
+  {
+    "id": "cypher-e",
+    "agentId": "cypher",
+    "name": "Câmera de Vigilância",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/117ed9e3-49f3-6512-3ccf-0cada7e3823b-e.webp",
+    "description": "EQUIPE uma Câmera de Vigilância. DISPARE para colocar a câmera no local-alvo. REPITA a habilidade para controlar a visão da câmera. Enquanto controla a câmera, DISPARE para lançar um dardo marcador. O dardo revelará a localização de qualquer jogador atingido. A câmera pode ser recuperada e REPOSICIONADA.",
+    "hints": []
+  },
+  {
+    "id": "waylay-x",
+    "agentId": "waylay",
+    "name": "Caminhos Convergentes",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/df1cb487-4902-002e-5c17-d28e83e78588-x.webp",
+    "description": "EQUIPE para focar seu poder prismático. DISPARE para criar uma imagem residual de si mesma que projeta um feixe de luz. Após um breve intervalo, você recebe um poderoso impulso de velocidade, e o feixe se expande e Retém outros jogadores na área.",
+    "hints": []
+  },
+  {
+    "id": "raze-q",
+    "agentId": "raze",
+    "name": "Carga de Explosivos",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/f94c3b30-42be-e959-889c-5aa313dba261-q.webp",
+    "description": "INSTANTANEAMENTE lança uma Carga de Explosivos que gruda em superfícies. REPITA a habilidade depois de lançar para detonar. A carga move tudo que for atingido e causa dano se estiver totalmente carregada.",
+    "hints": []
+  },
+  {
+    "id": "raze-e",
+    "agentId": "raze",
+    "name": "Cartuchos de Tinta",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/f94c3b30-42be-e959-889c-5aa313dba261-e.webp",
+    "description": "EQUIPE uma granada múltipla. DISPARE para jogar a granada, que causa dano e cria submunições, cada uma causando dano a qualquer um que estiver no alcance. Use o DISPARO ALTERNATIVO para arremessar a curta distância. A carga dos Cartuchos de Tinta é redefinida a cada dois abates.",
+    "hints": []
+  },
+  {
+    "id": "iso-q",
+    "agentId": "iso",
+    "name": "Centelha Debilitante",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/0e38b510-41a8-5780-5e8f-568b2a4f2d6c-q.webp",
+    "description": "EQUIPE um feixe molecular. DISPARE para lançá-lo à frente e aplicar Vulnerabilidade e Supressão por um curto período a todos os jogadores que tocar. O feixe pode atravessar objetos sólidos, inclusive paredes.",
+    "hints": []
+  },
+  {
+    "id": "vyse-q",
+    "agentId": "vyse",
+    "name": "Cerca-Viva",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/efba5359-4016-a1e5-7626-b1ae76895940-q.webp",
+    "description": "EQUIPE filamentos de metal líquido. DISPARE para posicionar uma armadilha de parede oculta. Quando um inimigo passa por ela, uma parede indestrutível emerge do chão atrás dele. A parede dura um breve período antes de se dissipar.",
+    "hints": []
+  },
+  {
+    "id": "fade-q",
+    "agentId": "fade",
+    "name": "Clausura",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/dade69b4-4f5a-8528-247b-219e5a1facd6-q.webp",
+    "description": "EQUIPE um nódulo de puro temor. DISPARE para arremessá-lo. O nódulo cairá depois de um determinado tempo. REPITA a habilidade para soltá-lo antecipadamente. Esse nódulo se rompe ao impacto, enclausurando inimigos próximos. Inimigos enclausurados sofrem Surdez e Deterioração.",
+    "hints": []
+  },
+  {
+    "id": "killjoy-x",
+    "agentId": "killjoy",
+    "name": "Confinamento",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/1e58de9c-4950-5125-93e9-a0aee9f98746-x.webp",
+    "description": "EQUIPE o dispositivo de Confinamento. DISPARE para ativá-lo. Após um longo processo de ativação, o dispositivo detém todos os inimigos no raio de alcance. O dispositivo pode ser destruído pelos inimigos.",
+    "hints": []
+  },
+  {
+    "id": "iso-c",
+    "agentId": "iso",
+    "name": "Contingência",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/0e38b510-41a8-5780-5e8f-568b2a4f2d6c-c.webp",
+    "description": "EQUIPE para reunir energia prismática. DISPARE para enviar à frente uma parede de energia indestrutível que bloqueia balas. Use o DISPARO ALTERNATIVO para enviar uma versão mais lenta da parede.",
+    "hints": []
+  },
+  {
+    "id": "iso-x",
+    "agentId": "iso",
+    "name": "Contrato de Abate",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/0e38b510-41a8-5780-5e8f-568b2a4f2d6c-x.webp",
+    "description": "EQUIPE uma arena interdimensional. DISPARE para lançar uma coluna de energia pelo campo de batalha que puxa você e o primeiro inimigo atingido por ela para a arena para duelarem até a morte após curar vocês dois.",
+    "hints": []
+  },
+  {
+    "id": "jett-q",
+    "agentId": "jett",
+    "name": "Corrente Ascendente",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/add6443a-41bd-e414-f6ad-e58d267f4e95-q.webp",
+    "description": "INSTANTANEAMENTE lança Jett bem alto no ar.",
+    "hints": []
+  },
+  {
+    "id": "viper-e",
+    "agentId": "viper",
+    "name": "Cortina Tóxica",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/707eab51-4836-f488-046a-cda6bf494859-e.webp",
+    "description": "EQUIPE um lançador de emissores de gás que atravessam terreno. DISPARE para lançar uma longa linha de emissores de gás. REPITA para criar uma parede alta de gás tóxico que consome combustível causa Deterioração nos adversários dentro dela. A habilidade pode ser REPETIDA mais de uma vez.",
+    "hints": []
+  },
+  {
+    "id": "clove-q",
+    "agentId": "clove",
+    "name": "Desvitalização",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/1dbf2edd-4729-0984-3115-daa5eed44993-q.webp",
+    "description": "EQUIPE um fragmento de Essência da Imortalidade. DISPARE para lançá-lo. Ao chegar no chão, ele detona após um breve intervalo e aplica temporariamente Deterioração a todos os alvos atingidos.",
+    "hints": []
+  },
+  {
+    "id": "reyna-q",
+    "agentId": "reyna",
+    "name": "Devorar",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc-q.webp",
+    "description": "Colheita de Almas: inimigos abatidos até 3 segundos após sofrerem dano da Reyna deixam Orbes de Alma que duram 3s. Devorar: INSTANTANEAMENTE consome um Orbe de Alma e recebe Vida Temporária. Se IMPERATRIZ estiver ativa, Devorar é conjurada automaticamente, não consome o Orbe de Alma e a Cura é permanente.",
+    "hints": []
+  },
+  {
+    "id": "reyna-e",
+    "agentId": "reyna",
+    "name": "Dispensar",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc-e.webp",
+    "description": "INSTANTANEAMENTE consome um Orbe de Alma próximo, ficando Inatingível por um curto período. Também se torna Invisível se a habilidade IMPERATRIZ estiver ativa.",
+    "hints": []
+  },
+  {
+    "id": "yoru-c",
+    "agentId": "yoru",
+    "name": "Distração",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/7f94d92c-4234-0a36-9646-3a87eb8b5c89-c.webp",
+    "description": "EQUIPE um eco dimensional que se transforma em uma cópia do Yoru quando ativado. DISPARE para ativar a cópia e fazê-la avançar. Use o DISPARO ALTERNATIVO para posicionar um eco inativo. USE para transformar o eco inativo em uma cópia e fazê-la avançar. As cópias explodem e Cegam os inimigos quando destruídas por eles.",
+    "hints": []
+  },
+  {
+    "id": "gekko-e",
+    "agentId": "gekko",
+    "name": "Dizzy",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/e370fa57-4757-3604-3648-499e1f642d3f-e.webp",
+    "description": "EQUIPE Dizzy. DISPARE para enviá-la voando pelo ar. Dizzy avança e solta explosões de plasma nos inimigos em sua linha de visão. Os inimigos atingidos pelo plasma ficam Cegos. Ao expirar, Dizzy se transforma em um glóbulo inativo. INTERAJA para recuperar o glóbulo e ganhar outra carga de Dizzy após um curto período.",
+    "hints": []
+  },
+  {
+    "id": "sova-c",
+    "agentId": "sova",
+    "name": "Drone Coruja",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/320b2a48-4d9b-a075-30f1-1f93a9b638fa-c.webp",
+    "description": "EQUIPE um drone coruja. DISPARE para acionar e pilotar o drone. Enquanto pilota o drone, DISPARE para atirar um dardo marcador. O dardo revelará a localização de qualquer jogador atingido. Inimigos podem destruir o Drone Coruja.",
+    "hints": []
+  },
+  {
+    "id": "tejo-c",
+    "agentId": "tejo",
+    "name": "Drone Furtivo",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/b444168c-4e35-8076-db47-ef9bf368f384-c.webp",
+    "description": "EQUIPE um drone furtivo. DISPARE para lançar o drone e assumir o controle dos movimentos dele. DISPARE novamente para acionar um pulso que causa Supressão e Revela os inimigos atingidos.",
+    "hints": []
+  },
+  {
+    "id": "harbor-e",
+    "agentId": "harbor",
+    "name": "Enseada",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/95b78ed7-4637-86d9-7e41-71ba8c293152-e.webp",
+    "description": "EQUIPE Enseada. ATIVE para formar uma Fumaça de água no local selecionado. SEGURE O DISPARO enquanto mira para afastar o marcador e SEGURE O DISPARO ALTERNATIVO para aproximá-lo. RECARREGUE para trocar a visão de posicionamento. REATIVE para criar um Escudo ao redor da Fumaça de água, que bloqueia as balas que a atingem. A Fumaça de água com Escudo pode ser destruída.",
+    "hints": []
+  },
+  {
+    "id": "tejo-q",
+    "agentId": "tejo",
+    "name": "Entrega Especial",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/b444168c-4e35-8076-db47-ef9bf368f384-q.webp",
+    "description": "EQUIPE uma granada adesiva. DISPARE para lançar. A granada gruda na primeira superfície atingida e explode, causando Concussão e dano a qualquer alvo atingido pela explosão. Use o DISPARO ALTERNATIVO para lançar a granada com um ricochete.",
+    "hints": []
+  },
+  {
+    "id": "neon-e",
+    "agentId": "neon",
+    "name": "Equipamento Voltaico",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/bb2a4828-46eb-8cd1-e765-15848195d751-e.webp",
+    "description": "INSTANTANEAMENTE canaliza o poder da Neon para receber velocidade aumentada. Ao atingir a carga máxima, use o DISPARO ALTERNATIVO para acionar um deslize elétrico. A carga de deslizamento é redefinida a cada dois abates.",
+    "hints": []
+  },
+  {
+    "id": "jett-c",
+    "agentId": "jett",
+    "name": "Erupção das Brumas",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/add6443a-41bd-e414-f6ad-e58d267f4e95-c.webp",
+    "description": "INSTANTANEAMENTE lança um projétil que se expande numa breve nuvem que obscurece a visão ao bater numa superfície. SEGURE o botão da habilidade para curvar a fumaça na direção da sua mira.",
+    "hints": []
+  },
+  {
+    "id": "vyse-c",
+    "agentId": "vyse",
+    "name": "Espinheiro Cortante",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/efba5359-4016-a1e5-7626-b1ae76895940-c.webp",
+    "description": "EQUIPE um emaranhado de metal líquido. DISPARE para lançar. Ao cair, o metal se torna invisível. Quando ATIVADO, ele se espalha e cria um grande espinheiro que causa Lentidão e dano a todos os jogadores que passam por ele.",
+    "hints": []
+  },
+  {
+    "id": "yoru-x",
+    "agentId": "yoru",
+    "name": "Espionagem Dimensional",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/7f94d92c-4234-0a36-9646-3a87eb8b5c89-x.webp",
+    "description": "EQUIPE uma máscara para olhar por entre as dimensões. DISPARE para entrar na dimensão do Yoru, onde você não poderá ser afetado nem visto pelos inimigos lá fora. REATIVE para sair da dimensão do Yoru mais cedo.",
+    "hints": []
+  },
+  {
+    "id": "fade-c",
+    "agentId": "fade",
+    "name": "Espreitador",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/dade69b4-4f5a-8528-247b-219e5a1facd6-c.webp",
+    "description": "EQUIPE um Espreitador. DISPARE para enviá-lo à frente. SEGURE O DISPARO para mover o Espreitador na direção da sua retícula. Ele perseguirá o primeiro rastro sinistro ou inimigo que encontrar e afetará o alvo com Visão Turva ao alcançá-lo.",
+    "hints": []
+  },
+  {
+    "id": "breach-q",
+    "agentId": "breach",
+    "name": "Estopim",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/5f8d3a7f-467b-97f3-062c-13acf203c006-q.webp",
+    "description": "EQUIPE uma carga Cegante. DISPARE a carga para armar um jato de ação rápida pela parede. A carga é detonada, Cegando todos os jogadores que estiverem olhando para ela.",
+    "hints": []
+  },
+  {
+    "id": "raze-x",
+    "agentId": "raze",
+    "name": "Estraga-prazeres",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/f94c3b30-42be-e959-889c-5aa313dba261-x.webp",
+    "description": "EQUIPE um lança-mísseis. DISPARE um foguete que causa dano devastador em área ao fazer contato com qualquer coisa.",
+    "hints": []
+  },
+  {
+    "id": "veto-x",
+    "agentId": "veto",
+    "name": "Evolução",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/92eeef5d-43b5-1d4a-8d03-b3927a09034b-x.webp",
+    "description": "Inicia INSTANTANEAMENTE uma mutação completa, ganhando Estimulante de Combate e Regeneração, e se torna IMUNE a todas as formas de enfraquecimento.",
+    "hints": []
+  },
+  {
+    "id": "breach-e",
+    "agentId": "breach",
+    "name": "Falha Tectônica",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/5f8d3a7f-467b-97f3-062c-13acf203c006-e.webp",
+    "description": "EQUIPE um impacto sísmico. SEGURE O DISPARO para aumentar a distância. SOLTE para iniciar o terremoto, causando Concussão em todos os jogadores na zona e numa linha reta até a zona.",
+    "hints": []
+  },
+  {
+    "id": "cypher-c",
+    "agentId": "cypher",
+    "name": "Fio-armadilha",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/117ed9e3-49f3-6512-3ccf-0cada7e3823b-c.webp",
+    "description": "EQUIPE um fio-armadilha. DISPARE para instalar um fio-armadilha oculto e destrutível no local-alvo, criando uma linha entre o local e a parede oposta. Jogadores inimigos que passarem pelo fio sofrerão Lentidão e ficarão Revelados depois de um curto período se não destruírem o dispositivo a tempo. A habilidade pode ser recolhida e REPOSICIONADA.",
+    "hints": []
+  },
+  {
+    "id": "sova-q",
+    "agentId": "sova",
+    "name": "Flecha de Choque",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/320b2a48-4d9b-a075-30f1-1f93a9b638fa-q.webp",
+    "description": "EQUIPE um arco com uma flecha de choque. DISPARE para lançar a flecha, que explode ao impacto, causando dano aos jogadores próximos. SEGURE O DISPARO para estender o alcance do projétil. Use o DISPARO ALTERNATIVO para adicionar até dois ricochetes à flecha.",
+    "hints": []
+  },
+  {
+    "id": "sova-e",
+    "agentId": "sova",
+    "name": "Flecha Rastreadora",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/320b2a48-4d9b-a075-30f1-1f93a9b638fa-e.webp",
+    "description": "EQUIPE um arco com uma flecha de reconhecimento. DISPARE para lançar a flecha, que é ativada mediante impacto e Revela a localização de quaisquer inimigos próximos da linha de visão. Inimigos podem destruí-la. SEGURE O DISPARO para estender o alcance do projétil. Use o DISPARO ALTERNATIVO para adicionar até dois ricochetes à flecha.",
+    "hints": []
+  },
+  {
+    "id": "iso-e",
+    "agentId": "iso",
+    "name": "Fluxo Protetor",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/0e38b510-41a8-5780-5e8f-568b2a4f2d6c-e.webp",
+    "description": "Comece INSTANTANEAMENTE a canalizar seu foco. Com o foco ativado: receba um escudo que absorve uma instância de dano de qualquer fonte, recarregue mais rápido e entre em um estado de fluxo. Inimigos que você abate ou a quem causa dano durante esse tempo geram um orbe de energia. Atirar nesse orbe renova seu estado de fluxo e seu escudo existente ou concede outro.",
+    "hints": []
+  },
+  {
+    "id": "astra-x",
+    "agentId": "astra",
+    "name": "Forma Astral / Divisa Cósmica",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/41fb69c1-4189-7b37-f117-bcaf1e96f1bf-x.webp",
+    "description": "ATIVE para entrar na Forma Astral, em que você pode posicionar Estrelas com DISPARO. As Estrelas podem ser reativadas depois para serem transformadas em Pulso Nova, Nebulosa ou Poço Gravitacional. Quando Divisa Cósmica estiver carregada, use o DISPARO ALTERNATIVO na Forma Astral para começar a mirar e, depois, o DISPARO para escolher dois locais. Uma Divisa Cósmica infinita surge e conecta os pontos selecionados. A Divisa Cósmica bloqueia disparos e sons.",
+    "hints": []
+  },
+  {
+    "id": "kay-o-c",
+    "agentId": "kay-o",
+    "name": "FRAG/mento",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/601dbbe7-43ce-be57-2a40-4abd24953621-c.webp",
+    "description": "EQUIPE um fragmento explosivo. DISPARE para lançar. Use o DISPARO ALTERNATIVO para arremessar a curta distância. O fragmento se fixa ao chão e explode várias vezes, causando dano quase letal no centro de cada explosão.",
+    "hints": []
+  },
+  {
+    "id": "brimstone-e",
+    "agentId": "brimstone",
+    "name": "Fumaça Celeste",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/9f0d8ba9-4140-b941-57d3-a7ad57c6b417-e.webp",
+    "description": "EQUIPE um mapa tático. DISPARE para marcar os locais onde as nuvens de fumaça de Brimstone pousarão. Use o DISPARO ALTERNATIVO para confirmar, lançando nuvens de fumaça de longa duração que bloqueiam a visão na área selecionada.",
+    "hints": []
+  },
+  {
+    "id": "sova-x",
+    "agentId": "sova",
+    "name": "Fúria do Caçador",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/320b2a48-4d9b-a075-30f1-1f93a9b638fa-x.webp",
+    "description": "EQUIPE um arco com três disparos de longo alcance que perfuram paredes. DISPARE para atirar um raio de energia diante de Sova, causando dano e Revelando a localização dos inimigos que estiverem na linha. A habilidade pode ser REPETIDA até mais duas vezes enquanto o cronômetro de habilidade estiver ativo.",
+    "hints": []
+  },
+  {
+    "id": "kay-o-q",
+    "agentId": "kay-o",
+    "name": "GRANADA/clarão",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/601dbbe7-43ce-be57-2a40-4abd24953621-q.webp",
+    "description": "EQUIPE uma granada de clarão. DISPARE para jogá-la por cima. Use o DISPARO ALTERNATIVO para arremessar a curta distância uma versão mais fraca que explode mais rápido. A granada de clarão explode após um curto período, Cegando qualquer um que estiver na linha de visão.",
+    "hints": []
+  },
+  {
+    "id": "deadlock-e",
+    "agentId": "deadlock",
+    "name": "GravNet",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235-e.webp",
+    "description": "EQUIPE uma granada GravNet. DISPARE para lançar. Use o DISPARO ALTERNATIVO para arremessar a curta distância. A GravNet detona ao atingir o chão, o que força personagens pegos por ela a agacharem e moverem-se lentamente.",
+    "hints": []
+  },
+  {
+    "id": "miks-q",
+    "agentId": "miks",
+    "name": "Harmonia",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/7c8a4701-4de6-9355-b254-e09bc2a34b72-q.webp",
+    "description": "EQUIPE Harmonia. Mire em um aliado e DISPARE para ativar um Estimulante de Combate e um impulso de velocidade em você e no aliado. O efeito renova-se a cada abate. O DISPARO ALTERNATIVO concede Estimulante de Combate e impulso de velocidade para você.",
+    "hints": []
+  },
+  {
+    "id": "veto-q",
+    "agentId": "veto",
+    "name": "Imobilidade",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/92eeef5d-43b5-1d4a-8d03-b3927a09034b-q.webp",
+    "description": "EQUIPE um fragmento viscoso da sua mutação. DISPARE para lançar. O fragmento é acionado com o impacto no chão, criando uma armadilha que prende os inimigos no lugar. Inimigos presos sofrem Surdez e Deterioração. Inimigos podem destruir a armadilha antes da ativação.",
+    "hints": []
+  },
+  {
+    "id": "reyna-x",
+    "agentId": "reyna",
+    "name": "Imperatriz",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc-x.webp",
+    "description": "INSTANTANEAMENTE entra em estado de frenesi e recebe um Estimulante de Combate que aumenta drasticamente as velocidades de disparo, equipagem e recarga de munição. Ganha cargas infinitas das habilidades de Colheita de Almas.",
+    "hints": []
+  },
+  {
+    "id": "brimstone-q",
+    "agentId": "brimstone",
+    "name": "Incendiário",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/9f0d8ba9-4140-b941-57d3-a7ad57c6b417-q.webp",
+    "description": "EQUIPE um lançador de granadas incendiárias. DISPARE para lançar uma granada que detona no chão, gerando uma zona de fogo que causa dano aos jogadores dentro dela.",
+    "hints": []
+  },
+  {
+    "id": "veto-e",
+    "agentId": "veto",
+    "name": "Interceptador",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/92eeef5d-43b5-1d4a-8d03-b3927a09034b-e.webp",
+    "description": "EQUIPE o Interceptador. DISPARE para posicionar o Interceptador no local determinado. Depois de posicionado, REPITA para ativar. Uma vez ativado, ele destruirá qualquer utilitário que REBATERIA em um jogador e/ou que seria destruído naturalmente por tiros. Inimigos podem destruir o Interceptador.",
+    "hints": []
+  },
+  {
+    "id": "vyse-x",
+    "agentId": "vyse",
+    "name": "Jardim de Aço",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/efba5359-4016-a1e5-7626-b1ae76895940-x.webp",
+    "description": "EQUIPE um espinheiro de metal líquido. DISPARE para lançar metal como uma torrente de espinhos metálicos, BLOQUEANDO as armas primárias inimigas após um breve período.",
+    "hints": []
+  },
+  {
+    "id": "cypher-q",
+    "agentId": "cypher",
+    "name": "Jaula Cibernética",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/117ed9e3-49f3-6512-3ccf-0cada7e3823b-q.webp",
+    "description": "INSTANTANEAMENTE joga a jaula cibernética diante de Cypher. ATIVE para criar uma Zona que bloqueia a visão e reproduz um sinal de áudio quando inimigos passam por ela.",
+    "hints": []
+  },
+  {
+    "id": "phoenix-c",
+    "agentId": "phoenix",
+    "name": "Labareda",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/eb93336a-449b-9c1b-0a54-a891f7921d69-c.webp",
+    "description": "EQUIPE uma parede de fogo. DISPARE para criar uma linha de chamas que avança, atravessa o ambiente e gera uma parede de fogo que bloqueia a visão e causa dano a jogadores que passarem por ela. A parede de fogo cura Phoenix em vez de causar dano a ele. SEGURE O DISPARO para curvá-la na direção da mira.",
+    "hints": []
+  },
+  {
+    "id": "skye-e",
+    "agentId": "skye",
+    "name": "Luz Desbravadora",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/6f2a04ca-43e0-be17-7f36-b3908627744d-e.webp",
+    "description": "EQUIPE um amuleto de falcão. DISPARE para enviá-lo. SEGURE O DISPARO para guiar o falcão na direção da sua mira. REPITA a habilidade enquanto ele estiver voando para transformá-lo em um clarão que alcança a potência máxima depois de um curto período durante o voo.",
+    "hints": []
+  },
+  {
+    "id": "omen-e",
+    "agentId": "omen",
+    "name": "Manto Sombrio",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/8e253930-4c05-31dd-1b6c-968525494517-e.webp",
+    "description": "EQUIPE um orbe sombrio e entre em um universo distorcido para posicionar os orbes. PRESSIONE o botão de habilidade para lançar o orbe no local marcado, criando uma esfera de sombra duradoura que bloqueia a visão. SEGURE O DISPARO enquanto mira para afastar o marcador. SEGURE O DISPARO ALTERNATIVO enquanto mira para aproximar o marcador. PRESSIONE RECARREGAR para alternar para a visão de mira normal.",
+    "hints": []
+  },
+  {
+    "id": "phoenix-q",
+    "agentId": "phoenix",
+    "name": "Mãos Quentes",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/eb93336a-449b-9c1b-0a54-a891f7921d69-q.webp",
+    "description": "EQUIPE uma bola de fogo. DISPARE para jogar a bola de fogo, que explode após um intervalo ou ao atingir o chão e cria uma zona duradoura de fogo que causa dano aos inimigos. A zona de fogo cura Phoenix em vez de causar dano. Use o DISPARO ALTERNATIVO para arremessar a curta distância.",
+    "hints": []
+  },
+  {
+    "id": "chamber-c",
+    "agentId": "chamber",
+    "name": "Marca Registrada",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/22697a3d-45bf-8dd7-4fec-84a9e28c69d7-c.webp",
+    "description": "EQUIPE uma armadilha que busca por inimigos. DISPARE para posicioná-la no chão. Quando um inimigo visível entrar no alcance, a armadilha inicia uma contagem regressiva e desestabiliza o terreno ao redor, criando um campo duradouro que Desacelera os jogadores dentro dele. A armadilha pode ser recuperada para ser REPOSICIONADA.",
+    "hints": []
+  },
+  {
+    "id": "harbor-q",
+    "agentId": "harbor",
+    "name": "Maré Alta",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/95b78ed7-4637-86d9-7e41-71ba8c293152-q.webp",
+    "description": "EQUIPE Maré Alta. DISPARE para enviar água para frente junto ao chão. SEGURE O DISPARO para guiar a água na direção da sua retícula, fazendo surgir uma Parede que bloqueia a visão ao longo do caminho. Use o DISPARO ALTERNATIVO para parar a água mais cedo. Todos os jogadores que atravessam a Maré Alta sofrem Lentidão.",
+    "hints": []
+  },
+  {
+    "id": "miks-x",
+    "agentId": "miks",
+    "name": "Melodia Sísmica",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/7c8a4701-4de6-9355-b254-e09bc2a34b72-x.webp",
+    "description": "EQUIPE Melodia Sísmica. DISPARE para carregar e lançar Radiância Sônica à frente, que empurra e causa Surdez e Lentidão nos jogadores.",
+    "hints": []
+  },
+  {
+    "id": "gekko-c",
+    "agentId": "gekko",
+    "name": "Mosh Pit",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/e370fa57-4757-3604-3648-499e1f642d3f-c.webp",
+    "description": "EQUIPE Mosh. DISPARE para lançá-lo como uma granada. Use o DISPARO ALTERNATIVO para arremessar a curta distância. Ao atingir uma superfície, Mosh se multiplica em uma grande área, o que causa uma pequena quantidade de dano ao longo do tempo, e, depois de uns instantes, explode. INTERAJA para recuperar o glóbulo e ganhar outra carga de Mosh após um curto período.",
+    "hints": []
+  },
+  {
+    "id": "killjoy-c",
+    "agentId": "killjoy",
+    "name": "Nanoenxame",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/1e58de9c-4950-5125-93e9-a0aee9f98746-c.webp",
+    "description": "EQUIPE uma granada Nanoenxame. DISPARE para lançar a granada. Ao atingir uma superfície, a Nanoenxame fica oculta. Use o DISPARO ALTERNATIVO para arremessar a curta distância. ATIVE a Nanoenxame para acionar um enxame de nanorrobôs que causam dano.",
+    "hints": []
+  },
+  {
+    "id": "astra-e",
+    "agentId": "astra",
+    "name": "Nebulosa / Dissipar",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/41fb69c1-4189-7b37-f117-bcaf1e96f1bf-e.webp",
+    "description": "Posicione Estrelas na Forma Astral (X). ATIVE uma Estrela para transformá-la em uma Nebulosa (fumaça). USE uma Estrela para dissipá-la, retornando a Estrela para ser posicionada em um novo local após um período. Dissipar forma brevemente uma Nebulosa falsa na localização da Estrela antes de retornar.",
+    "hints": []
+  },
+  {
+    "id": "viper-q",
+    "agentId": "viper",
+    "name": "Nuvem Venenosa",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/707eab51-4836-f488-046a-cda6bf494859-q.webp",
+    "description": "EQUIPE um emissor de gás. DISPARE para jogar o emissor, que permanece até o fim da rodada. Use o DISPARO ALTERNATIVO para arremessar a curta distância. REPITA para criar uma nuvem de gás tóxico que consome combustível e causa Deterioração nos adversários dentro dela. A habilidade pode ser recolhida e REPOSICIONADA antes do início da rodada e pode ser REUTILIZADA mais de uma vez ao longo da rodada.",
+    "hints": []
+  },
+  {
+    "id": "reyna-c",
+    "agentId": "reyna",
+    "name": "Olhar Voraz",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc-c.webp",
+    "description": "EQUIPE um olho etéreo e destrutível. ATIVE para lançá-lo adiante a uma curta distância. O olho deixará com visão turva todos os inimigos que olharem para ele.",
+    "hints": []
+  },
+  {
+    "id": "breach-x",
+    "agentId": "breach",
+    "name": "Onda Trovejante",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/5f8d3a7f-467b-97f3-062c-13acf203c006-x.webp",
+    "description": "EQUIPE uma Carga Sísmica. DISPARE para lançar um terremoto em cascata por todo o terreno numa grande área. O terremoto causa Concussão e lança ao ar quem estiver na área de efeito.",
+    "hints": []
+  },
+  {
+    "id": "sage-e",
+    "agentId": "sage",
+    "name": "Orbe Curativo",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/569fdd95-4d10-43ab-ca70-79becc718b46-e.webp",
+    "description": "EQUIPE um orbe curativo. DISPARE com a mira sobre um aliado ferido para ativar uma Cura ao Longo do Tempo. Use o DISPARO ALTERNATIVO enquanto Sage estiver ferida para ativar uma Autocura ao Longo do Tempo.",
+    "hints": []
+  },
+  {
+    "id": "sage-c",
+    "agentId": "sage",
+    "name": "Orbe de Barreira",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/569fdd95-4d10-43ab-ca70-79becc718b46-c.webp",
+    "description": "EQUIPE um orbe de barreira. DISPARE para posicionar uma parede que é fortificada após alguns segundos. DISPARO ALTERNATIVO gira o marcador de alvo.",
+    "hints": []
+  },
+  {
+    "id": "sage-q",
+    "agentId": "sage",
+    "name": "Orbe de Lentidão",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/569fdd95-4d10-43ab-ca70-79becc718b46-q.webp",
+    "description": "EQUIPE um orbe de lentidão. DISPARE para lançá-lo. O orbe detona ao pousar, criando um campo duradouro que Desacelera os jogadores dentro dele e reduz a velocidade de avanço.",
+    "hints": []
+  },
+  {
+    "id": "omen-q",
+    "agentId": "omen",
+    "name": "Paranoia",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/8e253930-4c05-31dd-1b6c-968525494517-q.webp",
+    "description": "EQUIPE um orbe cegante. DISPARE para lançá-lo, causando Surdez e Visão Turva brevemente em todos os jogadores atingidos. O projétil atravessa paredes.",
+    "hints": []
+  },
+  {
+    "id": "yoru-e",
+    "agentId": "yoru",
+    "name": "Passagem Dimensional",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/7f94d92c-4234-0a36-9646-3a87eb8b5c89-e.webp",
+    "description": "EQUIPE um fluxo dimensional. DISPARE para lançá-lo à frente. Use o DISPARO ALTERNATIVO para posicionar um fluxo imóvel. ATIVE para se teleportar até ele. USE para acionar um teleporte falso. Uma carga de PASSAGEM DIMENSIONAL é restaurada a cada dois abates.",
+    "hints": []
+  },
+  {
+    "id": "omen-c",
+    "agentId": "omen",
+    "name": "Passos Tenebrosos",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/8e253930-4c05-31dd-1b6c-968525494517-c.webp",
+    "description": "EQUIPE uma habilidade de Passos Tenebrosos para ver o indicador de alcance. DISPARE para começar uma breve canalização e, então, teleporte-se para o local marcado.",
+    "hints": []
+  },
+  {
+    "id": "astra-c",
+    "agentId": "astra",
+    "name": "Poço Gravitacional",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/41fb69c1-4189-7b37-f117-bcaf1e96f1bf-c.webp",
+    "description": "Posicione Estrelas na Forma Astral (tecla da Ultimate). ATIVE uma Estrela para formar um Poço Gravitacional. Jogadores na área são puxados em direção ao centro antes de ele explodir, deixando Vulneráveis todos que ainda estão presos no centro.",
+    "hints": []
+  },
+  {
+    "id": "viper-x",
+    "agentId": "viper",
+    "name": "Poço Peçonhento",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/707eab51-4836-f488-046a-cda6bf494859-x.webp",
+    "description": "EQUIPE um borrifador químico. DISPARE para borrifar uma nuvem química em todas as direções ao redor de Viper, criando uma grande nuvem que causa Visão Turva e Deteriora a Vida dos inimigos dentro dela. SEGURE a tecla de habilidade para dispersar a nuvem mais cedo.",
+    "hints": []
+  },
+  {
+    "id": "yoru-q",
+    "agentId": "yoru",
+    "name": "Ponto Cego",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/7f94d92c-4234-0a36-9646-3a87eb8b5c89-q.webp",
+    "description": "EQUIPE para arrancar um fragmento dimensional instável da realidade. DISPARE para lançar o fragmento, ativando um clarão que se dissipa ao atingir uma superfície sólida.",
+    "hints": []
+  },
+  {
+    "id": "kay-o-e",
+    "agentId": "kay-o",
+    "name": "PONTO/zero",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/601dbbe7-43ce-be57-2a40-4abd24953621-e.webp",
+    "description": "EQUIPE uma lâmina de supressão. DISPARE para lançar. A lâmina se fixa à primeira superfície que atingir e explode, Suprimindo qualquer um que estiver dentro do raio da explosão. Inimigos podem destruir a lâmina.",
+    "hints": []
+  },
+  {
+    "id": "breach-c",
+    "agentId": "breach",
+    "name": "Pós-choque",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/5f8d3a7f-467b-97f3-062c-13acf203c006-c.webp",
+    "description": "EQUIPE uma carga de fusão. DISPARE a carga para armar um jato de ação lenta pela parede, que causa alto dano a todos que estiverem na área de efeito.",
+    "hints": []
+  },
+  {
+    "id": "skye-q",
+    "agentId": "skye",
+    "name": "Predador Explosivo",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/6f2a04ca-43e0-be17-7f36-b3908627744d-q.webp",
+    "description": "EQUIPE um amuleto de lobo-da-tasmânia. DISPARE para enviá-lo e controlar esse predador. Enquanto estiver no controle, DISPARE para saltar para a frente. O lobo gera uma explosão Concussiva no impacto e causa dano aos inimigos diretamente atingidos.",
+    "hints": []
+  },
+  {
+    "id": "miks-c",
+    "agentId": "miks",
+    "name": "Pulso M",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/7c8a4701-4de6-9355-b254-e09bc2a34b72-c.webp",
+    "description": "EQUIPE Pulso M. O DISPARO ALTERNATIVO alterna entre Concussão e Cura. DISPARE para lançar o dispositivo. Ao ser posicionado, o Pulso M emite ondas sonoras que causam Concussão ou Curam os jogadores.",
+    "hints": []
+  },
+  {
+    "id": "astra-q",
+    "agentId": "astra",
+    "name": "Pulso Nova",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/41fb69c1-4189-7b37-f117-bcaf1e96f1bf-q.webp",
+    "description": "Posicione Estrelas na Forma Astral (tecla da Ultimate). ATIVE uma Estrela para detonar um Pulso Nova. O Pulso Nova carrega brevemente e depois explode, causando Concussão a todos os jogadores na área.",
+    "hints": []
+  },
+  {
+    "id": "tejo-e",
+    "agentId": "tejo",
+    "name": "Rajada Guiada",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/b444168c-4e35-8076-db47-ef9bf368f384-e.webp",
+    "description": "EQUIPE um mapa tático. DISPARE para selecionar até dois locais-alvo no mapa. Use o DISPARO ALTERNATIVO para lançar projéteis que viajam de forma autônoma até os locais-alvo e detonam repetidamente e causam dano.",
+    "hints": []
+  },
+  {
+    "id": "skye-x",
+    "agentId": "skye",
+    "name": "Rastreadores",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/6f2a04ca-43e0-be17-7f36-b3908627744d-x.webp",
+    "description": "EQUIPE um amuleto de Rastreador. DISPARE para enviar três Rastreadores que localizarão os três inimigos mais próximos. Se um Rastreador alcançar o alvo, causará Visão Turva e Lentidão a esse inimigo. Inimigos podem destruir os Rastreadores.",
+    "hints": []
+  },
+  {
+    "id": "skye-c",
+    "agentId": "skye",
+    "name": "Reflorescer",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/6f2a04ca-43e0-be17-7f36-b3908627744d-c.webp",
+    "description": "EQUIPE um amuleto de cura. SEGURE O DISPARO para canalizar, curando aliados dentro do alcance e na sua linha de visão. Esta habilidade pode ser REPETIDA até a reserva de cura ser esgotada. Skye não pode curar a si mesma.",
+    "hints": []
+  },
+  {
+    "id": "waylay-e",
+    "agentId": "waylay",
+    "name": "Refração",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/df1cb487-4902-002e-5c17-d28e83e78588-e.webp",
+    "description": "Cria INSTANTANEAMENTE um feixe de luz no chão. REATIVE para voltar rapidamente ao feixe como uma partícula de luz pura. Você fica invulnerável durante o deslocamento. Uma carga de Refração é restaurada a cada dois abates.",
+    "hints": []
+  },
+  {
+    "id": "phoenix-x",
+    "agentId": "phoenix",
+    "name": "Renascimento",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/eb93336a-449b-9c1b-0a54-a891f7921d69-x.webp",
+    "description": "INSTANTANEAMENTE coloca um marcador na localização de Phoenix. Com a habilidade ativa, morrer ou deixar o tempo acabar encerrarão a habilidade e trarão Phoenix de volta ao local marcado com Vida completa e a mesma quantidade de armadura que tinha ao ativa-la.",
+    "hints": []
+  },
+  {
+    "id": "chamber-e",
+    "agentId": "chamber",
+    "name": "Rendezvous",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/22697a3d-45bf-8dd7-4fec-84a9e28c69d7-e.webp",
+    "description": "EQUIPE uma âncora de teleporte. DISPARE para posicioná-la no chão. Enquanto estiver no chão e dentro do alcance da âncora, REATIVE para teleportar rapidamente até a âncora. A âncora pode ser recuperada para ser REPOSICIONADA.",
+    "hints": []
+  },
+  {
+    "id": "miks-e",
+    "agentId": "miks",
+    "name": "Ressonância",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/7c8a4701-4de6-9355-b254-e09bc2a34b72-e.webp",
+    "description": "EQUIPE um Mapa Tático. DISPARE para definir os locais. O DISPARO ALTERNATIVO gera Fumaças nos locais selecionados.",
+    "hints": []
+  },
+  {
+    "id": "sage-x",
+    "agentId": "sage",
+    "name": "Ressurreição",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/569fdd95-4d10-43ab-ca70-79becc718b46-x.webp",
+    "description": "EQUIPE uma habilidade de ressurreição. DISPARE com a mira sobre um aliado morto para começar a revivê-lo. Depois de uma breve canalização, o aliado voltará com a Vida completa.",
+    "hints": []
+  },
+  {
+    "id": "clove-c",
+    "agentId": "clove",
+    "name": "Revitalizar",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/1dbf2edd-4729-0984-3115-daa5eed44993-c.webp",
+    "description": "ATIVE para absorver a energia vital de um inimigo caído que sofreu dano ou foi abatido por Clove e receba aceleração e Vida temporárias.",
+    "hints": []
+  },
+  {
+    "id": "neon-q",
+    "agentId": "neon",
+    "name": "Ricochete Elétrico",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/bb2a4828-46eb-8cd1-e765-15848195d751-q.webp",
+    "description": "INSTANTANEAMENTE arremessa um raio de energia que ricocheteia uma vez. Ao atingir cada superfície, o raio eletrifica o chão abaixo dele com uma explosão Concussiva.",
+    "hints": []
+  },
+  {
+    "id": "killjoy-q",
+    "agentId": "killjoy",
+    "name": "Robô de Alarme",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/1e58de9c-4950-5125-93e9-a0aee9f98746-q.webp",
+    "description": "EQUIPE um Robô de Alarme oculto. DISPARE para ativar um robô que persegue os inimigos que entram no alcance. Ao se aproximar do alvo, o robô explode, aplicando Vulnerável aos inimigos na área. SEGURE EQUIPAR para retirar um robô ativado.",
+    "hints": []
+  },
+  {
+    "id": "vyse-e",
+    "agentId": "vyse",
+    "name": "Rosa Arcana",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/efba5359-4016-a1e5-7626-b1ae76895940-e.webp",
+    "description": "EQUIPE uma Rosa Arcana. Mire em uma superfície e DISPARE para posicionar uma Rosa Arcana oculta, ou use o DISPARO ALTERNATIVO para posicionar a Rosa Arcana através da superfície. USE NOVAMENTE para cegar todos os jogadores que estiverem olhando para ela. A habilidade pode ser recuperada e REPOSICIONADA.",
+    "hints": []
+  },
+  {
+    "id": "omen-x",
+    "agentId": "omen",
+    "name": "Salto das Sombras",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/8e253930-4c05-31dd-1b6c-968525494517-x.webp",
+    "description": "EQUIPE um mapa tático. DISPARE para começar a se teleportar ao local selecionado. Enquanto se teleporta, Omen aparecerá como um Vulto que pode ser destruído por qualquer inimigo para cancelar o teleporte, ou PRESSIONE EQUIPAR para cancelá-lo.",
+    "hints": []
+  },
+  {
+    "id": "waylay-c",
+    "agentId": "waylay",
+    "name": "Saturação",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/df1cb487-4902-002e-5c17-d28e83e78588-c.webp",
+    "description": "EQUIPE um aglomerado de luz. DISPARE para lançar o aglomerado, que explode ao tocar no chão e Retém jogadores próximos com uma poderosa desaceleração de movimento e de armas.",
+    "hints": []
+  },
+  {
+    "id": "deadlock-q",
+    "agentId": "deadlock",
+    "name": "Sensor Sônico",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235-q.webp",
+    "description": "EQUIPE um Sensor Sônico. DISPARE para posicionar. O sensor monitora os sons dos inimigos em uma área. Causa Concussão na área se sons de passos, disparos ou qualquer barulho significativo forem detectados. O sensor pode ser recuperado e REPOSICIONADO.",
+    "hints": []
+  },
+  {
+    "id": "brimstone-c",
+    "agentId": "brimstone",
+    "name": "Sinalizador Estimulante",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/9f0d8ba9-4140-b941-57d3-a7ad57c6b417-c.webp",
+    "description": "INSTANTANEAMENTE arremesse um sinalizador estimulante. Ao pousar, ele criará um campo que concede um Estimulante de Combate e um Impulso de Velocidade aos jogadores.",
+    "hints": []
+  },
+  {
+    "id": "neon-x",
+    "agentId": "neon",
+    "name": "Sobrecarga",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/bb2a4828-46eb-8cd1-e765-15848195d751-x.webp",
+    "description": "Neon libera todo o seu poder e velocidade por um curto período, recuperando todo o combustível e uma carga de deslizamento. DISPARE para canalizar esse poder em um raio elétrico letal com alta precisão de movimento. Abates reiniciam a duração do efeito.",
+    "hints": []
+  },
+  {
+    "id": "harbor-c",
+    "agentId": "harbor",
+    "name": "Temporal",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/95b78ed7-4637-86d9-7e41-71ba8c293152-c.webp",
+    "description": "EQUIPE um Temporal. DISPARE para lançar, criando um redemoinho explosivo que causa Lentidão e Visão Turva aos jogadores dentro dele após um curto período.",
+    "hints": []
+  },
+  {
+    "id": "gekko-x",
+    "agentId": "gekko",
+    "name": "Thrash",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/e370fa57-4757-3604-3648-499e1f642d3f-x.webp",
+    "description": "EQUIPE Thrash. DISPARE para se conectar à mente dela e guiá-la pelo território inimigo. ATIVE para avançar e explodir, Detendo qualquer jogador em um pequeno raio. Ao expirar, Thrash se transforma em um glóbulo inativo. INTERAJA para recuperar o glóbulo e ganhar outra carga de Thrash após um curto período. Thrash pode ser recuperada uma vez.",
+    "hints": []
+  },
+  {
+    "id": "jett-x",
+    "agentId": "jett",
+    "name": "Tormenta de Aço",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/add6443a-41bd-e414-f6ad-e58d267f4e95-x.webp",
+    "description": "EQUIPE um conjunto de facas de arremesso altamente precisas. DISPARE para lançar uma única faca contra o alvo. As facas são recarregadas ao matar um oponente. Use o DISPARO ALTERNATIVO para jogar todas as facas restantes contra o alvo, porém elas não são recarregadas ao matar um oponente.",
+    "hints": []
+  },
+  {
+    "id": "killjoy-e",
+    "agentId": "killjoy",
+    "name": "Torreta",
+    "slot": "E",
+    "type": "signature",
+    "icon": "assets/abilities/1e58de9c-4950-5125-93e9-a0aee9f98746-e.webp",
+    "description": "EQUIPE uma Torreta. DISPARE para ativar uma torreta que atira em inimigos em um cone de 100°. Ao posicionar, EQUIPE novamente para alterar a direção da torreta, segure o DISPARO ALTERNATIVO para girar. SEGURE EQUIPAR para recolher a torreta ativada.",
+    "hints": []
+  },
+  {
+    "id": "chamber-x",
+    "agentId": "chamber",
+    "name": "Tour de Force",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/22697a3d-45bf-8dd7-4fec-84a9e28c69d7-x.webp",
+    "description": "ATIVE para invocar um poderoso fuzil de precisão personalizado que abate um inimigo com qualquer acerto na parte superior do corpo. Use o DISPARO ALTERNATIVO para mirar. Abater um inimigo cria um campo duradouro que Desacelera os jogadores dentro dele.",
+    "hints": []
+  },
+  {
+    "id": "veto-c",
+    "agentId": "veto",
+    "name": "Travessia",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/92eeef5d-43b5-1d4a-8d03-b3927a09034b-c.webp",
+    "description": "EQUIPE um vórtice. DISPARE para posicioná-lo no chão. Enquanto estiver dentro do alcance e olhando para o vórtice, ATIVE para se teleportar até ele. Durante a FASE DE COMPRA, o vórtice pode ser recolhido e REPOSICIONADO.",
+    "hints": []
+  },
+  {
+    "id": "waylay-q",
+    "agentId": "waylay",
+    "name": "Velocidade da Luz",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/df1cb487-4902-002e-5c17-d28e83e78588-q.webp",
+    "description": "EQUIPE para se preparar para um impulso de velocidade. DISPARE para avançar duas vezes. Use o DISPARO ALTERNATIVO para avançar uma vez. Só o primeiro avanço faz você subir.",
+    "hints": []
+  },
+  {
+    "id": "viper-c",
+    "agentId": "viper",
+    "name": "Veneno de Cobra",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/707eab51-4836-f488-046a-cda6bf494859-c.webp",
+    "description": "EQUIPE um lançador químico. DISPARE para lançar um cilindro que se rompe ao atingir o chão, gerando uma zona química duradoura que causa dano aos inimigos e aplica Vulnerável a eles.",
+    "hints": []
+  },
+  {
+    "id": "fade-x",
+    "agentId": "fade",
+    "name": "Véu da Noite",
+    "slot": "X",
+    "type": "ultimate",
+    "icon": "assets/abilities/dade69b4-4f5a-8528-247b-219e5a1facd6-x.webp",
+    "description": "EQUIPE o poder dos pesadelos. DISPARE para liberar uma onda implacável de energia aterrorizante. Inimigos atingidos pela onda são Marcados por rastros sinistros e sofrem Surdez e Deterioração.",
+    "hints": []
+  },
+  {
+    "id": "neon-c",
+    "agentId": "neon",
+    "name": "Via Expressa",
+    "slot": "C",
+    "type": "basic",
+    "icon": "assets/abilities/bb2a4828-46eb-8cd1-e765-15848195d751-c.webp",
+    "description": "DISPARE duas linhas de energia no chão à frente. As linhas se estendem por uma curta distância ou até atingirem uma superfície. Elas se tornam paredes de eletricidade estática que bloqueiam a visão.",
+    "hints": []
+  },
+  {
+    "id": "gekko-q",
+    "agentId": "gekko",
+    "name": "Wingman",
+    "slot": "Q",
+    "type": "basic",
+    "icon": "assets/abilities/e370fa57-4757-3604-3648-499e1f642d3f-q.webp",
+    "description": "EQUIPE Wingman. DISPARE para enviá-lo para encontrar inimigos. Wingman lança uma forte explosão na direção do primeiro inimigo que vê. Use o DISPARO ALTERNATIVO na direção de um ponto ou Spike plantada para que Wingman plante ou desarme a Spike. Para plantar, Gekko deve estar com a Spike no inventário. Quando Wingman expira, ele se transforma em um glóbulo inativo. INTERAJA para recuperar o glóbulo e ganhar outra carga de Wingman após um curto período.",
+    "hints": []
+  }
+]

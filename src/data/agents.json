@@ -1,0 +1,408 @@
+[
+  {
+    "id": "astra",
+    "name": "Astra",
+    "role": {
+      "id": "controller",
+      "name": "Controlador"
+    },
+    "country": "Gana",
+    "releaseDate": "2021-03-02",
+    "color": "#26146c",
+    "image": "assets/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf.webp",
+    "icon": "assets/icons/41fb69c1-4189-7b37-f117-bcaf1e96f1bf.webp",
+    "hints": []
+  },
+  {
+    "id": "breach",
+    "name": "Breach",
+    "role": {
+      "id": "initiator",
+      "name": "Iniciador"
+    },
+    "country": "Suécia",
+    "releaseDate": "2020-06-02",
+    "color": "#81331a",
+    "image": "assets/agents/5f8d3a7f-467b-97f3-062c-13acf203c006.webp",
+    "icon": "assets/icons/5f8d3a7f-467b-97f3-062c-13acf203c006.webp",
+    "hints": []
+  },
+  {
+    "id": "brimstone",
+    "name": "Brimstone",
+    "role": {
+      "id": "controller",
+      "name": "Controlador"
+    },
+    "country": "Estados Unidos",
+    "releaseDate": "2020-06-02",
+    "color": "#363c4f",
+    "image": "assets/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417.webp",
+    "icon": "assets/icons/9f0d8ba9-4140-b941-57d3-a7ad57c6b417.webp",
+    "hints": []
+  },
+  {
+    "id": "chamber",
+    "name": "Chamber",
+    "role": {
+      "id": "sentinel",
+      "name": "Sentinela"
+    },
+    "country": "França",
+    "releaseDate": "2021-11-16",
+    "color": "#20435b",
+    "image": "assets/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7.webp",
+    "icon": "assets/icons/22697a3d-45bf-8dd7-4fec-84a9e28c69d7.webp",
+    "hints": []
+  },
+  {
+    "id": "clove",
+    "name": "Clove",
+    "role": {
+      "id": "controller",
+      "name": "Controlador"
+    },
+    "country": "Escócia",
+    "releaseDate": "2024-03-26",
+    "color": "#4b1d80",
+    "image": "assets/agents/1dbf2edd-4729-0984-3115-daa5eed44993.webp",
+    "icon": "assets/icons/1dbf2edd-4729-0984-3115-daa5eed44993.webp",
+    "hints": []
+  },
+  {
+    "id": "cypher",
+    "name": "Cypher",
+    "role": {
+      "id": "sentinel",
+      "name": "Sentinela"
+    },
+    "country": "Marrocos",
+    "releaseDate": "2020-06-02",
+    "color": "#2f5078",
+    "image": "assets/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b.webp",
+    "icon": "assets/icons/117ed9e3-49f3-6512-3ccf-0cada7e3823b.webp",
+    "hints": []
+  },
+  {
+    "id": "deadlock",
+    "name": "Deadlock",
+    "role": {
+      "id": "sentinel",
+      "name": "Sentinela"
+    },
+    "country": "Noruega",
+    "releaseDate": "2023-06-27",
+    "color": "#425495",
+    "image": "assets/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235.webp",
+    "icon": "assets/icons/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235.webp",
+    "hints": []
+  },
+  {
+    "id": "fade",
+    "name": "Fade",
+    "role": {
+      "id": "initiator",
+      "name": "Iniciador"
+    },
+    "country": "Turquia",
+    "releaseDate": "2022-04-27",
+    "color": "#1d2846",
+    "image": "assets/agents/dade69b4-4f5a-8528-247b-219e5a1facd6.webp",
+    "icon": "assets/icons/dade69b4-4f5a-8528-247b-219e5a1facd6.webp",
+    "hints": []
+  },
+  {
+    "id": "gekko",
+    "name": "Gekko",
+    "role": {
+      "id": "initiator",
+      "name": "Iniciador"
+    },
+    "country": "Estados Unidos",
+    "releaseDate": "2023-03-07",
+    "color": "#371c5c",
+    "image": "assets/agents/e370fa57-4757-3604-3648-499e1f642d3f.webp",
+    "icon": "assets/icons/e370fa57-4757-3604-3648-499e1f642d3f.webp",
+    "hints": []
+  },
+  {
+    "id": "harbor",
+    "name": "Harbor",
+    "role": {
+      "id": "controller",
+      "name": "Controlador"
+    },
+    "country": "Índia",
+    "releaseDate": "2022-10-18",
+    "color": "#275146",
+    "image": "assets/agents/95b78ed7-4637-86d9-7e41-71ba8c293152.webp",
+    "icon": "assets/icons/95b78ed7-4637-86d9-7e41-71ba8c293152.webp",
+    "hints": []
+  },
+  {
+    "id": "iso",
+    "name": "Iso",
+    "role": {
+      "id": "duelist",
+      "name": "Duelista"
+    },
+    "country": "China",
+    "releaseDate": "2023-10-31",
+    "color": "#30336e",
+    "image": "assets/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c.webp",
+    "icon": "assets/icons/0e38b510-41a8-5780-5e8f-568b2a4f2d6c.webp",
+    "hints": []
+  },
+  {
+    "id": "jett",
+    "name": "Jett",
+    "role": {
+      "id": "duelist",
+      "name": "Duelista"
+    },
+    "country": "Coreia do Sul",
+    "releaseDate": "2020-06-02",
+    "color": "#25607a",
+    "image": "assets/agents/add6443a-41bd-e414-f6ad-e58d267f4e95.webp",
+    "icon": "assets/icons/add6443a-41bd-e414-f6ad-e58d267f4e95.webp",
+    "hints": []
+  },
+  {
+    "id": "kay-o",
+    "name": "KAY/O",
+    "role": {
+      "id": "initiator",
+      "name": "Iniciador"
+    },
+    "country": null,
+    "releaseDate": null,
+    "color": "#1c2a69",
+    "image": "assets/agents/601dbbe7-43ce-be57-2a40-4abd24953621.webp",
+    "icon": "assets/icons/601dbbe7-43ce-be57-2a40-4abd24953621.webp",
+    "hints": []
+  },
+  {
+    "id": "killjoy",
+    "name": "Killjoy",
+    "role": {
+      "id": "sentinel",
+      "name": "Sentinela"
+    },
+    "country": "Alemanha",
+    "releaseDate": "2020-08-04",
+    "color": "#522162",
+    "image": "assets/agents/1e58de9c-4950-5125-93e9-a0aee9f98746.webp",
+    "icon": "assets/icons/1e58de9c-4950-5125-93e9-a0aee9f98746.webp",
+    "hints": []
+  },
+  {
+    "id": "miks",
+    "name": "Miks",
+    "role": {
+      "id": "controller",
+      "name": "Controlador"
+    },
+    "country": null,
+    "releaseDate": "2026-03-18",
+    "color": "#462b75",
+    "image": "assets/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72.webp",
+    "icon": "assets/icons/7c8a4701-4de6-9355-b254-e09bc2a34b72.webp",
+    "hints": []
+  },
+  {
+    "id": "neon",
+    "name": "Neon",
+    "role": {
+      "id": "duelist",
+      "name": "Duelista"
+    },
+    "country": "Filipinas",
+    "releaseDate": "2022-01-11",
+    "color": "#413476",
+    "image": "assets/agents/bb2a4828-46eb-8cd1-e765-15848195d751.webp",
+    "icon": "assets/icons/bb2a4828-46eb-8cd1-e765-15848195d751.webp",
+    "hints": []
+  },
+  {
+    "id": "omen",
+    "name": "Omen",
+    "role": {
+      "id": "controller",
+      "name": "Controlador"
+    },
+    "country": null,
+    "releaseDate": "2020-06-02",
+    "color": "#433178",
+    "image": "assets/agents/8e253930-4c05-31dd-1b6c-968525494517.webp",
+    "icon": "assets/icons/8e253930-4c05-31dd-1b6c-968525494517.webp",
+    "hints": []
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "role": {
+      "id": "duelist",
+      "name": "Duelista"
+    },
+    "country": "Reino Unido",
+    "releaseDate": "2020-06-02",
+    "color": "#74321c",
+    "image": "assets/agents/eb93336a-449b-9c1b-0a54-a891f7921d69.webp",
+    "icon": "assets/icons/eb93336a-449b-9c1b-0a54-a891f7921d69.webp",
+    "hints": []
+  },
+  {
+    "id": "raze",
+    "name": "Raze",
+    "role": {
+      "id": "duelist",
+      "name": "Duelista"
+    },
+    "country": "Brasil",
+    "releaseDate": "2020-06-02",
+    "color": "#742e1e",
+    "image": "assets/agents/f94c3b30-42be-e959-889c-5aa313dba261.webp",
+    "icon": "assets/icons/f94c3b30-42be-e959-889c-5aa313dba261.webp",
+    "hints": []
+  },
+  {
+    "id": "reyna",
+    "name": "Reyna",
+    "role": {
+      "id": "duelist",
+      "name": "Duelista"
+    },
+    "country": "México",
+    "releaseDate": "2020-06-02",
+    "color": "#662d62",
+    "image": "assets/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc.webp",
+    "icon": "assets/icons/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc.webp",
+    "hints": []
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "role": {
+      "id": "sentinel",
+      "name": "Sentinela"
+    },
+    "country": "China",
+    "releaseDate": "2020-06-02",
+    "color": "#1f5148",
+    "image": "assets/agents/569fdd95-4d10-43ab-ca70-79becc718b46.webp",
+    "icon": "assets/icons/569fdd95-4d10-43ab-ca70-79becc718b46.webp",
+    "hints": []
+  },
+  {
+    "id": "skye",
+    "name": "Skye",
+    "role": {
+      "id": "initiator",
+      "name": "Iniciador"
+    },
+    "country": "Austrália",
+    "releaseDate": "2020-10-27",
+    "color": "#436a51",
+    "image": "assets/agents/6f2a04ca-43e0-be17-7f36-b3908627744d.webp",
+    "icon": "assets/icons/6f2a04ca-43e0-be17-7f36-b3908627744d.webp",
+    "hints": []
+  },
+  {
+    "id": "sova",
+    "name": "Sova",
+    "role": {
+      "id": "initiator",
+      "name": "Iniciador"
+    },
+    "country": "Rússia",
+    "releaseDate": "2020-06-02",
+    "color": "#355285",
+    "image": "assets/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa.webp",
+    "icon": "assets/icons/320b2a48-4d9b-a075-30f1-1f93a9b638fa.webp",
+    "hints": []
+  },
+  {
+    "id": "tejo",
+    "name": "Tejo",
+    "role": {
+      "id": "initiator",
+      "name": "Iniciador"
+    },
+    "country": "Colômbia",
+    "releaseDate": "2025-01-08",
+    "color": "#80451b",
+    "image": "assets/agents/b444168c-4e35-8076-db47-ef9bf368f384.webp",
+    "icon": "assets/icons/b444168c-4e35-8076-db47-ef9bf368f384.webp",
+    "hints": []
+  },
+  {
+    "id": "veto",
+    "name": "Veto",
+    "role": {
+      "id": "sentinel",
+      "name": "Sentinela"
+    },
+    "country": null,
+    "releaseDate": "2025-10-07",
+    "color": "#1a5d65",
+    "image": "assets/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b.webp",
+    "icon": "assets/icons/92eeef5d-43b5-1d4a-8d03-b3927a09034b.webp",
+    "hints": []
+  },
+  {
+    "id": "viper",
+    "name": "Viper",
+    "role": {
+      "id": "controller",
+      "name": "Controlador"
+    },
+    "country": "Estados Unidos",
+    "releaseDate": "2020-06-02",
+    "color": "#1a5f46",
+    "image": "assets/agents/707eab51-4836-f488-046a-cda6bf494859.webp",
+    "icon": "assets/icons/707eab51-4836-f488-046a-cda6bf494859.webp",
+    "hints": []
+  },
+  {
+    "id": "vyse",
+    "name": "Vyse",
+    "role": {
+      "id": "sentinel",
+      "name": "Sentinela"
+    },
+    "country": null,
+    "releaseDate": "2024-08-27",
+    "color": "#492280",
+    "image": "assets/agents/efba5359-4016-a1e5-7626-b1ae76895940.webp",
+    "icon": "assets/icons/efba5359-4016-a1e5-7626-b1ae76895940.webp",
+    "hints": []
+  },
+  {
+    "id": "waylay",
+    "name": "Waylay",
+    "role": {
+      "id": "duelist",
+      "name": "Duelista"
+    },
+    "country": "Tailândia",
+    "releaseDate": "2025-03-04",
+    "color": "#482e61",
+    "image": "assets/agents/df1cb487-4902-002e-5c17-d28e83e78588.webp",
+    "icon": "assets/icons/df1cb487-4902-002e-5c17-d28e83e78588.webp",
+    "hints": []
+  },
+  {
+    "id": "yoru",
+    "name": "Yoru",
+    "role": {
+      "id": "duelist",
+      "name": "Duelista"
+    },
+    "country": "Japão",
+    "releaseDate": "2021-01-12",
+    "color": "#222b67",
+    "image": "assets/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89.webp",
+    "icon": "assets/icons/7f94d92c-4234-0a36-9646-3a87eb8b5c89.webp",
+    "hints": []
+  }
+]
